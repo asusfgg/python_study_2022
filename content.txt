@@ -1,0 +1,2861 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="dns-prefetch" href="//shop.vipstatic.com">
+        <link rel="dns-prefetch" href="//a.vpimg2.com">
+        <link rel="dns-prefetch" href="//a.vpimg3.com">
+        <link rel="dns-prefetch" href="//a.vpimg4.com">
+        <meta http-equiv="x-dns-prefetch-control" content="on"/>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <title>唯品会</title>
+<!-- 路径匹配商品id start -->
+		<script type="text/javascript">
+			window.url = [];
+			var r = window.location.href.match(/detail-([\d]+)-([\d]+)\.html[\?]*(.*)/);
+			url.b_id = r[1];
+			url.m_id = r[2];
+			url.params = r[3];
+		</script>
+<!-- 路径匹配商品id start -->
+<!-- 移动跳转 start -->
+		<script type="text/javascript">
+			try {
+			    if (/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent) && !/MI PAD/i.test(navigator.userAgent) && window.url.m_id) {
+			        window.location.href = '//m.vip.com/product-'+window.url.b_id+'-'+ window.url.m_id +'.html?source=www';
+			    }
+			} catch (e) {}
+		</script>
+<!-- 移动跳转 end -->        <meta name="keywords" content="唯品会" />
+        <meta name="description" content="唯品会名牌时尚折扣网提供的价格、图片、最新款式等信息，正品保障，欢迎选购" />
+        <link href="//shop.vipstatic.com/css/public/shop/common-hash-1c381738.css?20220214" rel="stylesheet" type="text/css" />
+        <link href="//shop.vipstatic.com/css/public/detail/2/new_detail-hash-e1298781.css?20220214" rel="stylesheet" type="text/css" />
+        <!-- 只允许引入两个js文件 -->
+        <script src="//shop.vipstatic.com/js/public/jquery-1.10.2-hash-33c5c148.js?20220214" type="text/javascript"></script>
+        <script src="//shop.vipstatic.com/js/public/core3.1.0-hash-04d66108.js?20220214" crossorigin="anonymous" type="text/javascript"></script>
+        <!--[if IE 6]>
+            <script>
+                try{document.execCommand("BackgroundImageCache", false, true);}catch(e){}
+            </script>
+        <![endif]-->
+        <script src="//captcha.vip.com/getbootstrap"></script>
+         <script>
+        window.openhk=1;
+        window.openproxy=1;
+         </script>
+    </head>
+    <body>
+<!-- 顶部新旧积分广告 start -->
+<div class="integrate-ads hidden" id="J-integrate-ads"></div>
+<!-- 顶部新旧积分广告 end --><!-- 通顶广告模块 start -->
+		<div class="ad_for419_top" id="J_top_ads" data-adName="top_ads" style="background:url(//shop.vipstatic.com/img/share/blank.png) no-repeat center top; height:0; overflow:hidden;">
+		    <div class="warp tc">
+		        <a href="" id="J_topAds_link" target="_blank">
+		            <img id="J_topAds_img" src="//shop.vipstatic.com/img/share/blank.png">
+		        </a>
+		    </div>
+		</div>
+<!-- 通顶广告模块 end --><!-- 飞行效果 start -->
+<div id = "J_detail_fly_add"></div>
+<script type="text/html" id="J_detail_fly_add_tpl">
+<div class="shopping-flyinto hidden" id="J-min-addCart">
+    <img src="{{img}}" width="35" height="45" />
+</div>
+{{if brandStoreSn}}
+    	<div class="fly-fav-ico hidden" id="J-min-addMyFav"></div>
+{{/if}}
+</script>	
+<!-- 飞行效果 end --><script src="//common.vip.com/?type=header&jq=0&core=0&loadga=0&loadmars=0&h_urls=www.vip.com&from=detail&relevace_time=1&v=132"></script>
+<!-- 主结构容器 -->
+<div class="FW-wrap fwr">
+    <!-- 产品信息结构容器 -->
+    <div class="FW-product clearfix">
+         <!-- 店铺 start -->
+ <!-- mp店铺 id 存在时展示 -->       
+ <div id="J_mpLicenseScoreWrap" class="mp-license-score-wrap hidden"></div>
+
+<!-- 店铺评分收藏模板 -->
+<script type="text/html" id="J_mpLicenseScoreTpl">
+    <div class="mp-score-hover">
+        <a  {{if storeInfo.storeUrl != ''}} 
+                href="{{storeInfo.storeUrl}}" target="_blank"
+            {{else}}
+                href="###"
+            {{/if}}
+        >
+            <img class="mp-logo lazy" data-original="{{storeInfo.storeLogo}}" src="//shop.vipstatic.com/img/list/brand_logo_loading.png" />
+            <div class="mp-title-wrap">
+                <span class="mp-title-storename">{{storeInfo.storeName}}</span>
+                <span class="mp-title-type">{{storeInfo.storeTypeCN}}</span>
+            </div>
+        </a>
+        <div class="mp-score-wrap">
+            <div class="mp-score-content">
+                <span class="score-content-type">描述</span>
+                <span class="score-content-score">&nbsp;{{storeDSRScore.productDescScore}}</span>
+            </div>
+            <div class="mp-score-content">
+                <span class="score-content-type">服务</span>
+                <span class="score-content-score">&nbsp;{{storeDSRScore.storeServiceScore}}</span>
+            </div>
+            <div class="mp-score-content">
+                <span class="score-content-type">物流</span>
+                <span class="score-content-score">&nbsp;{{storeDSRScore.logisticServiceScore}}</span>
+            </div>
+        </div>
+        <div class="mp-ico-wrap">
+            <i class="mp-ico-dis"></i>
+            <div class="mp-score-hover-content">
+                <div class="score-hover-wrap">
+                    <div class="score-hover-msg">
+                        <div class="content-item">
+                            <div class="content-item-key">店铺名称：</div>
+                            <div class="content-item-value item-store-name">
+                                {{if storeInfo.storeUrl != ''}}
+                                <a class="" href="{{storeInfo.storeUrl}}" target="_blank">
+                                    {{storeInfo.storeName}}
+                                </a>
+                                {{else}}
+                                <a class="" href="###">
+                                    {{storeInfo.storeName}}
+                                </a>
+                                {{/if}}
+                            </div>
+                        </div>
+                        <div class="content-item">
+                            <div class="content-item-key">店铺类型：</div>
+                            <div class="content-item-value">{{storeInfo.storeTypeCN}}</div>
+                        </div>
+                        {{if storeQualificationImgList.length }}
+                        <div class="content-item">
+                            <div class="content-item-key">执照信息：</div>
+                            <div class="content-item-value">
+                                <a href="//h5rsc.vip.com/h5rscMpQualification/h5rscMpQualification/index.html?store_id={{storeId}}&brand_sn={{brand_sn}}" target="_blank">
+                                    <i class="i-license"></i>
+                                </a>
+                            </div>
+                        </div>
+                        {{/if}}
+                    </div>
+                    <div class="score-hover-num">
+                        <div class="content-item">
+                            <div class="content-item-key">商品描述：</div>
+                            <div class="content-item-value item-score-num">{{storeDSRScore.productDescScore}}</div>
+                        </div>
+                        <div class="content-item">
+                            <div class="content-item-key">商家服务：</div>
+                            <div class="content-item-value item-score-num">{{storeDSRScore.storeServiceScore}}</div>
+                        </div>
+                        <div class="content-item">
+                            <div class="content-item-key">物流服务：</div>
+                            <div class="content-item-value item-score-num">{{storeDSRScore.logisticServiceScore}}</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mp-split-line"></div>
+    <div class="mp-qrcode-wrap">
+        <div class="mp-qrcode-content">
+            <span>手机逛</span>
+            <i class="i-qr"></i>
+            <i class="mp-ico-dis"></i>
+        </div>
+        <div class="mp-qrcode-hover-content">
+            <a class="qrcode-img" href="//m.vip.com/app/?f=nav" target="_blank">
+                <img src="//b.appsimg.com/2016/06/17/863/1466134037230.jpg" width="120" height="120" alt="二维码">
+            </a>
+            <a class="qrcode-text" href="//m.vip.com/app/?f=nav" target="_blank">随时逛 及时抢</a>
+        </div>
+    </div>
+</script>
+
+<!-- 店铺右侧收藏 -->
+<script type="text/html" id="J_collectStore_tpl">
+    {{if type == 'addFavourite'}}
+    <a class="J_addStore" role="button" href="javascript:;">
+        <span class="store-collect-msg">收藏店铺<span class="store-collect-num J_storeCollectNum" data-count="{{count}}">（{{_count}}）</span></span>
+        <i class="vipFont icon-unliked">&#xe60d;</i> 
+    </a>
+    {{else}}
+    <a class="store-collect-liked J_delStore" role="button" href="javascript:;">
+        <span class="store-collect-msg cancel">取消收藏<span class="store-collect-num J_storeCollectNum" data-count="{{count}}">（{{_count}}）</span></span>
+        <span class="store-collect-msg liked">已收藏<span class="store-collect-num J_storeCollectNum" data-count="{{count}}">（{{_count}}）</span></span>
+        <i class="vipFont icon-liked">&#xe608;</i>
+    </a>
+    {{/if}}
+</script>
+
+<script type="text/html" id="J_collectStoreHover_tpl">
+    {{if type == 'addFavourite'}}
+    <div class="score-hover-btn J_addStore">
+        <span class="btn-text">收藏店铺</span>
+    </div>
+    {{else}}
+    <div class="score-hover-btn J_delStore score-hover-btn-liked">
+        <span class="btn-text liked">已收藏</span>
+        <span class="btn-text cancel">取消收藏</span>
+    </div>
+    {{/if}}
+</script>
+<!-- 店铺 end -->
+  
+        <!-- 产品位置模块 -->
+        <div class="M-class" id ="J_detail_crumbs">
+        </div>
+      
+        <div class="M-product J_M_product">
+            <div class="warmup-time-wrap hidden" id="J-warmup-time">
+                <span class="warmup-time-txt">
+                    开售时间：<em class="J-warmup-time-start"></em>
+                </span>
+            </div>
+            <div class="M-pic">
+                <!-- 商品图片 start -->
+<div id="J-mer-ImgReview">      
+</div>
+<script type="text/html" id="J_script_detail_infoPic">
+<span class="sold-tag hidden" id="J-mer-saleTag"></span>
+      <div class="pic-sliderwrap">
+    {{if mData.shortVideoUrl != ''}}
+        <div class="show-midpic short-video-wrapper">
+            <video id="J_video_source" class="video-js video-source vip-skin-design vjs-big-play-centered vjs-show-big-play-button-on-pause" webkit-playsinline="webkit-playsinline" playsinline="playsinline" preload="true" src="{{mData.shortVideoUrl}}" type="video/mp4">
+                <source src="{{mData.shortVideoUrl}}" type="video/mp4"></source>
+                <p class="vjs-no-js"> 您的浏览器不支持 HTML 5 Video 标签，请升级浏览器。</p>
+            </video>
+        </div>
+    {{/if}}
+
+    {{each picData as item itmeIndex}}
+    <div class="show-midpic {{if itmeIndex !=0 || mData.shortVideoUrl!= ''}}hidden{{/if}} {{mData.zoomPicCls}}">
+        <a href="{{item.b_img}}" class="J-mer-bigImgZoom">
+              <img class="slide-mid-pic lazy" src="//shop.vipstatic.com/img/share/blank.png" width="{{mData.imgW}}" height="{{mData.imgH}}" data-original="{{item.s_img}}" alt="" />
+        </a>
+        <em class="icon-a"></em>
+   </div>
+    {{/each}}          
+        </div>        
+        <div class="pic-sliderwrap-corner-icon f-hide" id="J_surpriseSprice_icon{{mData.midTag}}"></div>       
+        <span class="btn-waitlist" mars_sead="te_goods_buy_add_waitlist" id="J-btn-waitlist"></span>
+        {{if mData.needScroll == 1}}
+        <div class="pic-slider" id="J-sImgSlide-wrap">
+            <div id="J-sImg-wrap" class="pic-slider-wrap">
+                <div id = "J-img-content">
+                    {{if mData.shortVideoUrl != ''}}
+                    <div class="pic-slider-items J-picSlider-items" data-index="{{0}}" mars_sead="m_te_goods_buy_pic{{0}}_img">
+                        <span class="vjs-icon-play small-image-play-icon"></span>
+                        <img src="//shop.vipstatic.com/img/share/blank.png" data-original="{{mData.coverImage.s_img}}" height="62"  alt="" class="J-mer-smallImg lazy" />
+                    </div>
+                    {{/if}}
+                   {{each picData as item countIndex}}
+                        <div class="pic-slider-items J-picSlider-items" data-index="{{countIndex+1}}" mars_sead="m_te_goods_buy_pic{{item.count}}_img">
+                        <img src="//shop.vipstatic.com/img/share/blank.png" data-original="{{item.s_img}}" height="62"  alt="" class="J-mer-smallImg lazy" />
+                        </div>
+                    {{/each}}
+                </div>
+            </div>
+            <span href="###" role="button" class="ui-paging-icon-btn icon-btn-prev J-slider-lef">
+                <i class="vipFont i-hv">&#xe619;</i>
+            </span>
+            <span href="###" role="button" class="ui-paging-icon-btn icon-btn-next J-slider-rig">
+                 <i class="vipFont i-hv">&#xe61b;</i>
+            </span>
+        </div>
+        {{/if}}
+</script>
+<!-- 商品图片 end -->                <div class="product-text">
+                    <!-- 商品编码 start -->
+<p class="other-infoCoding" id = "J_detail_barCode"></p>
+<script type="text/html" id="J_script_detail_barCode">
+{{if merchandiseSn !=''}}
+商品编码：{{merchandiseSn}}
+{{/if}}
+</script>
+<!-- 商品编码 end --><!-- 收藏商品 start -->
+<div class="onsell-collect  f-hide" id="J_add_fav_wrapper">
+    <div class="goods-fav-collect" id="J_add_fav_button"
+         data-hover="goods-fav-collect-hover"
+         mars_sead="onsaledetails-col-btn">
+        <i class="star-icon star-empty-icon"></i>
+        <span class="collect-tips">收藏商品</span>
+    </div>
+    <div class="goods-fav-collected" id="J_remove_fav_button"
+         data-hover="goods-fav-collected-hover"
+         mars_sead="cancel_onsaledetails-col-btn">
+        <i class="star-icon star-full-icon"></i>
+        <span class="collect-tips had-collected">已收藏</span>
+        <span class="collect-tips cancel-collected">取消收藏</span>
+    </div>
+</div>
+
+
+<script type="text/html" id="J-addFavfail-template">
+    <div class="ui-dialog-inner">
+        <a href="javascript:;" role="button" class="ui-dialog-close vipFont" id="J-addFavfailClose">&#xe609;</a>
+        <div class="ui-dialog-content">
+            <h3 class="ui-dialog-tips  f-text-center">
+                <span class="text">
+                    <span class="vipFont if-sigh">&#xe603;</span><!--
+                     --><span id="J_favFail_text">抱歉，收藏商品失败。</span>
+                </span>
+            </h3>
+            <div class="ui-dialog-command">
+                <a href="javascript:;" role="button" class="ui-btn-medium  ui-btn-primary" id="J-couponFailRetry">重试</a><!--
+         --><a href="javascript:;" role="button" class="ui-btn-medium  ui-btn-default" id="J-couponFail">关闭</a>
+            </div>
+            <p class="lbm-cd  f-text-center"><i id="J-time-on" class="timeOn">3</i> <span>秒后弹窗将自动关闭</span></p>
+        </div>
+    </div>
+</script>
+
+<script type="text/html" id="J-addFavfail-msg-template">
+    <div class="ui-dialog-inner">
+        <a href="javascript:;" role="button" class="ui-dialog-close  vipFont" id="J-addFavfailClose">&#xe609;</a>
+        <div class="ui-dialog-content">
+            <h3 class="ui-dialog-tips  f-text-center">
+                <span class="text">
+                    <span class="vipFont if-sigh">&#xe603;</span><!--
+                     --><span id="J_favFail_text">{$msg}</span>
+                </span>
+            </h3>
+            <div class="ui-dialog-command">
+                <a href="javascript:;" role="button" class="ui-btn-medium  ui-btn-default" id="J-couponFail">关闭</a>
+            </div>
+            <p class="ui-error-code fav-fail-error-code">{$errorCodeInfo}</p>
+            <p class="lbm-cd  f-text-center"><i id="J-time-on" class="timeOn">3</i> <span>秒后弹窗将自动关闭</span></p>
+        </div>
+    </div>
+</script>
+<!-- 收藏商品 start --><!-- 分享 start -->
+<div class="pi-share-box" id="J-detailShare-wrap">    
+</div>
+<script type="text/html" id="J_script_detail_share">
+    <div class="car-share-box">
+        <div class="J_vip_share bdsharebuttonbox" widget-options='{
+            "id":"{{id}}",
+            "oid":"",
+            "scheduleid":"{{b_id}}",
+            "url":"",
+            "items":["{{img}}"],
+            "params":{"%a%":"{{m_name}}","%b%":"{{min_price}}}","%c%":"{{market_min_price}}","%d%":"{{price_discount}}","%e%":"{{b_name}}}","%g%" :"{{discount}}"},
+            "diyStyleSelf":true,
+            "md":"m_yure_goods"
+        }'></div>
+    </div>
+</script>
+<!-- 分享 start -->                </div>
+                <!-- 服务保障信息 start -->
+<div id="J-safeguard-icon"></div>
+<script type="text/html" id="J-safeguard-olduser-template">
+    <div class="pi-promise-box clearfix" >
+        <ul class="pi-promise-list">
+            <img src="//shop.vipstatic.com/img/detail/pc_xuanguan.png">
+        </ul>
+    </div>
+</script>
+<!-- 服务保障信息 end -->            </div>
+            <!-- 产品信息模块 -->
+            <div class="M-productInfo clearfix J_M_productInfo">
+                <div class="product-content-inner clearfix hasPanelView">
+                    <!-- 主体提示 start -->
+<div class="pi-title-box" id = "J_detail_info_mation">
+</div>
+<script type="text/html" id="J_script_detail_infomation">
+    {{if isHaiTao == 1}}
+        <div class="gobal-flag-box">
+                <div class="gobal-flag-img">
+                    <img src="//shop.vipstatic.com/img/share/blank.png" data-original="{{country_flag}}" class="lazy" alt="{{country_name}}" height="37">
+                </div>
+                <p class="global-name" title="{{country_name}}">{{country_name}}</p>
+            <a href="//list.vip.com/brand.html?sn={{brand_store_sn}}" class="global-brand J_brandName" target="_blank" title="{{b_name}}">{{b_name}}</a>
+        </div>
+    {{/if}}
+    <div class="pib-title">
+        {{if isHaiTao != 1}}
+            <a href="//list.vip.com/brand.html?sn={{brand_store_sn}}" class="pib-title-class J_brandName" target="_blank" mars_sead="hair_brand_click">{{b_name}}</a>
+            {{if send_by_vendor ==1}}<span class="pib-vendor-tag">商家直营</span>{{/if}}
+        {{/if}}
+        {{if isHaiTao == 1 && dutyfree == 1}}
+            <span class="pib-ferme-tag">包税</span>
+       {{/if}}
+       {{if isPreSale}}
+            <span class="pib-presale-tag">预售</span>
+        {{/if}}
+        <p class="pib-title-detail" title="{{longTitle}}">{{longTitle}}</p>
+        <p>
+            {{if channelFeature != ''}}
+                <span class="pro-title-tag">{{channelFeature}}</span>
+            {{/if}}
+        </p>
+    </div>
+</script>
+<!-- 主体提示 end --><!-- OXO模块 start -->
+<div id = "J_oxoMode_detail">
+</div>
+<script type="text/html" id="J_oxoMode_detail_tpl">
+    <dl class="pi-oxo-box clearfix">
+        <dt class="pi-oxo-title"><i class="pi-oxo-tag-icon"></i><span class="pi-oxo-tag">门店直送</span></dt>
+        <dd class="pi-oxo-txt">品牌门店同步新款上市</dd>
+      </dl>
+</script>
+<!-- OXO模块 end --><!-- 终端页中部广告 start -->
+<div class="J-ad-atmosphere  f-hide"></div>
+<!-- 终端页中部广告 end --><!-- 商品价格 start -->
+<div class="pi-price-box hasSpecialSvip special-price clearfix" id="J-pi-price-box">
+    <div id ="J-panelView-wrap" class ="quotaInfo-wrap hidden">
+        <img src =""  class="J_bgimg bgimg">
+        <div class="J_panelView_content">
+            <div class="preheatTips-content J_panelView_left">
+            </div>
+            <div class="onsell-collect hidden" id="J_add_fav_wrapper_banStatus">
+                <div class="goods-fav-collect" id="J_add_fav_button_banStatus">
+                    <span class="collect-tips">收藏</span>
+                </div>
+                <div class="goods-fav-collected" id="J_remove_fav_button_banStatus">
+                    <span class="collect-tips had-collected">已收藏</span>
+                    <span class="collect-tips cancel-collected">已收藏</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="//shop.vipstatic.com/img/detail/u-pink-loadding.gif" class="price-loadding J_price-loadding">
+    <div id="J-specialPrice-wrap" class="clearfix">
+    </div>
+    <!-- 预付 -->
+    <div id = "J_price_mod">
+    </div>
+
+    <!-- 价格组成 海淘时展示.z-ui-tooltips-in -->
+    <div id="J-price-detail" class="pbox-details hidden">
+        价格组成
+        <div class="ui-tooltips ui-tooltips-top-right-arrow"> <div class="ui-tooltips-arrow"> <i class="arrow arrow-out">◆</i> <i class="arrow">◆</i> </div> <div class="ui-tooltips-content"> <p class="ui-tooltips-msg">
+        <span class="ui-tooltips-title">价格组成=完税价+跨境电子商务零售进口税</span>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根据关税司2016年3月24日颁布的跨境电子商务零售进口税收政策以及财关税〔2016〕18号文，在限值以内进口的跨境电子商务零售进口商品，关税税率暂设为0%，进口环节增值税、消费税取消免征税额，暂按法定应纳税额的70%征收。<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根据财关税〔2018〕49号公告，跨境电子商务零售进口商品的单次交易限额为人民币5000元，个人年度交易限额为人民币26000元。完税价格超过5000元单次交易限值但低于26000元年度交易限值，且订单下仅一件商品时，可以自跨境电商零售渠道进口，按照货物税率全额征收关税和进口环节增值税、消费税，交易额计入年度交易总额，但年度交易总额超过年度交易限值的，应按一般贸易缴税。</p> </div> </div>
+    </div>
+         
+    <div class="pbox-pms">
+        <div class="pbox-pms-wrap" id="J-pmsContent">
+            <span class="pbox-pms-moreact" id="J-pms-moreact">更多活动<i class="vipFont">&#xe616;</i></span>
+            <span class="pbox-pms-packup" id="J-pms-packup">收起<i class="vipFont">&#xe615;</i></span>
+            <div class="J_fallingLongTips_wrap hidden">
+                <dl class="clearfix ">
+                    <dt class="pp-class">降价</dt>
+                    <dd class="pp-con J_fallingLongTips"></dd>
+                </dl>
+            </div>
+            <div class="pmsContent">
+            </div>
+        </div>
+    </div>
+    <div class="additional-pms-tips hidden" id="J_additional_pms">
+        <ul class="clearfix pms-additional-tips-wrapper" id="J_additional_pms_tips_wrapper"></ul>
+    </div>
+</div>
+<!-- 商品价格 end -->
+
+<!-- 预付价格模板 -->
+<script type="text/html" id="J_prepayPrice_template">
+    {{if priceView.bgImg }}
+    <img src ="{{priceView.bgImg | delProtocolHeader}}"  class="J_price_bgimg price_bgimg">
+    {{/if}}
+    <div class="special-price  hasSpecialSvip clearfix">
+    <div class="spcecialPrice-box hasSpecialSvip"> 
+        <div class="sp-info">
+            {{if salePrice.salePriceTips}}                            
+                <span class="sp-allowanceTitle">{{salePrice.salePriceTips}}</span>             
+            {{/if}}
+            <i class="pbox-yen">&yen;</i>
+            <span title="{{salePrice.salePrice}}" class="sp-price">{{salePrice.salePrice}}</span>
+            <span class="sp-postfix">{{salePrice.salePriceSuff}}</span>            
+            <span class="prepay-special-field" title="{{salePrice.salePriceTag}}">{{salePrice.salePriceTag}}</span>
+            {{if priceView.referPrice && priceView.referPrice.referPrice}}
+            <div class="clearfix J-prepay-vipPrice"></div>
+            <div class="sp-prepay-info">
+                <span class="pbox-price-txt">{{priceView.referPrice.referPriceTips}}</span>&yen;<em class="J-price">{{priceView.referPrice.referPrice}}<em class="price-postfix">{{priceView.referPrice.referPriceSuff}}</em></em>
+            </div>
+            {{/if}}
+        </div>
+        
+    </div>
+    <div class="clearfix">
+        <p class="prepay-date-info prepay-deadline clearfix">
+            <span class="prepay-deadline-title">定金：</span>
+            <span class="prepay-deadline-content">{{first_pay_time_to}}</span>
+        </p>
+        <p class="prepay-date-info prepay-finalpay-date">
+            <span class="finalpay-date-title">支付尾款时间：</span>
+            <span class="finalpay-date-content">{{last_pay_time_from}}</span>
+        </p>
+
+    </div>
+    </div>
+</script>
+
+<!-- 预付流程 -->
+<script type="text/html" id="J_prepayStep_template">
+<div class="prpay-steps clearfix">
+    <ul class="prpay-steps-list">
+        <li class="prpay-steps-item prpay-steps-hd">
+            <h5>预定流程</h5>
+            <i class="arrow-steps-gray"></i>
+            <div class="tooltips-trigger" data-toggle="tooltip">
+            <i class='vipFont if-query if-size-16'>&#xe605;</i>
+
+                            </div>
+        </li>
+        <li class="prpay-steps-item prpay-steps-first">
+            <div class="prpay-steps-0">
+                <i class="pre-step-icons"></i>
+                <h5>支付定金：<span class="J_prepay_first_money">{{prepayTotal}}</span></h5>
+                <p><span class="prepay-time">{{first_pay_time_to_step}}前</span>付定金</p>
+            </div>
+            <i class='arrow-steps-gray'></i>
+            <i class="arrow-steps-white"></i>
+        </li>
+        <li class="prpay-steps-item prpay-steps-second">
+            <div class="prpay-steps-1">
+                <i class="pre-step-icons"></i>
+                <h5>支付尾款：<span class="J_prepay_final_money">{{finalMoneyTotal}}</span></h5>
+                <p>
+                    <span class="prepay-time">{{last_pay_time_from_step}}-{{last_pay_time_to_step}}</span>
+                </p>
+                <p>请在<a href="//order.vip.com/order/orderlist?tabChannel=presell" target="_blank" class='prpay-strong'>我的订单-预定订单</a>查找订单支付尾款</p>
+                <p>因个人原因逾期未支付尾款，定金不予退还</p>
+            </div>
+            <i class='arrow-steps-gray'></i>
+            <i class="arrow-steps-white"></i>
+        </li>
+        <li class="prpay-steps-item prpay-steps-third">
+            <div class="prpay-steps-2">
+                <i class="pre-step-icons"></i>
+                <h5>收货，完成交易</h5>
+                <p>成功支付尾款后，我们将及时安排发货</p>
+            </div>
+        </li>
+    </ul>
+</div>
+</script>
+
+<!-- 腰带（预告，限量）模板 -->
+<script type="text/html" id="J_panelView_tpl" >
+    {{if salePrice && salePrice.salePrice}}
+    <div class="panelView-price">
+        <i class="pbox-yen">&yen;</i><span class="preheatTips-price">{{salePrice.salePrice}}</span>
+        <span class="banStatusSuff">{{salePrice.salePriceSuff}}</span>
+        <span class="preheatTips-tag">{{salePrice.salePriceTips}}</span>
+    </div>
+    {{/if}}
+    <div class="preheatTips-quotaInfo">
+        <div class="totalQuotaTips">{{mainText.msg}}</div>
+        {{if subText && subText.msg}}
+        <div class="finalQuotaTips">{{subText.msg}}</div>
+        {{/if}}
+    </div>
+</script>
+<!-- 专享价模版 -->
+<script type="text/html" id="J_pms_specialPrice_tpl">   
+    {{if priceView.bgImg}}
+    <img src ="{{priceView.bgImg | delProtocolHeader}}"  class="J_price_bgimg price_bgimg">
+    {{/if}}
+    <div class="spcecialPrice-box">
+        <div class="sp-info"> 
+        {{if (!priceView.sellPriceTags || priceView.sellPriceTags.length <=0) && (!salePrice.salePriceTag || salePrice.salePriceTag == '')}}<!-- 1行样式-->
+                <div class="price-line">
+                {{if salePrice.salePriceTipsIcon}} 
+                <span><img src ="{{salePrice.salePriceTipsIcon | delProtocolHeader}}" class="sales-price-icon"></span>
+                {{/if}}
+                {{if salePrice.salePriceTips}}
+                    <!-- 虽然只有补贴价和直降会返回标签，前端还是再兼容一下 -->                
+                    <span class="sp-allowanceTitle">{{salePrice.salePriceTips}}</span>             
+                {{/if}}               
+                <i class="pbox-yen">&yen;</i>
+                <span title="{{salePrice.salePrice}}" class="sp-price">{{salePrice.salePrice}}</span>
+                <span class="sp-postfix">{{salePrice.salePriceSuff}}</span>    
+               
+                {{if salePrice.saleMarketPrice}}
+                    <span class="pbox-market">&yen;<del class="marketPrice">{{salePrice.saleMarketPrice}}</del></span>
+                {{/if}}
+
+                {{if salePrice.saleDiscount}}
+                    <span class="sp-discount">{{salePrice.saleDiscount}}</span>
+                {{/if}}
+                </div>
+        {{else}}
+              <!-- 2行样式--> 
+                {{if priceView.sellPriceTags && priceView.sellPriceTags.length >0}}
+                    <!-- 有券后价-->
+                    <div class="price-line-one">
+                    {{if salePrice.salePriceTipsIcon}} 
+                    <span><img src ="{{salePrice.salePriceTipsIcon | delProtocolHeader}}" class="sales-price-icon"></span>
+                    {{/if}}          
+                    {{if salePrice.salePriceTips}}
+                        <!-- 虽然只有补贴价和直降会返回标签，前端还是再兼容一下 -->                
+                        <span class="sp-allowanceTitle">{{salePrice.salePriceTips}}</span>             
+                    {{/if}} 
+                    
+                    <i class="pbox-yen">&yen;</i>
+                    <span title="{{salePrice.salePrice}}" class="sp-price">{{salePrice.salePrice}}</span>
+                    <span class="sp-postfix">{{salePrice.salePriceSuff}}</span>                   
+
+                     <span class="superVip-content J_sellPriceTags">
+                    {{if priceView.sellPriceTags }}
+                        {{each priceView.sellPriceTags as value}}
+                            <span class="{{if value.type == 'exclusive'}}superVip{{else}}fullReduction{{/if}}">
+                                <span class="superVip-title">{{value.priceTips}}</span>
+                                <span class="superVip-price">&yen;{{value.vipPrice}}{{if value.vipPriceSmall}}<span class="vip-price-small">.{{value.vipPriceSmall}}</span>{{/if}}{{value.priceSuff}}</span>
+                            </span>
+                        {{/each}}
+                    {{/if}}
+                    </span>
+                </div>
+                <div class="price-line-tow">
+                    {{if salePrice.salePriceTag}}
+                    <span class="tag-tips">{{salePrice.salePriceTag}}</span>
+                    {{else}}                    
+                        {{if salePrice.saleMarketPrice}}
+                            <span class="pbox-market-two-line">&yen;<del class="marketPrice">{{salePrice.saleMarketPrice}}</del></span>
+                        {{/if}}
+
+                        {{if salePrice.saleDiscount}}
+                            <span class="sp-discount">{{salePrice.saleDiscount}}</span>
+                        {{/if}}
+                    {{/if}}
+
+                </div>
+            {{else}}
+                <div class="price-line-one">
+                    {{if salePrice.salePriceTipsIcon}} 
+                    <span><img src ="{{salePrice.salePriceTipsIcon | delProtocolHeader}}" class="sales-price-icon"></span>
+                    {{/if}}         
+                    {{if salePrice.salePriceTips}}
+                        <!-- 虽然只有补贴价和直降会返回标签，前端还是再兼容一下 -->                
+                        <span class="sp-allowanceTitle">{{salePrice.salePriceTips}}</span>             
+                    {{/if}}
+                    <i class="pbox-yen">&yen;</i>
+                    <span title="{{salePrice.salePrice}}" class="sp-price">{{salePrice.salePrice}}</span>
+                    <span class="sp-postfix">{{salePrice.salePriceSuff}}</span>
+                    {{if salePrice.saleMarketPrice}}
+                        <span class="pbox-market">&yen;<del class="marketPrice">{{salePrice.saleMarketPrice}}</del></span>
+                    {{/if}}
+
+                    {{if salePrice.saleDiscount}}
+                        <span class="sp-discount">{{salePrice.saleDiscount}}</span>
+                    {{/if}}                    
+                </div>
+                <div class="price-line-tow">
+                    {{if salePrice.salePriceTag}}
+                    <span class="tag-tips">{{salePrice.salePriceTag}}</span>
+                    {{/if}}
+
+                </div>
+                {{/if}}
+           
+                
+            {{/if}}
+        </div>
+        <!-- 倒计时和进度条 -->
+        <div class="sp-time-progress">
+            <div class="progress-line">
+                {{if !saleDesc && !saleLabel && !(salePrice.salePriceTimeType ==2  && salePrice.salePriceTime)}}
+                    <div class="no-desc-icon"></div>
+                {{else if ((saleDesc || saleLabel) && !(salePrice.salePriceTimeType ==2  && salePrice.salePriceTime)) ||
+                    ((salePrice.salePriceTimeType ==2  && salePrice.salePriceTime) &&  (!saleDesc && !saleLabel))
+                }}
+                    <div class="no-desc-icon-one"></div>
+                {{/if}}
+                {{if salePrice.typeIcon}}
+                    <div class="type-icon-div"><img src ="{{salePrice.typeIcon | delProtocolHeader}}"  class="typeIcon"></div>
+                {{else}}
+                    <div class="no-type-icon"></div>
+                {{/if}}
+
+                <div class="sp-time J_sp_time hidden">    
+                    <span class="sp-time-inner">
+                        <span class="J_sp_time_static hidden">
+                            <em class="J-sp-time-D"></em>天<em class="J-sp-time-H"></em>小时
+                        </span>
+                        <span class="J_sp_time_countDown hidden">
+                            <em class="J-sp-time-H"></em>:<em class="J-sp-time-M"></em>:<em class="J-sp-time-S"></em>
+                        </span>
+                    </span>后结束
+                </div>
+                {{if saleDesc}}
+                <div class="progress-bar-concent ">
+                    <div class="progress-bar-box">
+                        <div class="progress-bar J_progress_bar"></div>
+                    </div>
+                    <div class="progress-bar-text">{{saleDesc}}</div>
+                </div>
+                {{else if saleLabel}}
+                <!-- //跟进度条样式一样 用同一个类了 与进度条互斥的 -->
+                <div class="progress-bar-concent ">
+                    <div class="progress-bar-text">{{saleLabel}}</div>
+                </div>
+                {{/if}}
+            </div>
+        </div>  
+    </div>
+   
+    <!-- 唯品价 -->
+   
+    <!-- 专享价有唯品价展示唯品价 -->
+   
+</script>
+<!-- 超级vip -->
+<script type="text/html" id="J_SVIP_tpl">
+   
+</script>
+
+                    <div class="clearfix"></div>
+                    <div class="pi-attr-box " id="J-proData-box">
+                        <form id="J-cartAdd-frm" class="cartAdd-form" method="post" action="//cart.vip.com/te2/add.php">
+                            <input type="hidden" name="act" value="add" />
+                            <input type="hidden" name="client_time" value="" />
+                            <div id = "J_sivp_view"></div>
+<!-- 促开通/促续费入口 -->
+<script type="text/html" id="J_svip_entrance_tpl">
+    <div class="svip_view_entrance" >
+        {{if svipView.mainText && svipView.mainText.msg &&svipView.btn && svipView.btn.text}}
+        <div class="main-text">{{svipView.mainText.msg}}</div>
+        <div class="btn-text J_svip_ent_link" mars_sead="pc_svip_promotion_click">
+            <div class="button_png"><img src="//shop.vipstatic.com/img/detail/svip/svip_banner_button.png"></div>
+            <div class="button_txt">{{svipView.btn.text}}<span class="button_ico"><img src="//shop.vipstatic.com/img/detail/svip/icon_forward_golden.png"></span></div>
+        {{/if}}
+    </div>
+</script>
+
+<script type="text/html" id="J_svip_dialog_tpl">
+    <div class="svip-dialog" >
+    	<div class="close-div" mars_seard="pc_svip_promotion_close_click1"><img class= "J_svip_close" src="//shop.vipstatic.com/img/detail/svip/pc_popup_close.png"></div>
+    	<div class="svip-tips">{{tips}}</div>
+    	<div class="qrcode-div"><img class="qrcode-img" src="//shop.vipstatic.com/img/detail/svip/svip_qrcode.png"></div>
+    	<div class="J_svip_close_know know-div" mars_seard="pc_svip_promotion_close_click2"></div>
+        <div class="qrcode_tips" >开通账号以小程序端登录账号为准，如需切换请前往“唯品会小程序-个人中心-切换账号"</div>               
+</script>
+
+<!-- 配送模块 start -->
+<div id = "J_product_delivery"></div>
+<script type="text/html" id="J_product_delivery_tpl">
+<dl class="g-delivery-address clearfix" id="J_address_module">
+    <dt class="c-delivery-address-name">配送</dt>
+    <dd class="J_delivery_warehouse_container c-delivery-address-warehouse hidden">
+        <span class="J_delivery_warehouse_cnt delivery-address-warehouse-msg"></span><span
+            class="delivery-address-warehouse-txt">至</span>
+    </dd>
+    <dd class="c-delivery-address-box">
+        <div id="J_address_box" mars_sead="m_te_goods_buy_address_click" class="delivery-address-box" data-id="0"
+             data-flag="province">
+            <div class="delivery-address-info">
+                <p class="delivery-address-tips">
+                    <span id="J_tab_default_name">请选择省市区</span>
+                    <span id="J_tab_dynamic_name" class="hidden">
+                            <em id="J_tab_province_name"></em>
+                            <em id="J_tab_city_name"></em>
+                            <em id="J_tab_country_name"></em>
+                            <em id="J_tab_street_name"></em>
+                        </span>
+                </p>
+                <i class="vipFont delivery-address-up">&#xe616;</i>
+                <i class="vipFont delivery-address-down">&#xe615;</i>
+            </div>
+            <div class="delivery-address-main">
+                <div class="delivery-address-inner-box">
+                    <ul class="delivery-address-select-list clearfix">
+                        <li id="J_tab_province"
+                            class="J_address_tab delivery-address-select-item delivery-address-select-curr"
+                            data-flag="province">
+                            <span>省份</span>
+                        </li>
+                        <li id="J_tab_city" class="J_address_tab delivery-address-select-item hidden" data-flag="city">
+                            <span>城市</span>
+                        </li>
+                        <li id="J_tab_country" class="J_address_tab delivery-address-select-item hidden"
+                            data-flag="country">
+                            <span>县区</span>
+                        </li>
+                        <li id="J_tab_street" class="J_address_tab delivery-address-select-item hidden"
+                            data-flag="street">
+                            <span>街道</span>
+                        </li>
+                    </ul>
+                    <div class="delivery-address-content">
+                        <ul id="J_province_container"
+                            class="J_address_container delivery-address-province-list clearfix"></ul>
+                        <ul id="J_city_container"
+                            class="J_address_container delivery-address-city-list hidden clearfix"></ul>
+                        <ul id="J_country_container"
+                            class="J_address_container delivery-address-area-list hidden clearfix"></ul>
+                        <ul id="J_street_container"
+                            class="J_address_container delivery-address-street-list hidden clearfix"></ul>
+                    </div>
+                </div>
+                <span class="vipFont delivery-address-close" id="J_address_box_close">&#xe609;</span>
+            </div>
+        </div>
+    </dd>
+    <dd class="c-delivery-address-other">
+        <p class="J_delivery_error_tips delivery-address-txt hidden">当前地区暂不支持配送</p>
+        <p class="J_delivery_stock_tips delivery-address-stock-txt hidden">当前选择地区无货!</p>
+    </dd>
+    <dd class="notice-msg"><i class="i-notice-msg"></i>请选择收货地区</dd>
+</dl>
+{{ if isPreSale == 1}}
+<div class="c-delivery-message-box">{{preSaleTips}}</div>
+{{/if}}
+<div class="J_delivery_time_container g-delivery-message clearfix"></div>
+</script>
+<!-- 配送模块 end --><!-- 运费模块 start -->
+<dl class="i-freight clearfix hidden" id="J_freight_frame">
+    <dt class="freight-name">运费</dt>
+    <span id="J_freight_tips" class="freight_tips"></span>
+    <dd class="freight-con" id="J_freightTip_wrap">
+         <div class="loan-tips" data-toggle="tooltip">
+                <a class="vipFont J-loan-tips-mars" href="javascript:"
+                   mars_sead_hover="">&#xe62f;</a>
+                <div class="loan-tips-box ui-tooltips ui-tooltips-top-arrow tips-box">
+                    <div class="ui-tooltips-arrow">
+                        <i class="arrow arrow-out">&#9670;</i>
+                        <i class="arrow">&#9670;</i>
+                    </div>
+                    <div class="ui-tooltips-content">
+                        <p id="J_freightTip_des"  class="freightTip_des">                           
+                        </p>
+                    </div>
+                </div>
+        </div>
+    </dd>
+</dl>
+<!-- 运费模块 end --><!-- 颜色 start -->
+<div id="J_detail_color"></div>
+
+<script type="text/html" id="J_detail_color_tpl">
+{{if colorList && colorList.length > 0 && showColor}}
+<dl class="i-color clearfix">
+    <dt class="color-name">{{colorTitle}}</dt>
+    <dd class="color-list">
+        {{if colorCount <= 12 }}
+        <ul class="clearfix">
+            {{each colorList as oneColor}}           
+            <li class="color-list-item">
+                <a id="J-colorItem-{{oneColor.id}}" href="{{oneColor.link}}"
+                   title="{{oneColor.name}}" class="J-colorItem {{if oneColor.selected ==1}}color-selected{{/if}}">
+                                <span class="color-pic-wrapper">
+                                    <img class="lazy" src="//shop.vipstatic.com/img/te/loading_b.gif"
+                                         data-original="{{oneColor.icon}}"
+                                         width="28" height="28"
+                                         alt="{{oneColor.name}}"
+                                         mars_sead="m_te_goods_buy_color_check">
+                                </span>
+                    {{ if oneColor.name }}
+                    <span class="color-item-name">{{oneColor.name}}</span>
+                    {{/if}}
+                    <span class="i-select"></span>
+                    <span class="i-chance"></span>
+                </a>
+            </li>
+            {{/each}}
+        </ul>
+        {{else}}
+        <select name="size_id" id="J_multi_color_selector">
+            {{each colorList as oneColor}}  
+            <option id="J-colorItem-{{oneColor.id}}" href="{{oneColor.link}}"
+                    title="{{oneColor.name}}" class="J-colorItem {{if oneColor.selected ==1}}color-selected{{/if}}"
+                    value="{{oneColor.link}}">
+                {{oneColor.name}}
+            </option>
+            {{/each}}
+        </select>       
+        {{/if}}        
+    </dd>
+</dl>
+{{/if}}
+</script>
+<!-- 颜色 end --> <!-- 尺码 start -->
+ <div id="J_detail_size"></div>
+ <script type="text/html" id="J_detail_size_tpl">
+    <dl class="i-size clearfix J-sizeArea-wrap {{if sizeCount ==1 && sizeList[0].name =='均码' && allowHideSize==1}}hidden{{/if}}" id="J-sizeArea-wrap">
+    <dt class="size-name">{{sizeTitle}}</dt>
+    <dd class="J-i-notice-msg notice-msg"><i class="i-notice-msg"></i>请选择尺码</dd>
+    <dd class="size-list">
+        {{if sizeCount <= 12}}
+        <ul class="clearfix">
+            {{each sizeList as oneSize}}
+            <li class="size-list-item {{if oneSize.invisible}}sli-disabled{{/if}} {{if oneSize.detailStatus==2}}J-warm-s-item{{else}}J-sizeID{{/if}}"
+                id="J-cartAdd-sizeID-{{oneSize.id}}" data-size-name="{{oneSize.name}}"
+                data-hover="size-list-item-hover" data-id="{{oneSize.id}}"
+                mars_sead="m_te_goods_buy_size_check" title="{{oneSize.name}}">
+                <input type="radio" value="{{oneSize.id}}" name="size_id"
+                       class="J-radio"  />
+                <span class="size-list-item-name">{{oneSize.name}}</span>
+                <span class="i-select"></span>
+                <span class="i-recommand"></span>
+                <span class="J-size-waitlist size-waitlist" mars_sead="te_goods_buy_waitlist_order"></span>
+                {{if oneSize.invisible}}
+                <div class="ui-tooltips  ui-tooltips-top-arrow size-guide-tooltips size-area-tooltips">
+                    <div class="ui-tooltips-arrow">
+                        <span class="arrow  arrow-out">◆</span>
+                        <span class="arrow">◆</span>
+                    </div>
+                    <div class="ui-tooltips-content">
+                        <span class="size-area-text">该地区无货</span>
+                    </div>
+                </div>
+                {{/if}}
+            </li>
+            {{/each}}
+        </ul>
+        {{else}}
+        <select name="size_id" id="J-cartAdd-sizeID" class="hidden">
+           {{each sizeList as oneSize}}
+            <option value="{{oneSize.id}}" id="J-cartAdd-sizeID-{{oneSize.id}}"
+                    data-size-name="{{oneSize.name}}" mars_sead="m_te_goods_buy_size_check">
+                {{oneSize.name}}
+            </option>
+            {{/each}}
+        </select>
+        {{/if}}
+        <div class="J_sizeTips_recommend size-list-tips hidden">根据当前尺码信息为您推荐：<span class="J_recommend_size"></span></div>
+        <div class="J_sizeTips_input size-list-tips hidden">录入您的尺码信息，精准推荐尺码：<a class="J_size_helper_trigger_btn" mars_sead="input_size">录入尺码信息</a></div>
+        {{if sizeCount > 1 || (sizeCount ==1 && (sizeList[0].name !='均码' || allowHideSize !=1))}}
+        <div class="size-table hidden" id="J-check-sizetable" mars_sead="te_goods_buy_size_btn">
+            查看尺码表
+        </div>
+        <div class="size-table size-table-tip hidden J-sideAide-btn-con" id="J-sideAide-btn-con"
+             mars_sead="shop_detail_assistant_btn1">
+            <span id="J-sideAide-btn" class="sideAide-btn J-sideAide-btn">尺码小帮手</span>
+
+            <div class="ui-tooltips ui-tooltips-top-center-arrow" id="J-sideAide-tips">
+                <div class="ui-tooltips-arrow">
+                    <span class="arrow arrow-out">&#9670;</span>
+                    <span class="arrow">&#9670;</span>
+                </div>
+                <div class="ui-tooltips-content">
+                    <p>对照身高、体重选择适合你的尺码</p>
+                </div>
+            </div>
+        </div>
+       
+        <div class="c-size-helper hidden J_size_helper_trigger">
+            <div class="size-helper-trigger">
+                <div class="size-helper-trigger-text J_size_helper_trigger_btn" mars_sead="shop_detail_sizehelp_btn">
+                    尺码小帮手
+                </div>
+            </div>
+            <div class="size-helper-notice hidden J_new_size_helper_alert">
+                <div class="size-helper-notice-inner J_size_helper_trigger_btn">
+                    <div class="size-helper-notice-text">录入你的身高体重等数据，为你精准推荐尺码</div>
+                </div>
+                <a href="###" class="button-size-helper-notice-close J_close_alert_btn"
+                   rel="nofollow" role="button" title="关闭提示">关闭</a>
+            </div>
+        </div>
+        {{/if}}
+    </dd>
+</dl>
+<ul class="error-tips-list hidden" id="J_error_tips_list">
+    <li>抱歉，该商品暂无可选尺码，请看看其他商品~</li>
+</ul>
+</script>
+
+<script type="text/html" id="J-nosizeID-haveChance-tipsBox">
+    <div class='{$waitTips}'>
+        <div class="ui-tooltips ui-tooltips-top-arrow size-pop J-nosizeData-item">
+            <div class="ui-tooltips-arrow">
+                <i class="arrow arrow-out">&#9670;</i>
+                <i class="arrow">&#9670;</i>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script type="text/html" id="J-nosizeID-haveChance-newTipsBox">
+    <div class="ui-tooltips  ui-tooltips-top-arrow  size-guide-tooltips J_size_guide_tolltips">
+        <div class="ui-tooltips-arrow">
+            <span class="arrow  arrow-out">&#9670;</span>
+            <span class="arrow">&#9670;</span>
+        </div>
+        <div class="ui-tooltips-content">
+            <table class="size-guide-table">
+                <tbody class="J_newTipsBox_tbody_{$sizeId}">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</script>
+
+
+<script type="text/html" id="J-size-newTipsBox">
+    <div class="ui-tooltips  ui-tooltips-top-arrow  size-guide-tooltips J_size_guide_tolltips">
+        <div class="ui-tooltips-arrow">
+            <span class="arrow  arrow-out">&#9670;</span>
+            <span class="arrow">&#9670;</span>
+        </div>
+
+        <div class="ui-tooltips-content">
+            <p class="size-pop-recom size-pop-recom-sale-out">
+                <span class="J-size-see-more size-see-more" mars_sead="m_te_goods_buy_size_same">查看同款 &gt</span>
+                该尺码已经没货了，看看其他商品吧！
+            </p>
+            <p class="size-pop-recom size-pop-recom-simple">尺码小帮手推荐您选择该尺码。</p>
+            <table class="size-guide-table">
+                <tbody class="J_newTipsBox_tbody_{$sizeId}">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</script>
+
+<script type="text/html" id="J-chanceSize-tips">
+    <div class="ui-tooltips ui-tooltips-top-arrow size-pop J-sizeData-item">
+        <div class="ui-tooltips-arrow">
+            <i class="arrow arrow-out">&#9670;</i>
+            <i class="arrow">&#9670;</i>
+        </div>
+    </div>
+</script>
+
+<script type="text/html" id="J-sizeData-tpl">
+    <div class="ui-tooltips ui-tooltips-top-arrow size-pop J-sizeData-item">
+        <div class="ui-tooltips-arrow">
+            <i class="arrow arrow-out">&#9670;</i>
+            <i class="arrow">&#9670;</i>
+        </div>
+        <div class="ui-tooltips-content">
+            <p class="size-pop-recom size-pop-recom-sale-out">
+            <span class="J-size-see-more size-see-more" mars_sead="m_te_goods_buy_size_same">查看同款 &gt</span>
+            该尺码已经没货了，看看其他商品吧！ </p>
+            <p class="size-pop-recom size-pop-recom-simple">尺码小帮手推荐您选择该尺码。</p>
+            <div class="pop-list-wrap">
+                <ul class="pop-size-list clearfix">
+                    {#size_item}
+                    <li class="fl"><span>{$item_name}：{$item_val}</span></li>
+                    {#/size_item}
+                </ul>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script type="text/html" id="J-sizeID-haveChance-tipsBox">
+    <div class="ui-tooltips ui-tooltips-top-arrow size-pop J-sizeData-item">
+        <div class="ui-tooltips-arrow">
+            <i class="arrow arrow-out">&#9670;</i>
+            <i class="arrow">&#9670;</i>
+        </div>
+        <div class="ui-tooltips-content">
+            <div class="pop-list-wrap">
+                <ul class="pop-size-list clearfix">
+                    {#size_item}
+                    <li class="fl"><span>{$item_name}：{$item_val}</span></li>
+                    {#/size_item}
+                </ul>
+            </div>
+        </div>
+    </div>
+</script>
+
+
+<!-- 尺码 end --><!-- 购买数量 start -->
+<dl class="i-num clearfix" id="J-num-select">
+    <dt class="num-name">数量</dt>
+    <div class="ui-tooltips-warning ui-tooltips ui-tooltips-top-arrow goods-num-error-tips J_goods_num_error_tips">
+        <div class="ui-tooltips-arrow">
+            <i class="arrow arrow-out">&#9670;</i>
+            <i class="arrow">&#9670;</i>
+        </div>
+        <div class="ui-tooltips-content">
+            <p class="ui-tooltips-msg">
+                <span class="vipFont if-sigh">&#xe620;</span>
+                <span class="J-num-tips"></span>
+            </p>
+        </div>
+    </div>
+    <dd class="ui-quantity num-box">
+        <a href="javascript:;" role="button"
+           class="vipFont num-reduce z-disable J-num-act-reduce">&#xe60b;</a>
+        <em class="amount num-input J-pro-num-txt">1</em>
+        <input type="hidden" value="1" name="num" id="J-num-input"/>
+        <a href="javascript:;" role="button" class="vipFont num-add J-num-act-add">&#xe60e;</a>
+    </dd>
+    <dd class="num-msg hidden" id="J-proStock-type"></dd>
+</dl>
+<!-----------------todo  ---->
+<script type="text/html" id="J-topbar-pop-template">
+    <div class="M-win">
+        <i class="vipFont win-close" id="J-topbar-pop-close">&#xe609;</i>
+        
+        
+        <dl class="i-num clearfix" id="J-topbarNum-select">
+            <dt class="num-name">数量：</dt>
+            <dd class="notice-msg J-num-tips"><i class="i-notice-msg"></i></dd>
+            <dd class="ui-quantity num-box">
+                <a href="javascript:;" role="button" class="vipFont num-reduce num-reduce-disabled J-num-act-reduce">&#xe60b;</a>
+                <em class="amount num-input J-pro-num-txt">1</em>
+                <a href="javascript:;" role="button" class="vipFont num-add J-num-act-add">&#xe60e;</a>
+            </dd>
+            <dd class="num-msg hidden" id="J-topbarProStock-type">仅剩<span>10</span>件，抓紧时间抢购哦！</dd>
+        </dl>
+
+        <p class="win-confirm-con">
+            <a href="javascript:void(0);" role="button" id="J-topbarPop-submit" class="ui-btn-small ui-btn-primary win-confirm">确&nbsp;定</a>
+        </p>
+    </div>
+</script>
+<!-- 购买数量 end -->
+<!--  唯品花 start -->
+<dl class="i-loan clearfix hidden J-i-loan">
+    <dt class="loan-name">分期</dt>
+  
+    <dd class="loan-box hidden" id="J_loan_unopened_box">
+        <div class="loan-txt"><i class="loan-icon"></i>
+            
+            <span class="J_loan_installment_tips"></span>
+            <a class="J_loan_open_txt loan-tips-link hidden"
+               href="//jr.vip.com/publicity?backId=ppc2017030601&ep=pfenqi" mars_sead="m_te_goods_buy_viphua_open"
+               target="_blank">立即开通</a>
+        </div>
+      
+        <div class="loan-tips-txt">
+            请在收银台“唯品花”选择分期方式
+            <div class="loan-tips" data-toggle="tooltip">
+                <a class="vipFont J-loan-tips-mars" href="javascript:"
+                   mars_sead_hover="m_te_goods_buy_viphua_hover">&#xe62f;</a>
+                <div class="loan-tips-box ui-tooltips ui-tooltips-top-arrow">
+                    <div class="ui-tooltips-arrow">
+                        <i class="arrow arrow-out">&#9670;</i>
+                        <i class="arrow">&#9670;</i>
+                    </div>
+                    <div class="ui-tooltips-content">
+                        <p>
+                            什么是唯品花分期购？
+                            <br>
+                            唯品花分期购是唯品会消费贷产品—唯品花提供的赊购服务，开通即可先消费、后付款，订单满10元更可随心分期，目前可分3、6、12、24期还款。
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </dd>
+
+    <dd class="loanUse-list hidden J_loan_installment_list">
+        <ul class="clearfix" id="J_loan_installment_options">
+           
+        </ul>
+        <div class="loanUse-txt J_loan_installment_tips_wrapper">
+            <span class="J_loan_installment_tips">最高可享12期分期免息免手续费</span>            
+                <!-- 01.hover显示浮层添加状态类‘z-ui-tooltips-in’ -->               
+            <div class="loanUse-tips" data-toggle="tooltip">
+                <a class="vipFont" href="javascript:"
+                   mars_sead_hover="m_te_goods_buy_viphua_hover">&#xe62f;</a>
+                <div class="loanUse-tips-box ui-tooltips ui-tooltips-top-arrow">
+                    <div class="ui-tooltips-arrow">
+                        <i class="arrow arrow-out">&#9670;</i>
+                        <i class="arrow">&#9670;</i>
+                    </div>
+                    <div class="ui-tooltips-content">
+                        <p>
+                            什么是分期购？
+                            <br>
+                            分期购是唯品金融提供的赊购服务，开通即可先消费、后付款，订单满10元更可随心分期，目前可分3、6、12、24期还款。
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </dd>
+</dl>
+<!--  唯品花 end --><!-- 加购按钮 start -->
+<div id="J_detail_buy"></div> 
+<script type="text/html" id="J_detail_buy_tpl">
+    {{if detailStatus != 2}}
+    <div class="i-button">
+        <!-- 海淘首次进入提示浮层显示 .z-ui-tooltips-in -->
+        <div id="J-button-box" class="button-box {{prepayClass}}">
+            <!-- loading状态加 .z-ui-btn-loading   disable状态加 .ui-btn-disable -->
+         
+            <button type="submit" mars_sead="{{btnMarsValue}}" class="ui-btn-large ui-btn-primary ui-btn-loading" id="J-cartAdd-submit">
+                <span class="ui-btn-loading-before">
+                    {{if !prepay}}<i class="vipFont if-shopping-bag ui-btn-left-icon">&#xe604;</i>{{/if}}
+                    {{addCartBtnTxt}}
+                    {{if prepay}}
+                    <i class="J_prepay_first_money"></i>
+                    <i class="prepay-btn-amount J_prepay_btn_amount"></i>
+                    {{/if}}
+                </span>
+                <span class="ui-btn-loading-after">
+                    <i class="ii-loading-gray-16x16"></i><span class="ui-btn-txt">处理中...</span>
+                </span>
+            </button><!---->
+            <!-- 分期购按钮，暂时保留 -->
+            <button type="submit" class="ui-btn-large ui-btn-secondary ui-btn-loading btn-stageloan hidden"  id="J_stage_loan_btn" mars_sead="m_te_goods_buy_viphua_buybtn">
+
+                <!-- 一键分期购按钮
+                loading状态加 .z-ui-btn-loading   disable状态加 .ui-btn-disable -->
+                <span class="ui-btn-loading-before">
+                一键分期购
+                </span>
+                <span class="ui-btn-loading-after">
+                <i class="ii-loading-gray-16x16"></i><span class="ui-btn-txt">处理中...</span>
+                </span>
+
+                <div id=""
+                     class="ui-tooltips ui-tooltips-top-arrow user-credit-unqualified-tips J_user_credit_unqualified_tips">
+                    <div class="ui-tooltips-arrow">
+                        <i class="arrow arrow-out">&#9670;</i>
+                        <i class="arrow">&#9670;</i>
+                    </div>
+                    <div class="ui-tooltips-content">
+                        <p>抱歉您当前的额度不够！</p>
+                    </div>
+                </div>
+            </button>
+            <div id="J-global-first-tips" class="ui-tooltips ui-tooltips-left-arrow">
+                <div class="ui-tooltips-arrow">
+                    <i class="arrow arrow-out">&#9670;</i>
+                    <i class="arrow">&#9670;</i>
+                </div>
+                <div class="ui-tooltips-content">
+                    <p>海外商品不会放入购物袋，请尽快下单抢购！</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    {{else}}
+    <div class="warm-s-tool J_banAddFav clearfix">
+        <div class="wst-wrap" mars_sead="prwdetails-col-btn" id="J-wst-wrap">
+            <a  class="ui-btn-large ui-btn-primary ui-btn-loading" id="J-addProdFav">
+                <span class="ui-btn-loading-before" id="J-addProdFav-txt">收藏商品</span>
+                <span class="ui-btn-loading-after"><i class="ii-loading-gray-16x16"></i><span
+                        class="ui-btn-txt">收藏中...</span></span>
+            </a>
+        </div>
+    </div>
+    <p class="warm-s-tips"
+       id="J-warm-s-tips">提前收藏商品，APP与PC同步，售前提醒，方便抢购</p>
+    {{/if}}
+</script>
+<!-- 加购按钮 end -->                        </form>
+                    </div>
+                </div>
+                <div class="other-form-box" id="J-other-form-box">
+                    <!-- 导流到小程序 start -->
+<div id = "J_qrcode_flow"></div>
+<script type="text/html" id="J_qrcode_tpl">
+   <div id ="J_qrcode_show" class="g-qr-code">
+        <div class="g-qr-code-title"><img class="g-qr-code-phone" src="//shop.vipstatic.com/img/common/phone_color-hash-630f6d46.png"><span class="g-qr-code-font">在小程序中查看此商品</span></div>
+        <div class="g-qr-code-main hidden"><img class="g-qr-code-qrimg" id = "J_img_qrcode" src=""></div>
+    <div class="clearfix"></div>
+</script>
+<!-- 导流到小程序 end --><!-- 客服 start -->
+<div id = "J_detail_customerService">    
+</div>
+<script type="text/html" id="J_script_detail_customerService">
+<dl id="J-vendor-customer" class="c-supplier-service">
+    <dt class="c-supplier-service-title">客服</dt>
+    <dd class="c-supplier-service-item">
+        {{if oneCustomer.isOnlineActived ==1}}
+            <div class="c-supplier-service-group  {{if isShowOnline !=1}}is-supplier-service-item-disabled{{/if}}">
+                <span class="c-supplier-service-icon-online"></span><a class="c-supplier-service-link" href="{{serviceLink}}" target="_blank" mars_sead="m_te_goods_QA_vendor">在线客服</a><span class="c-supplier-service-time">({{oneCustomer.onlineStartTime}}-{{oneCustomer.onlineEndTime}})</span>
+            </div>
+        {{/if}}
+        
+        {{if oneCustomer.isTelActived ==1 && isShowTel ==1}}
+         <div class="c-supplier-service-group">
+            <span class="c-supplier-service-icon-tel"></span><span class="c-supplier-service-highlight">{{telTitle}}：{{oneCustomer.phone }}转{{oneCustomer.custSn}}</span><span class="c-supplier-service-time">({{oneCustomer.telStartTime}}-{{oneCustomer.telEndTime}})</span>
+        </div>                   
+        {{/if}}
+    </dd>
+</dl>
+</script>
+<!-- 客服 end --><!-- 售后信息 start -->
+<dl class="other-service J_services_other hidden clearfix">
+    <dt class="other-name">服务</dt>
+    <dd class="other-box">
+        <div class="other-service-tips J_service_tips">
+            <div class="ht-txt J-ht-tip"></div>
+            <!-- hover时增加类z-ui-tooltips-in展示 -->
+            <div class="loan-tips-box ui-tooltips ui-tooltips-top-arrow J_service-tooltips">
+                <div class="ui-tooltips-arrow">
+                    <i class="arrow arrow-out">◆</i>
+                    <i class="arrow">◆</i>
+                </div>
+                <div class="ui-tooltips-content other-service-content J_services_wrap">
+                </div>
+            </div>
+        </div>
+    </dd>
+</dl>
+<!-- 服务说明 -->
+<script type="text/html" id="J-services-tpl">
+  {{each data as item}}
+  <div class="services-wrap">
+    <div class="iconType {{item.iconType}}"></div>
+    <div class="services" title="{{item.description}}">{{item.title}}</div>
+  </div>
+  {{/each}}
+</script>
+<script type="text/html" id="J-services-wrap-tpl">
+  {{each data as item}}
+  <div class="services-wrap">
+    <div class="iconType {{item.iconType}}"></div>
+    <div class="services">{{item.title}}</div>
+    <div class="description">
+      <p>{{item.description}}</p>
+      {{if item.jumpUrl}}
+      <a href="{{item.jumpUrl}}" target="_blank">查看详情></a>
+      {{/if}}
+    </div>
+  </div>
+  {{/each}}
+</script>
+<!-- 售后信息 end --><!-- 消费提示 start -->
+<dl class="hidden other-consumerTips J_consumer_tips_other clearfix">
+    
+</dl>
+<!-- 消费提示 end -->
+
+<script type="text/html" id="J_consumer_tips_tpl">
+    <dt class="other-name">提示</dt>
+    <dd class="other-box">
+        {{if consumerTips}}
+        <div class="iconType iconCaution"></div>
+        <div class="consumer-tips">{{consumerTips}}</div>
+        {{/if}}
+        {{if expiryTips}}
+        <div class="iconType iconCaution"></div>
+        <div class="consumer-tips">{{expiryTips}}
+            {{if expiryUrl}}
+            <a href="{{expiryUrl}}" class="J_expiryTips">查看保质期</a></div>
+            {{/if}}
+        {{/if}}
+    </dd>
+</script><!-- mp发货提醒 start -->
+<dl class="hidden clearfix mpdelay J_mp_delay_tpl_other">
+    
+</dl>
+<!-- 发货提醒 end -->
+
+<script type="text/html" id="J_mp_delay_tpl">
+	{{if tips}}
+    <dt ><img class="notice" src="//shop.vipstatic.com/img/detail/icon_noticewithbg_normal.png"></span>{{tips}}</dt>
+	{{/if}}
+</script>                </div>
+            </div>
+        </div>
+
+
+    </div>
+    <!-- 预付流程 -->
+    <div id="J_prepay_steps"></div>
+
+    <!-- 商品推荐模块 -->
+    <div id="J_recoData_wrap_top" class="M-saleRecom clearfix"></div>
+
+    <!-- 产品详情结构容器 -->
+    <div id="J-FW-detail" class="FW-detail clearfix J-data-module">
+        <!-- 左栏推荐 start -->
+    <!-- 商品推荐组件 -->
+    <div class="M-recommend">
+        <!-- 品牌信息 -->
+        <div class="recommend-storeInfo J_recommend_store hidden" mars-exposure-module="brand_detail_show">
+            
+        </div>
+        <!-- 热销好货 -->
+        <div class="recommend-product J_recommend_brandStore hidden" mars-exposure-module="3_recommend_show">
+           
+        </div>
+        <!-- 看了又看 -->
+        <div class="recommend-product J_recommend_look hidden" mars-exposure-module="look_again_show">
+            
+        </div>
+        <!-- 我的足迹 -->
+        <div class="recommend-product J_recommend_footerprint hidden" mars-exposure-module="my_history_show">
+            
+        </div>
+    </div>
+    <!-- 商品推荐品牌模板 -->
+    <script type="text/html" id="J-recommend-storeTpl">
+        <a href="//list.vip.com/brand.html?sn={{brandStoreSn}}" target="_blank">
+            <div class="store-img">
+                <img src = "{{brandStoreLogo | delProtocolHeader}}">
+            </div>
+            <div class="re-store">
+                <div class="re-store-name">{{brandStoreName}}</div>
+                <div class="re-store-des">{{brandStory}}</div>
+            </div>
+            <div class="store-btn" mars_sead="brand_detail_click">查看品牌</div>
+        </a>
+    </script>
+    <!-- 商品推荐看了又看模板 -->
+    <script type="text/html" id="J-recommend-lookTpl">
+        <div class="re-product-title">看了又看</div>
+        <div id ="J-recommend-look-wrap" class="re-look-wrap">
+            <div id="J-recommend-look">
+                {{each data as value i}}
+                <a href="//detail.vip.com/detail-{{value.brandId}}-{{value.productId}}.html" class="re-product-content" mars_sead="look_again_click_{{i+1}}" target="_blank">
+                    <img src = "{{value.imageUrl | delProtocolHeader}}">
+                    <div class="re-product">
+                        <div class="re-product-name">{{value.title}}</div>
+                        <div class="re-product-price">&yen;{{value.salePrice.salePrice}}</div>
+                    </div>
+                </a>
+                {{/each}}
+            </div>
+        </div>
+        <div class="recommend-page">
+            <div id="J-re-look-pre" class="re-pre vipFont if-arrow-top-circle" mars_sead="look_again_turnpage">&#xe633;</div>
+            <div id="J-re-look-next" class="re-next vipFont if-arrow-bottom-circle" mars_sead="look_again_turnpage">&#xe635;</div>
+        </div>
+    </script>
+    <!-- 商品推荐我的足迹模板 -->
+    <script type="text/html" id="J-recommend-footerTpl">
+        <div class="re-product-title">我的足迹</div>
+        <div id ="J-recommend-footer-wrap" class="re-foot-wrap">  
+                {{each data as value i}}
+                <a href="{{value.url}}" class="re-product-content" mars_sead="my_history_click_{{i+1}}" target="_blank">
+                    <img src = "{{value.smallImage | delProtocolHeader}}">
+                    <div class="re-product">
+                        <div class="re-product-name">{{value.brandShowName}}&nbsp;{{value.title}}</div>
+                        <div class="re-product-price">&yen;{{value.price.salePrice}}</div>
+                    </div>
+                </a>
+                {{/each}}  
+        </div>
+        <div class="J_footprint_more recommend-page">
+            <a href="//fav.vip.com/browse" mars_sead="my_history_more" target="_blank">查看更多 ></a>
+        </div>
+    </script>
+
+    <!-- 商品推荐热销好货模板 -->
+    <script type="text/html" id="J-recommend-brandStoreTpl">
+        <div class="re-product-title">热销好货</div>
+        <div id ="J-recommend-brand-wrap" class="re-brand-wrap">
+            <div id="J-recommend-brand">
+                {{each data as value i}}
+                <a href="//detail.vip.com/detail-{{value.brandId}}-{{value.productId}}.html" class="re-product-content" mars_sead="3_recommend_click_{{i+1}}" target="_blank">
+                    <img src = "{{value.imageUrl | delProtocolHeader}}">
+                    <span class="{{value.icon}}"></span>
+                    <div class="re-product">
+                        <div class="re-product-name">{{value.title}}</div>
+                        <div class="re-product-price">&yen;{{value.salePrice.salePrice}}</div>
+                    </div>
+                </a>
+                {{/each}}
+            </div>
+        </div>
+        <div class="recommend-page">
+            <div id="J-re-brand-pre" class="re-pre vipFont if-arrow-top-circle" mars_sead="3_recommend_turnpage">&#xe633;</div>
+            <div id="J-re-brand-next" class="re-next vipFont if-arrow-bottom-circle" mars_sead="3_recommend_turnpage">&#xe635;</div>
+        </div>
+    </script>
+<!-- 左栏推荐 end --><!-- 终端页模块导航 start-->
+<div class="M-placeholder" id="J-topbar-wrap">
+</div>
+    <!-- 悬浮栏 -->
+<script type="text/html" id="J-topbar-wrap_tpl">
+    <div class="M-detailTop" id="J-topbar">
+        <div class="M-detailTop-wrap">
+            <ul class="dt-list">
+                <a href="#J-detailCon" class="dt-list-item J_detailCon J-topbar-tabs selected" mars_sead="tab_more_parameter">规格参数</a>
+                <a href="#J-proShow-scroll" class="dt-list-item J_proShow_scroll J-topbar-tabs" mars_sead="tab_more_goodsdetail">商品展示</a>
+                <a href="#J-FW-prdComment" class="dt-list-item J-topbar-tabs hidden J-detail-commentCnt" mars-exposure-module="detail_tab_comment" mars_sead="tab_more_comment"> 全部评价 <span class="pro-comment-tagcount">(<i class="J-detail-commentCnt-count">0</i>)</span></a>
+                <a href="#J-FW-question" class="dt-list-item J_FW_question J-topbar-tabs" mars_sead="tab_more_consult">商品咨询</a>
+                <a href="#J-saleServiceList" class="dt-list-item J_saleServiceList J-topbar-tabs" mars_sead="tab_more_saleServiceList">售后服务</a>
+                <a href="#J-FW-aboutUs" class="dt-list-item J_FW_aboutUs J-topbar-tabs" mars_sead="tab_more_about">关于我们</a>
+            </ul>
+
+            {{if detailStatus != 2}}
+                <div class="dt-cart hidden" id="J-topbar-addBtn" mars_sead="te_goods_show_buy_btn">
+                    {{if salePrice}}
+                    <span id="J-topBar-sell-price" class="dt-cart-price">
+                        {{if salePriceTips}}
+                            <i class="dt-cart-yen">{{salePriceTips}}：</i>
+                        {{/if}}
+                        <em>&yen; {{salePrice}}</em>
+                    </span>
+                    {{/if}}
+                    <button type="submit" class="ui-btn-medium ui-btn-primary dt-cart-btn" mars_sead="m_add_collectgoods_click" id="J-dt-cart-btn">
+                        
+                        {{if !prepay}}<i class="vipFont if-shopping-bag ui-btn-left-icon">&#xe604;</i>{{/if}}
+                        {{btnTitle}}
+                        {{if prepay}}
+                        <i class="J_prepay_first_money"></i>
+                        <i class="prepay-btn-amount J_prepay_btn_amount"></i>
+                        {{/if}}
+                    </button>
+                </div>
+                <div class="dt-collect hidden" id="J-dt-collect" mars_sead="prwdetails-col-btn">收藏商品</div>
+                  
+            {{else if allowCollect ==1}}
+                <div class="dt-collect" id="J-dt-collect" mars_sead="prwdetails-col-btn">收藏商品</div>
+            {{/if}}
+            </div>
+        </div>
+</script>
+<!-- 悬浮价格 -->
+<script type="text/html" id="J-topBarPriceTpl">
+    {{if icon_msg}}
+    <i class="dt-cart-yen">{{icon_msg}}：</i>
+    {{/if}}
+    <em>&yen; {{special_price}}</em>
+</script>
+<!-- 终端页模块导航 end -->        <div class="M-detail">
+            <div class="M-detailCon" id="J-detailCon">
+                <!-- 3c证书 start -->
+<div id = "J_certification_detail">
+</div>
+<script type="text/html" id="J_certification_detail_tpl">
+<p class="certification3c-box">
+    {{if certNums}}
+        <i class="i-3c"></i>商品具有<a href="//detail.vip.com/detail-3c.php?certnums={{certNums}}" target="_blank">国家强制性产品认证（CCC）证书</a>，符合国家强制性产品认证CCC标准。
+    {{/if}}
+    </p>
+</script>
+<!-- 3c证书 start --><!-- 尺码表 start -->
+<div class="size-helper-table-wrapper J_size_helper_table_wrapper hidden" id="J_sizetable_detail">
+</div>
+<!--@states
+ 00. `.is-size-helper-form-expand-new` 存在推荐尺码，展开状态
+ 01. `.is-size-helper-form-close` 存在推荐尺码，收起状态
+ 02. `.is-size-helper-form-expand` 存在推荐尺码，展开状态
+-->
+<script type="text/html" id="J_size_helper_V3_tmpl">
+        <div class="size-helper-reco-wrap J-size-helper-reco-wrap hidden">
+            <div class="size-helper-result  size-helper-result-success ">
+                <span class="size-helper-result-text">根据当前尺码信息为您推荐：</span><!--
+             --><div class="size-helper-result-button-wrapper J_recom_size_result_container">
+                    <a href="###" class="size-helper-result-button J_recom_size_result"
+                        role="button" rel="nofollow">-</a>
+                </div>
+            </div>
+            <div class="size-helper-result  size-helper-result-error">
+                <span class="size-helper-result-text">未找到合适的尺码</span>
+            </div>
+        </div>
+        
+        <div class="customer-size-helper-box J-customer-size-helper-box is-size-helper-form-expand-new">
+            <p class="customer-size-helper-title">我的尺码<span class="customer-size-helper-add">(录入身高、体重、肩宽、三围为您推荐合适的尺码，录入一次即可为您保存长期使用哦！)</span></p><span class="customer-size-helper-table-expand J-customer-size-helper-table-expand">补充尺码信息，推荐更精准 &gt;</span>
+            <div class="customer-size-helper-table-box">
+                <table class="customer-size-helper-table pro-size-tab">
+                    <tbody>
+                        <tr class="pro-size-tab-bg-a">
+                            <td class="customer-size-helper-name">身高</td>
+                            <td class="customer-size-helper-name">体重</td>
+                            <td class="customer-size-helper-name">肩宽</td>
+                            <td class="customer-size-helper-name">胸围</td>
+                            <td class="customer-size-helper-name">腰围</td>
+                            <td class="customer-size-helper-name">臀围</td>
+                        </tr>
+                        <tr>
+                            <td class="customer-size-helper-num J_size_table_height"><span class="customer-size-helper-tobeadd">待补充</span></td>
+                            <td class="customer-size-helper-num J_size_table_weight"><span class="customer-size-helper-tobeadd">待补充</span></td>
+                            <td class="customer-size-helper-num J_size_table_shoulder"><span class="customer-size-helper-tobeadd">待补充</span></td>
+                            <td class="customer-size-helper-num J_size_table_chest"><span class="customer-size-helper-tobeadd">待补充</span></td>
+                            <td class="customer-size-helper-num J_size_table_waist"><span class="customer-size-helper-tobeadd">待补充</span></td>
+                            <td class="customer-size-helper-num J_size_table_hips"><span class="customer-size-helper-tobeadd">待补充</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="size-helper-form  size-helper-tab-form">
+                <div class="size-helper-example">
+                    <div class="size-helper-example-pic J_size_helper_example_pic">
+                    </div>
+                    <div class="size-helper-example-text">三围测量示意图</div>
+                </div>
+                <div class="J_size_helper_form_wrapper">
+                </div>
+            </div>
+        </div>
+</script>
+
+<script type="text/html" id="J-sizeAide-tmp">
+    <div class="M-win size-aide">
+        <span class="vipFont win-close" id="J-sizeAide-close">&#xe609;</span>
+        <div class="size-box-head fwr">
+            <span class="size-box-head-tit">尺码小帮手</span>
+            <span class="size-box-head-msg">
+                帮你挑选合身的尺码！
+            </span>
+        </div>
+        <div class="win-table" id="J-sizeTable-wrap"></div>
+    </div>
+</script>
+
+<script type="text/html" id="J-new-sizeHelper-pop-tmp">
+    <div class="ui-dialog-inner">
+        <a href="javascript:;" role="button" class="ui-dialog-close J_new_size_dialog_colse vipFont">&#xe609;</a>
+        <div class="size-helper-dialog-header">
+                <em class="size-helper-dialog-title">尺码小帮手</em>
+        </div>
+            <div class="ui-dialog-content J-size-helper-popup">
+                <div class="size-helper-cnt J_size_helper_v3_cnt hidden">
+            </div>
+                <h4 class="dc-size-tit" id="J-sizeCheck-scroll">尺码对照表：</h4>
+            <div class="size-helper-table-wrapper  J_size_table_wrapper"></div>
+        </div>
+    </div>
+</script>
+
+
+<script type="text/html" id="J-new-sizeHelper-form-tmp">
+
+    <form action="#" role="form" data-msg="{{msg}}">
+        <fieldset>
+            <div class="size-helper-form-items">
+                    <div class="size-helper-form-item J_size_form_item_height J_size_form_item">
+                        <label class="size-helper-form-title" for="J_size_form_input_height"><i class="size-helper-sharp-icon">*</i>身高：</label><!--
+                 --><div class="ui-form-item-group J_form_item_group">
+                        <input type="text" class="ui-input  size-helper-form-input J_size_helper_form_input J_size_form_input_height J_size_necessary_form"
+                               id="J_size_form_input_height" data-name="height" maxlength="3">
+                            <div class="size_helper_form_tips J_size_helper_form_tips_wrap">
+                            </div>
+                    </div><!--
+                 --><span class="size-helper-form-unit">cm</span>
+                </div>
+                    <div class="size-helper-form-item J_size_form_item_weight J_size_form_item">
+                        <label class="size-helper-form-title" for="J_size_form_input_weight"><i class="size-helper-sharp-icon">*</i>体重：</label><!--
+                 --><div class="ui-form-item-group J_form_item_group">
+                        <input type="text" class="ui-input  size-helper-form-input J_size_helper_form_input J_size_form_input_weight J_size_necessary_form"
+                               id="J_size_form_input_weight" data-name="weight" maxlength="3" mars_sead="shop_detail_usersize_edit">
+                            <div class="size_helper_form_tips J_size_helper_form_tips_wrap">
+                            </div>
+                    </div><!--
+                 --><span class="size-helper-form-unit">kg</span>
+                </div>
+                    <div class="size-helper-form-item J_size_form_item_shoulder J_size_form_item">
+                        <label class="size-helper-form-title" for="J_size_form_input_shoulder">肩宽：</label><!--
+                     --><div class="ui-form-item-group J_form_item_group">
+                            <input type="text" class="ui-input  size-helper-form-input J_size_helper_form_input J_size_form_input_shoulder"
+                                   id="J_size_form_input-shoulder" data-name="shoulder" maxlength="3" mars_sead="shop_detail_usersize_edit">
+                            <div class="size_helper_form_tips J_size_helper_form_tips_wrap">
+                            </div>
+                        </div><!--
+                     --><span class="size-helper-form-unit">cm</span>
+                    </div>
+                    <div class="size-helper-form-item J_size_form_item_chest J_size_form_item">
+                    <label class="size-helper-form-title" for="J_size_form_input_chest">胸围：</label><!--
+                 --><div class="ui-form-item-group J_form_item_group">
+                        <input type="text" class="ui-input  size-helper-form-input J_size_helper_form_input J_size_form_input_chest"
+                               id="J_size_form_input_chest" data-name="chest" maxlength="3" mars_sead="shop_detail_usersize_edit">
+                            <div class="size_helper_form_tips J_size_helper_form_tips_wrap">
+                            </div>
+                    </div><!--
+                 --><span class="size-helper-form-unit">cm</span>
+                </div>
+                    <div class="size-helper-form-item J_size_form_item_waist J_size_form_item">
+                    <label class="size-helper-form-title" for="J_size_form_input_waist">腰围：</label><!--
+                 --><div class="ui-form-item-group J_form_item_group">
+                        <input type="text" class="ui-input  size-helper-form-input J_size_helper_form_input J_size_form_input_waist"
+                               id="J_size_form_input-waist" data-name="waist" maxlength="3" mars_sead="shop_detail_usersize_edit">
+                            <div class="size_helper_form_tips J_size_helper_form_tips_wrap">
+                            </div>
+                    </div><!--
+                 --><span class="size-helper-form-unit">cm</span>
+                </div>
+                    <div class="size-helper-form-item J_size_form_item_hips J_size_form_item">
+                    <label class="size-helper-form-title" for="J_size_form_input_hips">臀围：</label><!--
+                 --><div class="ui-form-item-group J_form_item_group">
+                        <input type="text" class="ui-input  size-helper-form-input J_size_helper_form_input J_size_form_input_hips"
+                               id="J_size_form_input_hips" data-name="hips" maxlength="3" mars_sead="shop_detail_usersize_edit">
+                            <div class="size_helper_form_tips J_size_helper_form_tips_wrap">
+                            </div>
+                    </div><!--
+                 --><span class="size-helper-form-unit">cm</span>
+                </div>
+            </div>
+            <div class="size-helper-form-actions">
+                    <a href="javascript:;" class="ui-btn-medium  ui-btn-primary  button-size-helper-form-save J_size_form_save_btn"
+                   role="button" rel="nofollow" mars_sead="shop_detail_usersize_save">保存</a>
+                    <a href="javascript:;" class="button-size-helper-form-cancel J-button-size-helper-form-cancel"
+                       role="button" rel="nofollow" mars_sead="shop_detail_usersize_cancel">取消</a>
+                <div class="ui-tooltips  ui-tooltips-warning  ui-tooltips-bottom-arrow save-user-size-tips J_save_user_size_tips">
+                    <div class="ui-tooltips-arrow">
+                        <span class="arrow arrow-out">&#9670;</span>
+                        <span class="arrow">&#9670;</span>
+                    </div>
+                    <div class="ui-tooltips-content">
+                        <p class="ui-tooltips-msg">
+                            <span class="vipFont if-sigh">&#xe620;</span>
+                            <span class="J_save_tips_content">-</span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </fieldset>
+    </form>
+</script>
+
+
+<script type="text/html" id="J-new-SizeHlper-tips-tmp">
+        <div class="ui-tooltips  ui-tooltips-bottom-left-arrow size-helper-form-tooltips size_helper_form_tips J_size_helper_form_tips">
+        <div class="ui-tooltips-arrow">
+            <span class="arrow arrow-out">&#9670;</span>
+            <span class="arrow">&#9670;</span>
+        </div>
+        <div class="ui-tooltips-content">
+            <p class="ui-tooltips-msg">
+                <span class="vipFont if-sigh">&#xe620;</span>
+                    <span class="vipFont if-info">&#xe61f;</span>
+                    <span class="J_tips_content">-</span>
+            </p>
+        </div>
+    </div>
+</script>
+
+<script type="html/javascript" id="J-sb-table-info-item-tmp">
+    {#items}
+        <li><i class="sb-table-info-color sb-color{$num}">{$size_name}</i></li>
+    {#/items}
+</script>
+
+<!-- 尺码小助手提示弹窗 -->
+<script type="text/html" id="J-sizeAssitant-template">
+    <div id="J-sizeAssitant-firstTips" class="size-assitant-popup hidden">
+        <span class="size-assitant-close" id="J-sizeAssitant-firstTips-close"></span>
+        <input type="text" class="size-assitant-height size-assitant-ipt J-recHeight" />
+        <input type="text" class="size-assitant-weight size-assitant-ipt J-recWeight" />
+        <p class="size-assitant-txt J-recTxt">输入身高、体重，帮你挑选合身的尺码</p>
+    </div>
+</script>
+
+<script type="text/html" id="J_sizetable_detail_tpl">
+    <div class="J-dc-tit-new dc-tit-new hidden" id="J-proSize-scroll">
+        <i class="dc-tit-new-icon"></i><p class="dc-title">商品尺码<i class="dc-title-en">SIZE</i></p>
+    </div>
+    <div class="size-helper-description J_size_info_warpper" mars-exposure-module="size_xlsx_show">
+        <div class="dc-size-tip">
+            <div class="dc-tip-title J_dc_tip"><i class="vipFont">&#xe61f;</i>温馨提示</div>
+            <div class="loan-tips-box ui-tooltips ui-tooltips-top-arrow J_size_tips">
+                <div class="ui-tooltips-arrow">
+                    <i class="arrow arrow-out">◆</i>
+                    <i class="arrow">◆</i>
+                </div>
+                <div class="ui-tooltips-content size-table-tips">
+                    <p>1. 选购时，请综合参考尺码表中各项参数，有助于你选择到更合适的尺码。</p>
+                    <p>2.（只适用服装）平铺测量自己的合身服装尺寸作参考，对比选购更准确！</p>
+                    {{if canReturn}}
+                        <p>3. 请放心挑选尺码，唯品7天退货无忧替你保驾护航。</p>
+                    {{/if}}
+                </div>
+            </div>
+        </div>
+        <h4 class="dc-size-tit" id="J-sizeCheck-scroll">尺码对照表：</h4>
+        <div id="J-wrap-sizeTable" class="J-wrap-sizeTable pro-size-table"></div>
+        <div class="size-box hidden" id="J-size-box">
+            <div class="size-box-con fwr">
+                <div id="J-size-rec-sb-msg" class="sb-msg"></div>
+                <p class="dc-aide-tips sb-msg-size" id="J-sizeAide-exp"><i class="i-sizeStar"></i>尺码小帮手是一款专业的尺码参考软件，录入身高、体重、三围为您推荐合适的尺码，录入一次即可为您保存长期使用哦！</p>
+                <table class="J-sb-table sb-table" mars_sead_hover="shop_detail_assistant_view2">
+                    <tr class="J-sb-table-weight sb-table-fline">
+                        <th class="sb-table-main">
+                            <span class="sb-table-weight">体重kg</span>
+                            <span class="sb-table-height">身高cm</span>
+                        </th>
+                    </tr>
+                </table>
+                <ul class="sb-table-info" id="J-sb-table-info"></ul>
+                <p class="sb-tip">温馨提示：<span id="J-size-rec-tips">此尺码表是以人体身高和体重为依据，推算出最适合你的穿着尺码，对于自身有特殊需求的消费者可根据喜好自行选择。</span></p>
+            </div>
+        </div>
+    </div>
+</script>
+<script type="text/html" id="J_measure_pic_tmpl">
+    <div class="measure-pic-wrapper">
+        <img src="{$picSrc}">
+    </div>
+</script>
+
+<script type="text/html" id="J_data_center_input_field">
+    <div class="size-ipt-box" id="J-user-rec-wrap">
+        <span class="size-height">身高：</span> <input maxlength="5" class="size-height-ipt J-recHeight" type="text">cm
+        <span class="size-weight">体重：</span> <input maxlength="5" class="size-weight-ipt J-recWeight" type="text">kg
+        <p class="size-ipt-tips J-recTxt">输入身高、体重，帮您挑选合身的尺码</p>
+    </div>
+</script>
+<!-- 尺码表 end --><!-- 商品参数 start -->
+<div id="J_dc_Detail"></div>
+<script type="text/html" id="J_dc_Detail_tpl">
+<div class="J-dc-tit-new dc-tit-new" id="J-detailCon"><i class="dc-tit-new-icon"></i><p class="dc-title">商品参数<i class="dc-title-en">DETAIL</i></p></div>
+<div class="dc-info J_dc_info clearfix">
+    <div class="dc-table-content">
+        <table class="dc-table fst">
+            <tbody class="J_dc_table">
+                <tr>
+                {{each propety as onePropety keyPropety}}
+                    <th class="dc-table-tit">{{onePropety.name}}：</th>
+                    <td>{{onePropety.value}}{{onePropety.count}}</td>
+                    {{if (keyPropety+1) %2 ==0 && (keyPropety+1 < proLen)}}
+                    </tr><tr>
+                    {{else if keyPropety+1 == proLen}}
+                        {{if (keyPropety+1) %2 ==0}}
+                            </tr>
+                            {{else}}
+                            <th class="dc-table-tit"></th><td></td></tr>
+                        {{/if}}
+                    {{/if}}
+
+                {{/each}}
+            </tbody>
+        </table>
+    </div>
+    <div class="J_dc_more dc-table-btn hidden" mars_sead="goods_detail_more">
+       查看更多<i class="vipFont if-arrow-bottom">&#xe616;</i>
+    </div>
+    <div class="J_dc_up dc-table-btn hidden">
+       收起<i class="vipFont if-arrow-up">&#xe615;</i>
+    </div>
+</div>
+</script>
+<!-- 商品参数 start --><!-- 价格走势 start -->
+        <div class="hidden" id="J_price_scroll">            
+            <script type="text/html" id="J_price_detailTemplate">
+                <div class="dc-tit-new"><i class="dc-tit-new-icon"></i>
+                    <p class="dc-title">价格走势<i class="dc-title-en">PRICE</i>
+                    </p>
+                </div>
+                <div class="dc-price-detail dc-price-detail-{{type}}">
+                    <div class="dc-price-history">
+                        {{msg1}} <span>{{price1}}</span>
+                    </div>
+                    {{if centerMsg1}}
+                    <div class="dc-price-descend">
+                        {{centerMsg1}} <span>{{centerMsg2}}</span>
+                    </div>
+                    {{/if}}
+                    <div class="dc-price-active">
+                        {{msg2}} <span>{{price2}}</span>
+                    </div>
+                    {{if msg3}}
+                    <div class="dc-price-end">
+                        {{msg3}} <span>{{price3}}</span>
+                    </div>
+                    {{/if}}
+                </div>
+            </script>
+        </div>
+<!-- 价格走势 start --><!-- 商品展示 start -->
+<div id = "J_dc_image"> </div>
+<script type="text/html" id="J_dc_image_tpl" >
+<div class="J-dc-tit-new dc-tit-new" id="J-proShow-scroll"><i class="dc-tit-new-icon"></i><p class="dc-title">商品展示<i class="dc-title-en">IMAGE</i></p></div>
+<div class="video-html">
+    <div class="video-play" id="J_QCVideo"></div>
+</div>
+<div id = "J_dc_authorization"></div> 
+<div class="dc-img">
+    <div class="dc-img-detail">
+        {{if detailImages}}
+            {{each detailImages as oneImages}}
+            <div class="img-6xx-bg">
+            <img src="//shop.vipstatic.com/img/share/blank.png" class="lazy img-detail-images" data-original="{{oneImages.imageUrl}}">
+            </div>
+             {{/each}}
+        {{/if}}
+    </div>
+</div>
+</script>
+
+<script type="text/html" id="J_dc_authorization_tpl" >
+    {{if brand_authorization}}
+    {{if tuvImg}}       
+        <div class="dc-authorization">
+            <div><img class="dc-authorization-img-fst" src="{{tuvImg}}" alt=""></div>
+            <div><img src="{{brand_authorization}}" width="490" height="245" alt=""/></div>
+        </div>
+    {{else}}   
+        <div class="dc-authorization"><img src="{{brand_authorization}}" width="666" height="333" alt="品牌授权" /></div>
+    {{/if}}
+    {{/if}}
+</script>
+<!-- 商品展示 end -->
+<!-- 旧版口碑 satrt -->
+<!-- todo  
+            <div class="J-dc-tit-new dc-tit-new">
+                <i class="dc-tit-new-icon"></i>
+                <p class="dc-title">用户口碑<i class="dc-title-en">TRIAL REPORT</i></p>
+            </div>
+            <div class="dc-img-detail clearfix">
+                <img class="lazy" src="//shop.vipstatic.com/img/te/ui-loading-goods.gif" data-original="" />
+            </div>
+-->
+<!-- 旧版口碑 end --><!-- 售后说明 start -->
+<div id="J_dc_saleService"></div>
+<script type="text/html" id="J_dc_saleService_tpl" >
+    {{if saleService}}
+<div class="J-dc-tit-new dc-tit-new" id="J-proIntro-scroll"><i class="dc-tit-new-icon"></i><p class="dc-title">售后说明<i class="dc-title-en">INSTRUCTIONS</i></p></div>
+<div class="dc-service">{{saleService}}</div>
+{{/if}}
+</script>
+<!-- 售后说明 start -->
+
+<div id = "detail_cosmetic"></div>            </div>
+
+            <!-- 口碑 start -->
+<div class="pro-comment J-detail-commentCnt hidden" id="J-FW-prdComment">
+    <div class="M-detailTitle">
+        <h3 class="detail-title">全部评价</h3>
+    </div>
+    <div class="product-comment-content">
+        <div id="J-FW-prdCommentList">
+            <div id="J_comment_summary_wrapper"></div>
+            <!--<div id="J_comment_tabs_wrapper" class="comment-tabs-wrapper"></div>  -->
+            <!--没有tab了，应该删除-->
+            <div id="J_comment_list_wrapper" class="comment-list-wrapper"></div>
+            <div id="J_comment_fold_list_wrapper" class="comment-list-wrapper"></div>
+            <div id="J_page_plugin_wrapper" class="c-comment-page"></div>
+        </div>
+    </div>
+    <div class="c-comment-loading">
+        <i class="ii-loading-pink-24x24"></i>
+        <span class="c-loading-txt">加载中，请稍候...</span>
+    </div>
+</div>
+
+<script type="text/html" id="J_comment_summary_tpl">
+    {{if nlpKeyWordList && nlpKeyWordList.length > 0}}
+    <div class="{{if description && description.percent}}c-product-comment-des{{/if}} c-product-comment-summary">
+        {{if satisfaction}}
+        <div class="c-product-comment-satisfy-info">
+            <span class="c-product-comment-satisfy-num">{{satisfaction}}%</span>
+            的用户对商品满意
+        </div>
+        {{/if}}
+        <div class="c-product-comment-tags-wrapper">
+            <div class="c-product-comment-tags">
+                {{each nlpKeyWordList as item}}
+                <a href="javascript:;" class="c-comment-tag " id="J_comment_tag_{{item.keyWordNlp}}"
+                   data-tag-name="{{item.keyWordNlp}}" data-tag-num="{{item.keyWordCount}}"
+                   data-tag-tryReport="{{item.isEnableTryReport}}">
+                    <span class="c-product-tag-name">{{item.keyWordNlp}}</span>
+                    <i class="c-product-tag-num {{item.isCountHidden}}">({{item.keyWordCount}})</i>
+                </a>
+                {{/each}}
+            </div>
+            {{if description && description.percent}}
+            <div class="c-product-comment-des-info">
+                <p>{{description.percent}}%人认为{{description.description}}</p>
+            </div>
+            {{/if}}
+        </div>
+    </div>
+    {{/if}}
+</script>
+
+<script type="text/html" id="J_comment_list_tmpl">
+    {{each comment as commentItem i}}
+    <div class="product-comment-item {{commentItem.cmtItemStateCls}}">
+        <!--用户信息模块-->
+        <div class="c-comment-user">
+            <div class="c-comment-user-left">
+                <img src="//shop.vipstatic.com/img/te/common/avatar-default.jpg" class="lazy c-comment-user-pic" data-original="{{commentItem.userInfo.avatarUrl | delProtocolHeader}}">
+            </div>
+            <div class="c-comment-user-right">
+                <span class="c-comment-user-name" title="{{commentItem.userInfo.authorName}}">{{commentItem.userInfo.authorName}}</span>
+                {{if commentItem.userInfo.memberLvl}}
+                    <i class="c-comment-user-icon c-vip-level-{{commentItem.userInfo.memberLvl}}"></i>
+                {{/if}}
+                <span class="c-comment-user-level">{{commentItem.userInfo.memberLvlName}}</span>
+            </div>
+        </div>
+        <div class="pci-user-coments clearfix" id="c-comment-content-wrap">
+            <div class="c-comment-content-normal " id="J_comment_content_normal">
+                <!--时间颜色尺码-->
+                <div class="clearfix">
+                <div class="pci-public-time clearfix">{{commentItem.postAt}}</div>
+                    <div class="pci-public-info clearfix {{commentItem.propsListHidden}}">
+                    {{each commentItem.propsList as propsItem i}}
+                    <span class="public-info-size">{{propsItem}}</span> {{/each}}
+                </div>
+                </div>
+                <!--标签-->
+                {{if commentItem.labels.length>0}}
+                <div class="pic-user-label clearfix">
+                    {{each commentItem.labels as labelItem}}
+                    <a href="javascript:;" class="c-comment-label">
+                        <span class="c-product-label-name">{{labelItem}}</span>
+                    </a>
+                    {{/each}}
+                </div>
+                {{/if}}
+                <!--文字内容-->
+                <div class="pci-user-output clearfix">
+                    <div class="pci-user-comencont">
+                        {{if commentItem.tagInfos && commentItem.tagInfos.length >0}}
+                            {{each commentItem.tagInfos as oneTag}}
+                                <span class="c-comment-content-txt">{{if oneTag.tagName}}<b>【</b>{{oneTag.tagName}}<b>】</b>{{/if}}{{oneTag.tagContent}}<br></span>
+                            {{/each}}
+                        {{/if}}
+                        <span class="c-comment-content-txt"> {{commentItem.content}}</span><!--
+                    --><span class="c-comment-txt-ellipsis {{commentItem.isTryReport}}">...</span><!--
+                    --><span class="c-comment-read-all J_comment_read_all {{commentItem.isTryReport}}">阅读全文</span>
+                        <i class="vipFont c-comment-read-all-icon {{commentItem.isTryReport}}">&#xe616;</i>
+                    </div>
+                </div>
+                <!--评论中图片-->
+                {{if commentItem.imgList.length > 0}}
+                <div class="comment-pic-box clearfix">
+                    <ul class="comment-pic-list">
+                        {{each commentItem.imgList as imgItem}}
+                        <li class="comment-pic-item z-comment-pic-zoom-in J_comment_pic" data-index={{imgItem.index}} data-isvideo={{imgItem.isVideo}}
+                            data-videoSrc="{{imgItem.videoSrc | delProtocolHeader}}" data-videoIndex={{imgItem.videoIndex}} >
+                            {{if commentItem.isIe8}}
+                            <img class="comment-pic  J_comment_thumbnail" data-img="{{imgItem.imgUrl | delProtocolHeader}}" src="{{imgItem.imgUrl | delProtocolHeader}}" >
+                            {{else}}
+                            <div class="comment-pic J_comment_thumbnail" data-img="{{imgItem.imgUrl | delProtocolHeader}}" style="background-image:url({{imgItem.imgUrl | delProtocolHeader}})"></div>
+                            {{/if}}
+                            <span class="vjs-icon-play small-image-play-icon {{imgItem.isVideoHidden}}"></span>
+                            <i class="current-selected-triangle"></i>
+                        </li>
+                        {{/each}}
+                    </ul>
+                    <div class="preview-comment-pic-wrapper J_preview_pic_wrapper {{commentItem.previewBoxCls}}">
+                        <img class="preview-comment-pic J_preview_zoomout_pic">
+                        <a class="preview-tab preview-tab2left J_preview_tab_prev vipFont if-big-arrow-left">
+                            <i class="vipFont if-big-arrow-left preview-tab-arrow">&#xe619;</i>
+                        </a>
+                        <a class="preview-tab preview-tab2right J_preview_tab_next">
+                            <i class="vipFont if-big-arrow-right preview-tab-arrow">&#xe61b;</i>
+                        </a>
+                    </div>
+                    <div class="c-comment-video-wrap-{{i}} c-comment-video-fullscreen hidden" >
+                        <!--<div class="m-pop-win">-->
+                            <!--<video id="{{commentItem.videoId}}" class="video-js video-source-zoomin video-source vip-skin-design vjs-show-big-play-button-on-pause vjs-big-play-centered" webkit-playsinline="webkit-playsinline" playsinline="playsinline" preload="true" type="video/mp4">-->
+                                <!--<source src="{{commentItem.videoSrc}}" type="video/mp4"></source>-->
+                                <!--<p class="vjs-no-js"> 您的浏览器不支持 HTML 5 Video 标签，请升级浏览器。</p>-->
+                            <!--</video>-->
+                        <!--</div>-->
+                    </div>
+                        <div class="c-comment-fullscreen-wrap hidden" >
+                    </div>
+                </div>
+                {{/if}}
+
+                <!-- 追加评论-->
+                {{if commentItem.additionalComments && commentItem.additionalComments.content && commentItem.additionalComments.content !=''}}
+                <hr class="c-comment-interval-line" />
+                <div class="pci-user-output clearfix">
+                    <div class="clearfix pci-user-addition">{{commentItem.additionalComments.postTimeDesc}}</div>
+                    <div class="pci-user-comencont clearfix">
+                        <span class="c-comment-content-txt"> {{commentItem.additionalComments.content}}
+                    </div>
+                </div>
+                {{if commentItem.additionalComments.imageList && commentItem.additionalComments.imageList.length > 0}}
+                <div class="comment-pic-box clearfix">
+                    <ul class="comment-pic-list">
+                        {{each commentItem.additionalComments.imageList as imgItem}}
+                        <li class="comment-pic-item z-comment-pic-zoom-in J_comment_pic" data-index={{imgItem.index}} data-isvideo={{imgItem.isVideo}}
+                            data-videoSrc="{{imgItem.videoSrc | delProtocolHeader}}" data-videoIndex={{imgItem.videoIndex}} >
+                            {{if commentItem.isIe8}}
+                            <img class="comment-pic  J_comment_thumbnail" data-img="{{imgItem.imgUrl | delProtocolHeader}}" src="{{imgItem.imgUrl | delProtocolHeader}}" >
+                            {{else}}
+                            <div class="comment-pic J_comment_thumbnail" data-img="{{imgItem.imgUrl | delProtocolHeader}}" style="background-image:url({{imgItem.imgUrl | delProtocolHeader}})"></div>
+                            {{/if}}
+                            <span class="vjs-icon-play small-image-play-icon {{imgItem.isVideoHidden}}"></span>
+                            <i class="current-selected-triangle"></i>
+                        </li>
+                        {{/each}}
+                    </ul>
+                    <div class="preview-comment-pic-wrapper J_preview_pic_wrapper {{commentItem.additionalComments.imageOneClass}}">
+                        <img class="preview-comment-pic J_preview_zoomout_pic">
+                        <a class="preview-tab preview-tab2left J_preview_tab_prev vipFont if-big-arrow-left">
+                            <i class="vipFont if-big-arrow-left preview-tab-arrow">&#xe619;</i>
+                        </a>
+                        <a class="preview-tab preview-tab2right J_preview_tab_next">
+                            <i class="vipFont if-big-arrow-right preview-tab-arrow">&#xe61b;</i>
+                        </a>
+                    </div>
+                    <div class="c-comment-video-wrap-{{i}} c-comment-video-fullscreen hidden" >
+                        <!--<div class="m-pop-win">-->
+                            <!--<video id="addition_id" class="video-js video-source-zoomin video-source vip-skin-design vjs-show-big-play-button-on-pause vjs-big-play-centered" webkit-playsinline="webkit-playsinline" playsinline="playsinline" preload="true" type="video/mp4">-->
+                                <!--<source src="{{commentItem.additionalComments.videoUrl}}" type="video/mp4"></source>-->
+                                <!--<p class="vjs-no-js"> 您的浏览器不支持 HTML 5 Video 标签，请升级浏览器。</p>-->
+                            <!--</video>-->
+                        <!--</div>-->
+                    </div>
+                        <div class="c-comment-fullscreen-wrap hidden" >
+                    </div>
+                </div>
+                {{/if}}
+                {{/if}}                             
+                
+            </div>
+            <!--试用报告展开情况-->
+            <div class="c-comment-content-report {{commentItem.isTryReportAll}}" id="J_comment_content_report">
+                <!-- 标题 -->
+                {{if commentItem.reportsAll}}
+                <div class="c-try-report-question">{{commentItem.reportsAll.question}}</div>
+                <!-- 描述 -->
+                <div class="c-try-report-description">{{commentItem.reportsAll.description}}</div>
+                <div class="c-try-report-title">{{commentItem.reportsAll.title}}</div>
+                {{each commentItem.reportsAll.reports as reportItem}}
+                {{if reportItem.type=='text'}}
+                <div class="c-try-report-txt-wrap">
+                    <span class="c-try-report-txt">{{reportItem.data}}</span>
+                </div>
+                {{/if}}
+                {{if reportItem.type=='img'}}
+                <div class="c-try-report-img-wrap">
+                    <img class="c-try-report-img" src="{{reportItem.data}}"></img>
+                </div>
+                {{/if}}
+                {{/each}}
+                <div class="c-comment-report-close">
+                    <span class="c-comment-close-all J_comment_close_all {{commentItem.isTryReport}}">收起全文</span>
+                    <i class="vipFont c-comment-close-all-icon">&#xe615;</i>
+                </div>
+                {{/if}}
+            </div>
+            <!--商家回复-->
+            {{if commentItem.reputationReply != ''}}
+            <div class="clearfix c-comment-reputationReply">
+                <span class="customer">商家回复：</span>{{commentItem.reputationReply}}
+            </div>
+            {{/if}}
+            <!--点赞-->
+            {{if commentItem.canUseful && commentItem.canUseful ==1}}
+            <div class="clearfix">
+                <div class="ui-tooltips ui-tooltips-warning J_tooltips_like_{{i}} pci_public_liked">
+                    <div class="ui-tooltips-content"> 
+                     你已经赞过啦
+                    </div>
+                </div> 
+            </div>
+            <div class="clearfix">
+                <div class="pci-public-useful"><a data-reputationId ="{{commentItem.reputationId}}" data-index={{i}} data-isUserful="{{commentItem.isUseful ? 1:0}}" class = "J_comment_like_link" href="javascript:;"><img class="J_comment_list_img_{{i}}" src = "{{commentItem.isUseful ? '//shop.vipstatic.com/img/detail/icon_small_like_tip.png':'//shop.vipstatic.com/img/detail/icon_small_like_normal.png'}}"><span class="countSpan J_comment_like_count_{{i}}">{{commentItem.usefulCount != 0 ?commentItem.usefulCount:'点赞'}}<span></a></div>
+            </div>
+            {{/if}}
+        </div>
+
+        <div class="c-comment-nlp-icon-wrap">
+            <i class="c-comment-nlp-icon c-comment-icon-{{commentItem.nlpName}}"></i>
+        </div>
+    </div>
+    {{/each}}
+</script>
+<!-- 商品评论空列表模板 -->
+<script type="text/html" id="J-detail-cmtlist-null-tmp">
+    <div class="product-comment-content">
+        <div class="product-comment-mainlist">
+            <!-- 默认情况下没有评论的话 就不要加载下面的product-comment-item列表项目 -->
+            <div class="product-hasnocoment">
+                <i class="vipFont if-sigh if-size-32">&#xe603;</i>
+                <span class="has-no-comment">暂时没有有图评价</span>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script type="text/html" id="J_comment_paginator_tmpl">
+    <div class="text-c ui-paging comment-paginator all-comment-paginator" id="J_detail_paginator">
+        <span class="total">共{{allTotal}}条</span>
+    </div>
+</script>
+
+<script type="text/html" id="J_no_comment_tmpl">
+    <div class="product-hasnocoment">
+        <i class="vipFont if-sigh if-size-32">&#xe603;</i>
+        <span class="has-no-comment">暂时没有{{picOnlyTxt}}评价</span>
+    </div>
+</script>
+
+<script type="text/html" id="J_comment_video_zoomin_tmpl">
+    <!--<p id="J_exit_fullscreen_tips" class="exit-fullscreen-mode-tips hidden">按<span class="esc-box">Esc</span>可以退出大屏模式</p>-->
+    <div class="m-pop-win">
+        <video id="{{bigVideoId}}" class="video-js video-source-zoomin video-source vip-skin-design vjs-show-big-play-button-on-pause vjs-big-play-centered" webkit-playsinline="webkit-playsinline" playsinline="playsinline" preload="true" type="video/mp4">
+            <source src="{{videoSrc | delProtocolHeader}}" type="video/mp4"></source>
+            <p class="vjs-no-js"> 您的浏览器不支持 HTML 5 Video 标签，请升级浏览器。</p>
+        </video>
+    </div>
+</script>
+
+<script type="text/html" id="J_comment_video_tmpl">
+    <!--<p id="J_exit_fullscreen_tips" class="exit-fullscreen-mode-tips hidden">按<span class="esc-box">Esc</span>可以退出大屏模式</p>-->
+    <div class="m-pop-win" data-video="{{videoSrc | delProtocolHeader}}">
+        <video id="{{videoId}}" class="video-js video-source-zoomin video-source vip-skin-design vjs-show-big-play-button-on-pause vjs-big-play-centered" webkit-playsinline="webkit-playsinline" playsinline="playsinline" preload="true" type="video/mp4">
+            <source src="{{videoSrc | delProtocolHeader}}" type="video/mp4"></source>
+            <p class="vjs-no-js"> 您的浏览器不支持 HTML 5 Video 标签，请升级浏览器。</p>
+        </video>
+    </div>
+</script>
+
+
+<!-- 口碑 end --><!-- 我的足迹 start -->
+<div id="J-footprint-mod" class="g-footprint">
+</div>
+<script type="text/html" id="J-footprint-wrap-tmp">
+    <div class="g-footprint-hd">
+        <h4 class="g-footprint-title">我的足迹</h4><a href="//fav.vip.com/browse" id="J-footprint-more" class="g-footprint-more" mars_sead="productdetail_footprint_product_more" target="_blank">查看更多 <span class="footprint-more-icon">&gt;</span></a>
+    </div>
+    <div id="J-footprint-slide-wrap" class="g-footprint-bd">
+        <div id="J-footprint-slide" class="footprint-slide">
+
+        </div>
+        <div id="J-footprint-trigger" class="footprint-trigger">
+            <span href="###" id="J-footprint-trigger-left" mars_sead="productdetail_footprint_product_left" role="button" class="ui-paging-icon-btn icon-btn-prev J_reco_prev">
+                <i class="vipFont i-hv">&#xe619;</i>
+            </span>
+            <span href="###" id="J-footprint-trigger-right" mars_sead="productdetail_footprint_product_right" role="button" class="ui-paging-icon-btn icon-btn-next J_reco_next">
+                 <i class="vipFont i-hv">&#xe61b;</i>
+            </span>
+        </div>
+    </div>
+</script>
+
+<script type="text/html" id="J-footprint-item-tmp">
+    {#productHist}
+        <a class="footprint-item {$status}" target="_blank" href="{$url}" title="{$name}" data-track="done">
+            <i class="footprint-item-icon"></i>
+            <div class="footprint-img-wrap">
+                <img class="footprint-img lazy" data-original="{$img}" width="184" height="230" src="//shop.vipstatic.com/img/share/blank.png" alt="{$name}">
+                <div class="footprint-content">
+                    <p class="footprint-name">{$name}</p>
+                    <div class="footprint-price">
+                        <span class="price-vipshop">&yen;{$price}</span>
+                        <span class="price-market">&yen;{$market_price}</span>
+                    </div>
+                </div>
+            </div>
+        </a>
+    {#/productHist}
+</script>
+<!-- 我的足迹 start -->
+<!-- 商品推荐 start -->
+<div class="FW-recomBox J-data-module clearfix" id="J-FW-recomBox">
+    <!-- <div class="M-detailTitle">
+        <h3 class="detail-title">商品推荐</h3>
+    </div> -->
+    <div class="recom-new-top clearfix" id="J_recommend_goods_box"></div>
+</div>
+<!-- 商品推荐 end -->
+<!-- 终端页底部广告 start -->
+<div id="J-ad-detail-bottom" class="ad-for419-dbottom hidden"></div>
+<!-- 终端页底部广告 end --><!-- 商品咨询 start -->
+<div class="FW-question J-data-module" >
+    <div class="M-detailTitle">
+        <h3 class="detail-title">商品咨询</h3>
+    </div>
+    <div class="M-question" >
+        <div class="q-tit" id = "J-FW-question"></div>
+        <div id = "J-FW-question-detail"></div>
+    </div>
+</div> 
+<script type="text/html" id="J-FW-question_tpl" >
+    购买前如有问题，请向唯品会咨询。<a href="//acs.vip.com/?{{urlParam}}" class="q-tit-btn" target="_blank" mars_sead="m_te_goods_QA_connect"><span>联系客服</span></a>
+</script>
+<script type="text/html" id="J-FW-question-detail_tpl">
+    {{each list as oneDetail}}
+        <dl class="q-tit-item">
+            <dt class="qti-title">
+                <i class="qti-question"></i>
+                <p class="qti-txt">{{oneDetail.question}}</p>
+            </dt>
+            <dd class="qti-content">
+                <i class="qti-answer"></i>
+                <p class="qti-txt">
+                    {{oneDetail.answer}}
+                </p>
+            </dd>
+        </dl>
+    {{/each}}
+</script>
+<!-- 商品咨询 end -->
+<div id = "J-saleServiceList" class="saleServiceList  J_service_wrap J-data-module hidden">
+    <div class="M-detailTitle">
+        <h3 class="detail-title">售后服务</h3>
+    </div>
+    <div class="M-service" >
+        <div class="J-saleServiceList_wrap"></div>
+        <div id = "J-saleServiceList-detail"></div>
+    </div>
+</div> 
+<script type="text/html" id="J-saleServiceList-tpl" >
+    {{each list as item}}
+        <dl class="service-item">
+            <dt class="service-title">
+                <p class="service-txt">{{item.name}}</p>
+            </dt>
+            <dd class="service-content">
+                <p class="service-txt">
+                    {{item.value}}
+                </p>
+            </dd>
+        </dl>
+    {{/each}}
+</script>
+<!-- 关于我们 start -->
+            <div class="FW-aboutUs J-data-module" id="J-FW-aboutUs">
+            </div>
+            <script type="text/html" id="J_au_con_list_item_tpl">
+            <li><img src="//shop.vipstatic.com/img/detail/aboutus/resource/{$img}" alt=""></li>
+            </script>
+            <script type="text/html" id="J-FW-aboutUs_tpl">
+    <div class="M-detailTitle">
+                    <h3 class="detail-title">关于我们</h3>
+                </div>
+                <!-- 关于我们模块 -->
+                <div class="M-aboutUs" id="J-aboutUs-wrap">
+                    <ul id="J-aboutUs-nav-wrap" class="icon-list clearfix">                        
+                         <li class="J-aboutUs-trigger">
+                            <span class="li-item item-1 J_li_item" data-num="1"></span>
+                        </li>
+                        <li class="J-aboutUs-trigger">
+                            <span class="li-item item-2 J_li_item" data-num="2"></span>
+                        </li>
+                        
+                        <li class="J-aboutUs-trigger">
+                            <span class="li-item item-3 J_li_item" data-num="3"></span>
+                        </li>
+                        <li class="J-aboutUs-trigger">
+                            <span class="li-item item-4 J_li_item" data-num="4"></span>
+                        </li>
+                        <li class="J-aboutUs-trigger">
+                            <span class="li-item item-5 J_li_item" data-num="5"></span>
+                        </li>
+                        {{if canReturn}}
+                        <li class="J-aboutUs-trigger">
+                            <span class="li-item item-6 J_li_item" data-num="6"></span>
+                        </li>
+                        {{/if}}
+                        <li class="J-aboutUs-trigger">
+                            <span class="li-item item-7 J_li_item" data-num="7"></span>
+                        </li>
+                        
+                    </ul>
+                    <div id="J-aboutUs-content-wrap">
+                        <div class="au-main J-aboutUs-content">
+                            <div class="" id="J_au_top"></div>
+                            <div class="au-con" id="J_au_con_wrap">
+                                <ul class="au-con-list" id="J_au_con_list_panel"></ul>
+                                <span class="au-con-left" id="J_au_con_left">&lt;</span>
+                                <span class="au-con-right" id="J_au_con_right"> &gt;</span>
+                            </div>
+                        </div>                      
+                    </div>
+                </div>
+    </script>
+<!-- 关于我们 end -->
+        
+        </div>
+    </div>
+</div>
+<!-- 左侧二维码悬浮广告 start -->
+<div class="code-weixin hidden" id="J-bottom-adCode"></div>
+<!-- 左侧二维码悬浮广告 end -->
+        <!--[if lte IE 6]>
+            <div class="pop_up_border hidden J_pop_border pop_position pop_w2" id="J_popCart_success">
+                <div class="pop_close_bar"><span class="pop_close_btn J_pop_close"></span></div>
+                <p class="f14 bold pop_add_success">成功添加到购物袋!</p>
+                <p class="bold pop_margin_b">购物袋中的商品，为你保留<font class="light_red J_cart_countDown"></font>，请及时结算。</p>
+                <p class="bold pop_margin_c">超时后购物袋会被清空，</p>
+                <p class="pop_margin_d">购物袋共有<span class="J_cart_count"></span>件商品，合计：<span class="J_cart_total"></span>元</p>
+                <div class="pop_add_btn"><a id="J_go_on_shopping" mars_sead="te_goods_window_goon_btn" href="" class="btn_comm btn130">&lt;&lt;&nbsp;继续购物</a><a id="J_checkout" mars_sead="te_goods_window_cart_button" href="//cart.vip.com/te2/" class="btn_comm btn130_gray">去购物袋结算&nbsp;&gt;&gt;</a></div>
+            </div>
+        <![endif]-->
+
+
+<script type="text/html" id="J-wrap-sizeTemplate">
+    <div class="J_size_table size-table-content">
+        <table class="pro-size-tab" mars_sead_hover="shop_detail_assistant_view1">
+            <tbody id="J-tableBody" class="J_size_table_body">
+                <tr class="hidden J_size_tips_wrap">
+                    <td colspan="8" class="tag J_size_table_tips" id="J-size-tips">
+                        <span class="light-red">温馨提示：</span>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="J_size_more size-table-btn hidden" mars_sead="size_xlsx_more">
+       查看更多<i class="vipFont if-arrow-bottom">&#xe616;</i>
+    </div>
+    <div class="J_size_up size-table-btn hidden">
+       收起<i class="vipFont if-arrow-up">&#xe615;</i>
+    </div>
+</script>
+
+
+<script type="text/html" id="J_anti_brush">
+    <div class="pop-cnt">
+        <span class="J_antibush_cancel_btn pop-close" title="关闭" role="button" rel="nofollow"></span>
+        <p class="pop-tit">验证成功后，商品将直接加入购物袋</p>
+        <div class="unbrush-pop-cnt">
+            <div class="unbrush-pop-tips">
+                <div class="unbrush-img">
+                    <img id="J_antibrush_code" src="//shop.vipstatic.com/img/share/blank.png" width="160" height="40" onerror="nsFormMod.getAntiSecCode">
+                </div>
+                <span id="J_antibrush_code_refresh">换一张</span>
+            </div>
+            <div class="unbrush-pop-int">
+                <input id="J_antibrush_code_inp" type="text" />
+            </div>
+            <h3 class="hidden unbrush-error-tips" id="J-cProt-tips">
+                    <span class="text">
+                        <i class="vipFont if-sigh">&#xe603;</i>
+                        <span class="cProt-error-msg" id="J_unbrush_error">验证码有误，请重新输入！</span>
+                    </span>
+            </h3>
+            <p class="unbrush-pop-oper">
+                <span id="J_antibush_buy_btn" class="antibrush-btn">立即抢购</span>
+                <a class="J_antibush_cancel_btn" href="javascript:;">取消</a>
+            </p>
+        </div>
+        <div class="unbrush-pop-lost hidden">
+            <p><i class="pop-ico-warn"></i>抱歉，抢购人数太多了，请稍后再试~</p>
+            <p class="unbrush-pop-oper">
+                <span class="unbrush-btn-lost">我知道了</span>
+            </p>
+        </div>
+    </div>
+</script>
+
+<script type="text/html" id="J-wl-size-list-tpl">
+    <div class="waitlist-wrap">
+        <div class="hd">
+            <h3 class="waitlist-pop-title">以下尺码可提醒：</h3>
+            <span id="J-waitlist-pop-close-btn" class="vipFont waitlist-pop-close">&#xe609;</span>
+        </div>
+        <div class="bd clearfix">
+            <div class="waitlist-img">
+                <img id="popupImg" width="100" height="126" src=""/>
+            </div>
+            <div class="waitlist-info">
+                <h4 class="waitlist-pop-name"></h4>
+                <div class="size-list">
+                    <ul id="J-wl-size-list">
+                        {#sizeList}
+                        <li class="size-list-item J-sizeID-wl {$haveInListCls}" id="J-topBarAdd-sizeID-wl-{$id}" data-hover="size-list-item-hover" data-id="{$id}">
+                            <span class="size-list-item-name">{$name}</span><span class="i-select"></span><span class="size-waitlist {$inWaitListCls}" mars_sead="te_goods_buy_waitlist_order"></span>
+                        </li>
+                        {#/sizeList}
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="ft">
+            <span id="J-add-waitlist-btn" class="add-waitlist">加入提醒</span>
+            <p class="waitlist-notice">注：加入提醒后，需刷新页面，才能看到提醒标记哦~</p>
+        </div>
+    </div>
+</script>
+
+<script type="text/html" id="J-addWaitListFail-tpl">
+    <div class="bd clearfix">
+        <p class="busy-pop-txt"><i class="vipFont if-sigh if-size-30">&#xe603;</i><span id="J-addWaitListFail-txt"></span></p>
+    </div>
+    <div class="ft">
+        <span class="J-busy-pop-close-btn confirm-waitlist">我知道了</span>
+        <p class="waitlist-notice"><span id="J-busy-pop-countdown" class="busy-pop-countdown">3</span> 秒后弹窗将自动关闭</p>
+    </div>
+</script>
+
+<!-- 加入购物车时，系统系统繁忙提示模版 -->
+<script type="text/html" id="J-timeoutPop-template">
+    <div class="M-win">
+        <span class="vipFont win-close J-timeoutPop-close">&#xe609;</span>
+        <div class="win-busy">
+            <p>亲，现在抢货的小伙伴太多了，请您稍后再试。</p>
+            <p class="ui-error-code fav-fail-error-code">{$errorCodeInfo}</p>
+        </div>
+        <div class="win-phone">
+            <span class="win-code"></span>
+            <p class="fl win-msg">用手机客户端下单，抢购快人一步！</p>
+            <p class="fl"><a href="javascript:void(0);" class="win-confirm J-timeoutPop-close">确&nbsp;定</a></p>
+        </div>
+    </div>
+</script>
+
+<!-- 加入购物车接口调用出错提示模版 -->
+<script type="text/html" id="J-popCart-msg">
+    <div class="ui-dialog-inner">
+        <a href="javascript:;" role="button" class="ui-dialog-close vipFont" id="J-popCart-close">&#xe609;</a>
+        <div class="ui-dialog-content">
+            <h3 class="ui-dialog-tips groupbuy-dialog-tips f-text-center"><span class="text"><i class="vipFont if-sigh">&#xe603;</i><span id="J-popCart-msgTxt"></span></span></h3>
+            <p class="f-text-center"><span id="J-popCart-countdown">3</span>秒后自动关闭</p>
+        </div>
+        <div class="ui-dialog-command"><a href="//cart.vip.com/te2" target="_blank" role="button" class="ui-btn-medium ui-btn-primary">查看购物袋</a><a href="//www.vip.com" target="_blank" role="button" class="ui-btn-medium ui-btn-default">返回首页</a></div>
+        <p class="ui-error-code fav-fail-error-code">{$errorCodeInfo}</p>
+    </div>
+</script>
+<!-- 禁售期加入购物车接口调用出错提示模版 -->
+<script type="text/html" id="J-popBanCart-msg">
+    <div class="ui-dialog-inner popBanCart-msg">
+        <a href="javascript:;" role="button" class="ui-dialog-close vipFont" id="J-popCart-close">&#xe609;</a>
+        <div class="ui-dialog-content">
+            <h3 class="ui-dialog-tips groupbuy-dialog-tips f-text-center"><span class="text"><i class="vipFont if-sigh">&#xe603;</i><span id="J-popCart-msgTxt"></span></span></h3>
+        </div>
+        <div class="ui-dialog-command"><a href="" role="button" class="ui-btn-medium ui-btn-primary J_reload">刷新页面</a>
+        <p class="ui-error-code fav-fail-error-code">{$errorCodeInfo}</p>
+    </div>
+</script>
+
+<!-- pms信息模版 -->
+<script type="text/html" id="J-pms-template">
+    {#item}
+    <dl class="clearfix">
+        <dt class="pp-class">{$type}</dt>
+        <dd class="pp-con" title="{$tips}">{$tips}</dd>
+        <dd class="pp-activity hidden">
+            <div class="pms-activity-goods-icon J-pms-activity-goods" data-activity-no="{$activityNo}}">查看<i class="vipFont pp-activity-font">&#xe61c;</i></div>
+            <div id="J-pp-activity-tips-{$activityNo}" class="pp-activity-tips"></div>
+        </dd>
+       
+    </dl>
+    {#/item}
+</script>
+<!-- pms 其他提示语（黑名单商品） -->
+<script type="text/html" id="J-pms-additional-tips">
+    {{each data as item}}
+        <li class="pms-tips-content">{{item.tips}}</li>
+    {{/each}}
+</script>
+<!-- 加价购 -->
+<script type="text/html" id="J-pms-activity-goods-tips">
+<div class="ui-tooltips ui-tooltips-handle ui-tooltips-top-left-arrow activity-goods-con J-activity-goods-con" id="J-pms-activity-goods-tips-{{activityNo}}">
+    <div class="ui-tooltips-arrow">
+        <span class="arrow  arrow-out">&#9670;</span>
+        <span class="arrow">&#9670;</span>
+    </div>
+    <p class="activity-goods-con-title">
+        <span class="activity-goods-con-title-msg">满足条件后可在购物袋换购以下商品</span><a href="javascript:;" role="button" class="ui-tooltips-close vipFont J-pms-activity-goods-close-{{activityNo}}">&#xe609;</a>
+    </p>
+    <div class="activity-goods-list" id="J-activity-goods-list-{{activityNo}}"><span class="ii-loading-pink-32x32 activity-goods-list-loading">努力加载中……</span></div>
+    <div class="activity-goods-con-confrim">
+        <a href="javascript:;" class="J-pms-activity-goods-close-{{activityNo}} ui-btn-medium  ui-btn-primary">知道了</a>
+    </div>
+</div>
+</script>
+<!-- 加价购浮层异常 -->
+<script type="text/html" id="J-pms-activity-goods-tips-error">
+    <span class="pms-activity-goods-tips-error J-pms-activity-goods-tips-error">
+        <i class="vipFont  if-sigh  if-size-32">&#xe603;</i>{{msg}}
+    </span>
+</script>
+
+<!-- 加价购商品列表 -->
+<script type="text/html" id="J-pms-activity-goods-list">
+    {{each data.pmsGoodsList as list}}
+        <ul>
+            <li class="activity-goods-item-title" title="{{list.activeMsg}}">{{list.activeMsg}}</li>
+            {{each list.goods as good}}
+            <li class="activity-goods-item clearfix">
+                <div class="activity-goods-item-img"><a href="{{good.url}}" target="_blank"><img src="{{good.smallImage}}" alt="" width="70" height="89"></a><!-- 
+                    -->{{if good.type == 2}}<i class="activity-goods-item-stock activity-goods-item-stock-chance">有机会</i>{{/if}}<!--
+                    -->{{if good.type == 1}}<i class="activity-goods-item-stock activity-goods-item-stock-soldout">已抢光</i>{{/if}}</div>
+                <div class="activity-goods-item-detail">
+                    <p class="activity-goods-item-detail-name" title="{{good.productName}}"><a href="{{good.url}}" target="_blank">{{good.brandStoreName}}&nbsp;{{good.productName}}</a></p>
+                    <p class="activity-goods-item-detail-size">{{good.sizeName}}</p>
+                    <p class="activity-goods-item-detail-price"><i class="activity-goods-item-detail-num">x{{good.num}}</i><i class="activity-goods-item-detail-vipPrice">¥{{good.price}}</i><del>¥{{good.marketPrice}}</del></p>
+                </div>
+            </li>
+            {{/each}}
+        </ul>
+    {{/each}}
+</script>
+
+<!-- 疯抢快抢预热开售时间 -->
+<script type="text/html" id="J_warmup_time_tp1">
+    <span class="warmup-time J_warmup">    
+        <span class="warmup-time-inner">
+            <span class="J_warmup_time_static hidden">
+                <em class="J-warmup-time-D"></em>天<em class="J-warmup-time-H"></em>小时后开抢
+            </span>
+            <span class="J_warmup_time_tomorrow hidden">
+                明天<em class="J-warmup-time-T"></em>开抢
+            </span>
+            <span class="J_warmup_time_countDown hidden">
+                <em class="J-warmup-time-H"></em>:<em class="J-warmup-time-M"></em>:<em class="J-warmup-time-S"></em>后开抢
+            </span>
+        </span>
+    </span>
+</script>
+
+
+<!-- pms信息模版左侧悬浮 -->
+<script type="text/html" id="J-pms-templateSider">
+    {#items}
+    <p class="pro-pms-item" title="{$tips}"><span class="pro-pms-item-type">{$type}</span>{$tips}</p>
+    {#/items}
+</script>
+<!-- pms 左侧悬浮其他提示语（黑名单商品） -->
+<script type="text/html" id="J-pms-additional-tips-sider">
+    <ul class="pro-pms-item pms-additional-tips-sider">
+    {{each data as item}}
+        <li class="pms-tips-content"><i class="el-dot">&bull;</i>{{item.tips}}</li>
+    {{/each}}
+    </ul>
+</script>
+
+<!-- 顶部新旧积分广告模版 -->
+<script type="text/html" id="J-integrate-ads-tpl">
+    <div class="integrate-wrap">
+        {#items}
+        <a {$link}>
+        <img src="{$img}" alt="{$name}" />
+        </a>
+        {#/items}
+        <span id="J-integrate-close" class="integrate-close"></span>
+    </div>
+</script>
+
+<!-- 商品已售完提示信息模版 -->
+<script type="text/html" id="J-saleout-tpl">
+    <div class="saleOut-guess-like" id="J_maybeLike_wrap">
+        <div class="saleOut-no-guess">
+            <p>正在载入你可能感兴趣的商品...</p>
+        </div>
+    </div>
+</script>
+
+
+<!-- 推荐loading模板 -->
+<script type="text/html" id="J-saleOut-lodingTpl">
+    <div class="saleOut-guess-like" id="J_maybeLike_loding">
+        <div class="reco-head">
+        </div>
+        <div class="saleOut-loading">
+            <p>正在载入你可能感兴趣的商品...</p>
+        </div>
+    </div>
+</script>
+
+
+<!-- 没有推荐模板 -->
+<script type="text/html" id="J-saleOut-noguessTpl">
+    <div class="saleOut-no-guess">
+        <h4 class="saleOut-title">SORRY 抱歉！</h4>
+        <p class="saleOut-txt">您查看的商品<span id='J_no_reco_txt'>已经下架</span>了，下次早点来哦！</p>
+        <a href="//www.vip.com" mars_sead="te_goods_offreco_button" class="ui-btn-large ui-btn-primary">
+            先去唯品会首页逛逛 &gt;
+        </a>
+    </div>
+</script>
+
+
+
+
+<script type="text/html" id="J_loan_error_pop_tmpl">
+    <div class="ui-dialog-inner">
+        <a href="javascript:;" role="button" class="ui-dialog-close vipFont J_close_loan_err_pop_btn" mars_sead="m_te_goods_buy_viphua_errorclose">&#xe609;</a>
+        <div class="ui-dialog-content">
+            <h3 class="ui-dialog-tips f-text-center">
+                <p class="text">
+                    <i class="vipFont if-sigh">&#xe603;</i>
+                    <span class="J_error_pop_txt">
+                        您好，您的账号不支持分期购，您可以把商品加入购物袋继续购买~
+                    </span>
+                </p>
+            </h3>
+        </div>
+        <div class="ui-dialog-command"><a href="javascript:;" role="button" class="ui-btn-medium ui-btn-primary J_add_to_cart_btn" mars_sead="m_te_goods_buy_viphua_errorbuy">添加到购物袋</a></div>
+        <p class="f-text-center count-down-txt">
+            <span class="J_count_down_sec">3</span>
+            秒后自动关闭
+        </p>
+    </div>
+</script>
+
+
+<script type="text/html" id="quality-control-link-tmpl">
+    <a href="{$viewMoreLink}" target="_blank" class="qc-category-display-link" >点击查看更多【{$categoryName}】的质检信息</a>
+    <a href="//viva.vip.com/act/supportProductQuality-pc?wapid=vivac_1059" target="_blank" class="product-QA-promise-link" >点击《唯品会企业产品质量承诺书》</a>
+</script>
+
+<script type="text/html" id="J_add_fav_error_tmpl">
+    <div class="ui-dialog-content">
+        {{if title}}
+            <h3 class="ui-dialog-tips f-text-center">
+                <span class="text"><span class="vipFont if-sigh">&#xe603;</span>{{#title}}</span>
+            </h3>
+        {{/if}}
+        {{if content}}
+            <p>{{#content}}</p>
+        {{/if}}
+        <p class="count-down-time"><span id="J_add_fav_error_countdown_sec">3</span>秒后将自动关闭</p>
+    </div>
+</script>
+
+
+<script type="text/html" id="J_loan_installment_tmpl">
+    {#loan_item}
+    <li class="loanUse-list-item J_loan_installment_item" data-period="{$period}" mars_sead="m_te_goods_buy_viphua_instalment">
+        <span class="loanUse-item-name">{$loan_info}</span>
+        <span class="i-selected"></span>
+        <span class="loanUse-item-interest">{$loan_fee}</span>
+    </li>
+    {#/loan_item}
+</script>
+
+
+
+<!-- 加入购物车接口调用出错提示模版 -->
+<script type="text/html" id="J-popCol-msg">
+    <div class="ui-dialog-inner">
+        <a href="javascript:;" role="button" class="ui-dialog-close vipFont J-popCol-close"></a>
+        <div class="ui-dialog-content">
+            <h3 class="ui-dialog-tips groupbuy-dialog-tips f-text-center"><span class="text"><i class="vipFont if-sigh"></i><span id="J-popCol-msgTxt"></span></span></h3>
+            <p class="f-text-center"><span id="J-popCol-countdown">3</span>秒后自动关闭</p>
+        </div>
+        <div class="ui-dialog-command"><a href="###" role="button" class="ui-btn-medium ui-btn-primary J-popCol-close">确定</a><a href="//www.vip.com" target="_blank" role="button" class="ui-btn-medium ui-btn-default">返回首页</a></div>
+        <p class="ui-error-code fav-fail-error-code">{$errorCodeInfo}</p>
+    </div>
+</script>
+<script type="text/html" id="J_address_tpl">
+    {{each list as item}}
+    {{if item.id > 0}}
+    <li class="J_address_item J_item{{item.id}} delivery-address-item" data-id="{{item.id}}" data-type="{{info.address_level}}" 
+        data-name="{{item.name}}">
+        <a class="delivery-address-tag" href="javascript:;" title="{{item.name}}">
+            <span class="delivery-address-cut">{{item.name}}</span>
+        </a>
+    </li>
+    {{/if}}
+    {{/each}}
+</script>
+<!--时效默认模板（没有选中尺码)-->
+<script type="text/html" id="J_delivery_time_default_tpl">
+    <div class="c-delivery-message-box">
+        {{if fe_overTimeFlag == 1}}
+        <a href="//help.vip.com/themelist.php?type=detail&id=499" target="_blank" class="delivery-tag tag-slow-pay"><em class="icon-slow-pay"></em>慢必赔</a>
+        {{/if}}
+        {{if fe_server == 1}}
+        <a href="//help.vip.com/themelist.php?type=detail&id=501" target="_blank" class="delivery-tag tag-tmr-212"><em class="icon-tmr-212"></em>212</a>
+        {{else if fe_server == 2}}
+        <a href="//help.vip.com/themelist.php?type=detail&id=500" target="_blank" class="delivery-tag tag-tmr-arr"><em class="icon-tmr-arr"></em>次日达</a>
+        {{/if}}
+        {{if fe_departure_time || fe_delivery_time}}
+        <span id="J-delivery-pay-time">{{if cutOffTime == null}}现在{{else}}{{cutOffTime}}前{{/if}}</span>付款，{{if fe_departure_time}}商品预计<span>{{fe_departure_time}}</span>前发货
+                {{else}}最快<span>{{fe_delivery_time}}</span>送达
+            {{/if}}
+        {{/if}}
+    </div>
+</script>
+
+<script type="text/html" id="J_video_zoomin_tmpl">
+    <p id="J_exit_fullscreen_tips" class="exit-fullscreen-mode-tips">按<span class="esc-box">Esc</span>可以退出大屏模式</p>
+    <div class="m-pop-win">
+        <video id="J_video_source_zoomin" class="video-js video-source-zoomin video-source vip-skin-design vjs-show-big-play-button-on-pause vjs-big-play-centered" webkit-playsinline="webkit-playsinline" playsinline="playsinline" preload="true" type="video/mp4">
+            <source src="" type="video/mp4"></source>
+            <p class="vjs-no-js"> 您的浏览器不支持 HTML 5 Video 标签，请升级浏览器。</p>
+        </video>
+    </div>
+</script>
+
+<script type="text/html" id="J_video_error_tmpl">
+    <p class="video-error-tips">网络开小差了，请再试试吧！</p>
+    <button id="J_video_reload_btn" class="video-reload-btn">刷新</button>
+</script>
+
+<script type="text/html" id="J_script_detail_crumbs">
+    <a href="//www.vip.com">首页&nbsp;&gt;&nbsp;</a><a href="{{link}}">{{b_name}}</a>&nbsp;&gt;&nbsp;<span title="{{m_name}}">{{m_name}}</span>
+</script>
+
+
+<script type="text/javascript">
+    //分享组件配置
+    var O_share = {"dialogId":"5375b68497d00","eventElem":"body","md":"m_yure_goods","diyStyleSelf":true}
+
+        $.Var.set('isNewDomainCaptcha', null);
+
+
+    //海淘商品加入购物车新、旧流程，1:旧（加入购物车）, 2:新（直接跳转到下单页）
+    var globalCartProc = '1';
+
+    //判断当前前台页面，0：首页，1：列表页，2：终端页 **重要，用于公共页头商品关联等
+    var I_pageType = 2;
+
+
+    //In_warehouse,头部切换分仓用到的变量。
+    var In_warehouse = {'VIP_NH':0,'VIP_CD':0,'VIP_BJ':0,'VIP_SH':0,'VIP_HZ':0};
+
+    var VIPTE = {
+        DETAIL : {
+            cartSwitch : null        }
+    };
+
+
+    var I_query = {"preview":false,"token":"","showApiUrl":false,"timestamp":1644851239,"sell_time_from":"","time_from":"","previewLink":"","previewTime":false,"userTypeTag":"a","brandId":"1710620765","merchandiseId":"6918544641033750493","f":"","v":0,"pageType":2,"channelId":0,"warehouse":"VIP_CD","warehouseId":4,"isTodaySale":true,"b_s":0,"b_n":0,"s_p":0,"b_p":"","postType":"","globalCartProc":2,"isPrepay":0,"openPrePayV9":0,"brandState":0,"pcSpecial":null,"appCacheRead":true,"appCacheWrite":true,"apiCacheRead":true,"apiCacheWrite":true,"addCacheTime":0,"appBackupCacheWrite":false,"appBackupCacheRead":false,"isWarmup":0,"isMulticolor":0,"template_type":null,"captchaV2":1,"moveMapi":1,"openSign":1,"closeSvipEnt":0,"openhk":1,"openproxy":1,"openV6":1,"mapiCoupon":1};
+    var S_warehouse = '';
+
+    
+
+
+
+        var PG = {"brand":{"id":null,"status":null,"isWarmup":false,"start_time":null,"end_time":null,"brand_store_sn":null,"sale_style_ex":null,"sale_style":null,"sale_style_global":null,"name":null,"logo":null,"isMixedSalesStyle":null,"salesFlag":null},"mids":[],"product":{"id":null,"is_medicine":null,"spuId":null,"categoryId":null,"storeId":null,"storeSource":null,"priceSignage":null,"skuList":[],"sizeStock":null,"sizeLength":0,"model_id":0,"weight":0,"sell_price_min":null,"is_multiple_price":null,"curSelectColorProps":"","new_mixed_cat1":null,"new_mixed_cat2":null,"extraDiscountType":null,"is_cjc_large":null,"isAreaSell":null,"isOxo":"0","oxo_sale_area":0,"prepay":"","maxVipshopPrice":null,"is360Show":0,"is_multicolor":0,"new_cat_id":null,"buy_num_min":1,"buy_num_max":2,"is_independent":null,"small_image":null,"name":null,"market_price":null,"vipshop_price":null,"market_of_vip_price":null,"otherId":null,"category_id":null,"category_name":null,"discount":null,"isSecKill":null,"size_table_id":null,"is_prepay":null,"prepay_info":null,"prepay_current_periods":null,"hasVisSizeHtml":null,"overseas_config_activity":0,"is_store":null,"is_device":null,"isBeauty":null,"isSquareImage":null,"videoUrl":null},"switchConfig":{"useNewStockMethod":1,"appShopSpecialPrice":0,"appShopGoodsRemindSwitch":0,"appShopHasGoodsRemind":0,"slowDeliverySwitch":null,"B_loan":false,"fe_isBeautyDetail":0,"isUseQualityControl":0,"sizeRecommandSwitch":null,"is_show_comment":0,"prepayOrderApiSwitch":0,"activityGoodsSwitch":null,"newDegreeSwitch":1},"config":{"sizeRecommandNeedFive":null,"mars_show_comment":null,"preview":false,"token":""}}
+    var leftSideCoupon = {"brandId":"1710620765","productId":null,"logo":null,"marsPf":"detail_goods","mars_sead":"te_list_suspend_coupons","isWarmUp":false,"sell_status":"2"}
+    //图片加载异常自动隐藏
+    $('.J_mer_smallImg, .J_mer_bigImg').error(function () {
+        $(this).parent().hide();
+    });
+
+    
+    $.Loader.advScript(
+        {
+            name : 'detail-js',
+            isCrossOrigin : 1,
+            url : '//shop.vipstatic.com/js/public/detail/detail_v3-hash-6f962f33.js?20220214'
+        },
+        {
+            name : 'jqzoom',
+            isCrossOrigin : 1,
+            url : '//shop.vipstatic.com/js/public/plugins/jqzoom-hash-ad02979b.js?20220214'
+        },
+                {
+            name : 'plugins-videojs',
+            isCrossOrigin : 1,
+            url : '//shop.vipstatic.com/js/public/plugins/video-hash-f2b50db7.js?20220214'
+        },
+        {
+            name : 'plugins-sign',
+            isCrossOrigin : 1,
+            url : '//shop.vipstatic.com/js/public/plugins/sign_complex-hash-c2e9126b.js?20220214'
+        }
+
+    );
+
+    $.Listeners.sub('ready.second').onsuccess(function () {
+        $.Loader.advScript({
+            name : 'share-plugin',
+            url : '//share.vip.com/themes/default/static/widget/assets/js/dest/app/share/share.js?v=' + VIPSHOP.jsVer
+        });
+
+        
+        
+            });
+	//惊喜价
+    $.Var.set('cxoArr', null);
+
+    // 去专场开关
+    $.Var.set('openPlanb', 1 );
+    //pms新接口
+    $.Var.set('useNewPmsInfo', 1 );
+</script>
+<div id="J_viva_container" class="J_viva_content_loader" data-from-viva="detailVivaPatch-pc"></div>
+<script type="text/javascrip">var a=1;</script><script type="text/javascript">
+var commonVer = 132 ;
+
+$(function(){
+    $.Listeners.sub('ready.four').onsuccess(function () {
+        if(!VIPSHOP.isIE6){
+            $.Loader.advScript({
+                  name : 'sidebar',
+                  url : '//common.vip.com/?type=sidebar&jq=0&core=0&v=132'
+            });
+        }
+        $.Loader.advScript({
+            name : 'inf',
+            isCrossOrigin : 1,
+            url : '//shop.vipstatic.com/js/public/te/1/inf.js?20220214'
+        });
+    });
+});
+ 
+</script>
+
+<footer id="J-footerArea"></footer>    </body>
+</html>
