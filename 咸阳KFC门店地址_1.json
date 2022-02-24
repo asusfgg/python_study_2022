@@ -1,0 +1,86 @@
+{
+    "Table": [{
+        "rowcount": 15
+    }],
+    "Table1": [{
+            "rownum": 1,
+            "storeName": "福园",
+            "addressDetail": "渭阳西路中段福园国际时代广场一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "陕西省",
+            "cityName": "咸阳市"
+        },
+        {
+            "rownum": 2,
+            "storeName": "新兴",
+            "addressDetail": "人民东路华润万家一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "陕西省",
+            "cityName": "咸阳市"
+        },
+        {
+            "rownum": 3,
+            "storeName": "西安机场T3到达",
+            "addressDetail": "国际机场3号航站综合交通枢纽1层大巴站",
+            "pro": "机场店,礼品卡",
+            "provinceName": "陕西省",
+            "cityName": "咸阳市"
+        },
+        {
+            "rownum": 4,
+            "storeName": "杨凌康乐",
+            "addressDetail": "杨凌区范区康乐路西段化建大厦一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "陕西省",
+            "cityName": "咸阳市"
+        },
+        {
+            "rownum": 5,
+            "storeName": "咸阳世纪DT",
+            "addressDetail": "世纪大道中段三米阳光一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "陕西省",
+            "cityName": "咸阳市"
+        },
+        {
+            "rownum": 6,
+            "storeName": "兴平南关餐厅",
+            "addressDetail": "南关西路财富广场一层肯德基",
+            "pro": "Wi-Fi,礼品卡,生日餐会",
+            "provinceName": "陕西省",
+            "cityName": "咸阳市"
+        },
+        {
+            "rownum": 7,
+            "storeName": "人民路",
+            "addressDetail": "人民中路咸阳国际财富中心1期1层",
+            "pro": "24小时,店内参观,礼品卡,生日餐会",
+            "provinceName": "陕西省",
+            "cityName": "咸阳市"
+        },
+        {
+            "rownum": 8,
+            "storeName": "泾阳中心",
+            "addressDetail": "中心街与北极宫大街十字东北角（泾阳世纪新城）一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "陕西省",
+            "cityName": "咸阳市"
+        },
+        {
+            "rownum": 9,
+            "storeName": "三原城关",
+            "addressDetail": "人行大街（三原商贸中心）一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "陕西省",
+            "cityName": "咸阳市"
+        },
+        {
+            "rownum": 10,
+            "storeName": "咸阳万达",
+            "addressDetail": "玉泉东路10号",
+            "pro": "Wi-Fi",
+            "provinceName": "陕西省",
+            "cityName": "咸阳市"
+        }
+    ]
+}
