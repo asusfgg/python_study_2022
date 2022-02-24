@@ -60,3 +60,6 @@ if __name__ == '__main__':
         content = get_content(request)
         # 第三步：下载数据：
         down_load(page, content,location)
+
+
+
