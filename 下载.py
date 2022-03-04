@@ -1,8 +1,8 @@
 '''
 Author: 千仞无锋
 Date: 2022-02-14 23:57:35
-LastEditors: 千仞无锋
-LastEditTime: 2022-02-15 00:47:48
+LastEditors: Please set LastEditors
+LastEditTime: 2022-03-04 11:03:07
 FilePath: \20220205Py学习\下载.py
 '''
 import urllib.request
