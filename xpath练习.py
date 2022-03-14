@@ -1,7 +1,7 @@
 '''
 Author: your name
 Date: 2022-03-04 16:15:21
-LastEditTime: 2022-03-04 16:30:43
+LastEditTime: 2022-03-07 14:46:41
 LastEditors: Please set LastEditors
 Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 FilePath: \python_study_2022\xpath练习.py
@@ -27,3 +27,4 @@ tree = etree.HTML(content)
 # print(tree)
 result = tree.xpath('//input[@id="su"]/@value')
 print(result)
+# 

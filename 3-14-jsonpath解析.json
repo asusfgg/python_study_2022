@@ -1,0 +1,78 @@
+{
+    "store": {
+        "book": [{
+                "category": "reference",
+                "author": "Nigel Rees",
+                "title": "Sayings of the Century",
+                "price": 8.95
+            },
+            {
+                "category": "fiction0",
+                "author": "Evelyn Waugh",
+                "title": "Sword of Honour",
+                "price": 12.99
+            },
+            {
+                "category": "fiction1",
+                "author": "Herman Melville",
+                "title": "Moby Dick",
+                "price": 8.99
+            },
+            {
+                "category": "fiction2",
+                "author": "J. R. R. Tolkien",
+                "title": "The Lord of the Rings",
+                "price": 22.99
+            },
+            {
+                "category": "fiction3",
+                "author": "J. R. R. Tolkien",
+                "title": "The Two Towers",
+                "isbn": "0-395-19395-8",
+                "price": 22.99
+            }
+        ],
+        "bike": [{
+                "category": "sports",
+                "title": "BMX",
+                "price": 100
+            },
+            {
+                "category": "sports",
+                "title": "ROAD",
+                "price": 200
+            },
+            {
+                "category": "sports",
+                "title": "MOUNTAIN",
+                "price": 300
+            },
+            {
+                "category": "sports",
+                "title": "HYBRID",
+                "price": 400
+            }
+        ],
+        "food": [{
+                "category": "fruits",
+                "title": "Apple",
+                "price": 100
+            },
+            {
+                "category": "fruits",
+                "title": "Orange",
+                "price": 200
+            },
+            {
+                "category": "fruits",
+                "title": "Banana",
+                "price": 300
+            },
+            {
+                "category": "fruits",
+                "title": "Grapes",
+                "price": 400
+            }
+        ]
+    }
+}
