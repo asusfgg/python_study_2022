@@ -2,7 +2,7 @@
 Author: 千仞无锋
 Date: 2022-03-16 17:40:18
 LastEditors: 千仞无锋
-LastEditTime: 2022-03-16 19:56:58
+LastEditTime: 2022-03-16 23:31:01
 FilePath: \python_study_2022\3-16-selenium硒-解析.py
 '''
 # selenium用于web程序测试的工具
@@ -13,15 +13,15 @@ FilePath: \python_study_2022\3-16-selenium硒-解析.py
 # 导入
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
-import urllib.request
+# import urllib.request
 
-# 爬下京东首页，秒杀数据
-url1 = 'https://www.jd.com/'
-# 访问
-response1 = urllib.request.urlopen(url1)
-content1 = response1.read().decode('utf-8')
-# print(content1) # 打印网页内容
-# 没有获取到关键数据 因为是模拟浏览器
+# # 爬下京东首页，秒杀数据
+# url1 = 'https://www.jd.com/'
+# # 访问
+# response1 = urllib.request.urlopen(url1)
+# content1 = response1.read().decode('utf-8')
+# # print(content1) # 打印网页内容
+# # 没有获取到关键数据 因为是模拟浏览器
 
 # 用selenium模拟浏览器访问
 # 创建浏览器操作对象(路径填入)
@@ -36,4 +36,9 @@ driver.get(url)
 # 弹出的窗口 显示 受到自动测试软件的控制
 
 content = driver.page_source
-print(content)
+# print(content)
+with open('jd-3-16.html', 'w', encoding='utf-8') as f:
+    f.write(content)
+
+# 元素定位
+# 模拟鼠标和键盘操作这些元素
