@@ -1,7 +1,7 @@
 '''
 Author: your name
 Date: 2022-03-25 14:52:28
-LastEditTime: 2022-03-25 14:57:14
+LastEditTime: 2022-03-25 15:31:00
 LastEditors: Please set LastEditors
 Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 FilePath: \python_study_2022\Scrapy基础\当当网\scrapy_dangdang_3_25\scrapy_dangdang_3_25\settings.py
@@ -20,6 +20,8 @@ BOT_NAME = 'scrapy_dangdang_3_25'
 SPIDER_MODULES = ['scrapy_dangdang_3_25.spiders']
 NEWSPIDER_MODULE = 'scrapy_dangdang_3_25.spiders'
 
+# 屏蔽掉无关日志报警信息
+LOG_LEVEL = 'ERROR'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'scrapy_dangdang_3_25 (+http://www.yourdomain.com)'
