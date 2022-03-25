@@ -1,12 +1,13 @@
 '''
 Author: your name
 Date: 2022-03-25 14:54:16
-LastEditTime: 2022-03-25 15:43:23
+LastEditTime: 2022-03-25 16:25:18
 LastEditors: Please set LastEditors
 Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 FilePath: \python_study_2022\Scrapy基础\当当网\scrapy_dangdang_3_25\scrapy_dangdang_3_25\spiders\dang.py
 '''
 import scrapy
+from scrapy_dangdang_3_25.items import ScrapyDangdang325Item
 
 
 class DangSpider(scrapy.Spider):
@@ -37,10 +38,16 @@ class DangSpider(scrapy.Spider):
                 src = src
             else:
                 src = li.xpath('.//img/@src').extract_first()
-            alt = li.xpath('.//img/@alt').extract_first()
+            name = li.xpath('.//img/@alt').extract_first()
             price = li.xpath(
                 './/p[@class="price"]/span[1]/text()').extract_first()
-            print(src, alt, price)
+            print(src, name, price)
+            # 将数据交给pipeline
+            # 代码首行得去导入一下items
+            book = ScrapyDangdang325Item(src=src, name=name, price=price)
+            # 交给pipeline去下载
+            yield book
+            # yield 表示 获得一个 交给管道一个 迭代
 
         print('======================= 项目运行结束 ========================')
         pass
