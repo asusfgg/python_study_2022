@@ -1,7 +1,7 @@
 '''
 Author: your name
 Date: 2022-03-25 14:52:28
-LastEditTime: 2022-03-25 16:27:25
+LastEditTime: 2022-03-28 10:47:37
 LastEditors: Please set LastEditors
 Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 FilePath: \python_study_2022\Scrapy基础\当当网\scrapy_dangdang_3_25\scrapy_dangdang_3_25\settings.py
@@ -47,34 +47,35 @@ ROBOTSTXT_OBEY = False
 #TELNETCONSOLE_ENABLED = False
 
 # Override the default request headers:
-#DEFAULT_REQUEST_HEADERS = {
+# DEFAULT_REQUEST_HEADERS = {
 #   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
 #   'Accept-Language': 'en',
-#}
+# }
 
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
-#SPIDER_MIDDLEWARES = {
+# SPIDER_MIDDLEWARES = {
 #    'scrapy_dangdang_3_25.middlewares.ScrapyDangdang325SpiderMiddleware': 543,
-#}
+# }
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
-#DOWNLOADER_MIDDLEWARES = {
+# DOWNLOADER_MIDDLEWARES = {
 #    'scrapy_dangdang_3_25.middlewares.ScrapyDangdang325DownloaderMiddleware': 543,
-#}
+# }
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
-#EXTENSIONS = {
+# EXTENSIONS = {
 #    'scrapy.extensions.telnet.TelnetConsole': None,
-#}
+# }
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    # 300表示优先级，数字越小优先级越高，范围1-1000
-   'scrapy_dangdang_3_25.pipelines.ScrapyDangdang325Pipeline': 300,
+    # 300表示优先级，数字越小优先级越高，范围1-1000F
+    'scrapy_dangdang_3_25.pipelines.ScrapyDangdang325Pipeline': 300,
+    'scrapy_dangdang_3_25.pipelines.DangDang_downloda_Pipeline': 301,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

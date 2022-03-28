@@ -1,7 +1,7 @@
 '''
 Author: your name
 Date: 2022-03-25 14:52:28
-LastEditTime: 2022-03-25 16:42:00
+LastEditTime: 2022-03-28 16:57:59
 LastEditors: Please set LastEditors
 Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 FilePath: \python_study_2022\Scrapy基础\当当网\scrapy_dangdang_3_25\scrapy_dangdang_3_25\pipelines.py
@@ -13,6 +13,7 @@ FilePath: \python_study_2022\Scrapy基础\当当网\scrapy_dangdang_3_25\scrapy_
 
 
 # useful for handling different item types with a single interface
+import urllib.request
 from itemadapter import ItemAdapter
 
 # 如果使用管道，必须在settings中开启管道
@@ -38,7 +39,6 @@ class ScrapyDangdang325Pipeline:
         #     fp.write(str(item))
         #     改进：改为‘a’模式，表示追加
         self.fp.write(str(item))
-
         return item
 
     # 爬虫结束执行后执行的方法
@@ -46,3 +46,16 @@ class ScrapyDangdang325Pipeline:
     def close_spider(self, spider):
         print('----------------爬虫结束执行-----------------')
         self.fp.close()
+
+
+class DangDang_downloda_Pipeline:
+    def process_item(self, item, spider):
+        # 判断是否下载成功
+        # item['book_img'], './book_img/' + item['book_name'] + '.jpg'
+        urllib.request.urlretrieve(
+            url='http:'+item.get('src'), filename='./book_img/' + item.get('name') + '.jpg')
+        if item['name']:
+            print('下载成功')
+        else:
+            print('下载失败')
+        return item
