@@ -1,7 +1,7 @@
 '''
 Author: your name
 Date: 2022-03-29 10:06:56
-LastEditTime: 2022-03-29 10:16:39
+LastEditTime: 2022-03-30 14:32:06
 LastEditors: Please set LastEditors
 Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 FilePath: \python_study_2022\Scrapy基础\电影天堂\scrapy_movie_net\scrapy_movie_net\settings.py
@@ -75,6 +75,7 @@ ROBOTSTXT_OBEY = False
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     'scrapy_movie_net.pipelines.ScrapyMovieNetPipeline': 300,
+    'scrapy_movie_net.pipelines.MV_picture_Pipeline':301
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

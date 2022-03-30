@@ -32,6 +32,7 @@ class ScrapyMovieNetPipeline:
 class MV_picture_Pipeline:
     def process_item(self, item, spider):
         # 判断是否下载成功
+        print('调用成功,开始下载图片')
         urllib.request.urlretrieve(
             url=item.get('src'), filename='./mv_img/' + item.get('name') + '.jpg')
         if item['name']:
