@@ -1,12 +1,12 @@
 '''
 Author: your name
-Date: 2022-03-29 10:06:56
-LastEditTime: 2022-03-30 16:01:24
-LastEditors: Please set LastEditors
+Date: 2022-04-01 13:46:10
+LastEditTime: 2022-04-07 10:43:44
+LastEditors: your name
 Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
-FilePath: \python_study_2022\Scrapy基础\电影天堂\scrapy_movie_net\scrapy_movie_net\settings.py
+FilePath: \python_study_2022\Scrapy基础\3-30-CrawlSpider\readbooks\readbooks\settings.py
 '''
-# Scrapy settings for scrapy_movie_net project
+# Scrapy settings for readbooks project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -15,17 +15,16 @@ FilePath: \python_study_2022\Scrapy基础\电影天堂\scrapy_movie_net\scrapy_m
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'scrapy_movie_net'
+BOT_NAME = 'readbooks'
 
-SPIDER_MODULES = ['scrapy_movie_net.spiders']
-NEWSPIDER_MODULE = 'scrapy_movie_net.spiders'
-
+SPIDER_MODULES = ['readbooks.spiders']
+NEWSPIDER_MODULE = 'readbooks.spiders'
 
 # 屏蔽掉无关日志报警信息
 LOG_LEVEL = 'ERROR'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36'
+#USER_AGENT = 'readbooks (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
@@ -42,28 +41,27 @@ ROBOTSTXT_OBEY = False
 #CONCURRENT_REQUESTS_PER_IP = 16
 
 # Disable cookies (enabled by default)
-# COOKIES_ENABLED = False
+#COOKIES_ENABLED = False
 
 # Disable Telnet Console (enabled by default)
 #TELNETCONSOLE_ENABLED = False
 
 # Override the default request headers:
-DEFAULT_REQUEST_HEADERS = {
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-    'Accept-Language': 'en',
-    # 'user-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36'
-}
+# DEFAULT_REQUEST_HEADERS = {
+#   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+#   'Accept-Language': 'en',
+# }
 
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 # SPIDER_MIDDLEWARES = {
-#    'scrapy_movie_net.middlewares.ScrapyMovieNetSpiderMiddleware': 543,
+#    'readbooks.middlewares.ReadbooksSpiderMiddleware': 543,
 # }
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 # DOWNLOADER_MIDDLEWARES = {
-#    'scrapy_movie_net.middlewares.ScrapyMovieNetDownloaderMiddleware': 543,
+#    'readbooks.middlewares.ReadbooksDownloaderMiddleware': 543,
 # }
 
 # Enable or disable extensions
@@ -75,8 +73,7 @@ DEFAULT_REQUEST_HEADERS = {
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'scrapy_movie_net.pipelines.ScrapyMovieNetPipeline': 300,
-    'scrapy_movie_net.pipelines.MV_picture_Pipeline': 301
+    'readbooks.pipelines.ReadbooksPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

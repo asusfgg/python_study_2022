@@ -1,7 +1,7 @@
 '''
 Author: your name
 Date: 2022-03-29 10:06:56
-LastEditTime: 2022-03-29 16:33:34
+LastEditTime: 2022-03-30 15:13:53
 LastEditors: Please set LastEditors
 Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 FilePath: \python_study_2022\Scrapy基础\电影天堂\scrapy_movie_net\scrapy_movie_net\pipelines.py
@@ -33,8 +33,12 @@ class MV_picture_Pipeline:
     def process_item(self, item, spider):
         # 判断是否下载成功
         print('调用成功,开始下载图片')
-        urllib.request.urlretrieve(
-            url=item.get('src'), filename='./mv_img/' + item.get('name') + '.jpg')
+        mv_picture = item.get('src')
+        print(mv_picture)
+        mv_name = item.get('name')
+        print(mv_name)
+
+        urllib.request.urlretrieve(url = item.get('src'), filename = './mv_img/' + item.get('name') + '.jpg')
         if item['name']:
             print('下载成功')
         else:
