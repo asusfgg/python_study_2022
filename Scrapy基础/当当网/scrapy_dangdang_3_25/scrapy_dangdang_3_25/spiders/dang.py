@@ -1,8 +1,8 @@
 '''
 Author: your name
 Date: 2022-03-25 14:54:16
-LastEditTime: 2022-03-28 15:55:55
-LastEditors: Please set LastEditors
+LastEditTime: 2022-05-26 16:04:43
+LastEditors: fgg
 Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 FilePath: \python_study_2022\Scrapy基础\当当网\scrapy_dangdang_3_25\scrapy_dangdang_3_25\spiders\dang.py
 '''
@@ -67,6 +67,3 @@ class DangSpider(scrapy.Spider):
 
         print('======================= 项目运行结束 ========================')
         pass
-
-
-

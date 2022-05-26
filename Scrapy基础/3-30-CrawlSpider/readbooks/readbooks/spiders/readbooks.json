@@ -1,0 +1,2602 @@
+{
+    'name': '位置服务中的用户隐私保护技术',
+    'num': 1,
+    'photo': 'https://img.dushu.com/2022/03/31/1042275412242624.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'ToB产品实战：内容策略与运营',
+    'num': 2,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '深度学习及其在海洋目标检测中的应用',
+    'num': 3,
+    'photo': 'https://img.dushu.com/2022/03/22/001159358202765782.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '会计信息化方案设计与实施：基于财务软件应用',
+    'num': 4,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'App Inventor移动应用开发标准教程',
+    'num': 5,
+    'photo': 'https://img.dushu.com/2022/03/22/001144913202768015.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '单片机原理与应用',
+    'num': 6,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'SONYα6600微单摄影技巧大全',
+    'num': 7,
+    'photo': 'https://img.dushu.com/2022/03/28/014733590197123450.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '知识中台：数字化转型中的认知技术',
+    'num': 8,
+    'photo': 'https://img.dushu.com/2022/03/22/00095367202761871.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '区块链：元宇宙的基石',
+    'num': 9,
+    'photo': 'https://img.dushu.com/2022/03/22/000944759202762654.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '玩转Blender：3D动画角色创作（第3版）',
+    'num': 10,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Photoshop+Illustrator平面设计实例教程（微课版）',
+    'num': 11,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'After Effects影视特效与栏目包装案例精解',
+    'num': 12,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '巧学巧用Excel：迅速提升职场效率的关键技能',
+    'num': 13,
+    'photo': 'https://img.dushu.com/2022/03/22/000845203202765689.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '网络与Linux安全攻防',
+    'num': 14,
+    'photo': 'https://img.dushu.com/2022/03/22/000831447202762208.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据采集与预处理',
+    'num': 15,
+    'photo': 'https://img.dushu.com/2022/03/22/00080768202761038.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据分析基础与实战（微课版）',
+    'num': 16,
+    'photo': 'https://img.dushu.com/2022/03/22/00080095202769629.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'C语言编程思想与方法',
+    'num': 17,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '人工智能导论',
+    'num': 18,
+    'photo': 'https://img.dushu.com/2022/03/17/175838322109647318.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '虚拟偶像AI实现',
+    'num': 19,
+    'photo': 'https://img.dushu.com/2022/03/17/175834264109646401.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '人工智能研究',
+    'num': 20,
+    'photo': 'https://img.dushu.com/2022/03/17/175830299109641341.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '人工智能：何时机器能掌控一切',
+    'num': 21,
+    'photo': 'https://img.dushu.com/2022/03/17/17582645109648265.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '计算与人工智能概论',
+    'num': 22,
+    'photo': 'https://img.dushu.com/2022/03/17/175804480109642918.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '深度强化学习算法与实践：基于PyTorch的实现',
+    'num': 23,
+    'photo': 'https://img.dushu.com/2022/03/17/175757760109641162.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '集群无人机可靠性建模与评估',
+    'num': 24,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Apache Spark 深度学习实战',
+    'num': 25,
+    'photo': 'https://img.dushu.com/2022/03/17/175749229109643058.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '你好中小学人工智能',
+    'num': 26,
+    'photo': 'https://img.dushu.com/2022/03/17/175745247109644409.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'PyTorch开发入门：深度学习模型的构建与程序实现',
+    'num': 27,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '网络文本内容信任与可信搜索技术',
+    'num': 28,
+    'photo': 'https://img.dushu.com/2022/03/17/175720477109645780.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '中国互联网络发展状况 2019-2020',
+    'num': 29,
+    'photo': 'https://img.dushu.com/2022/03/17/175712273109647644.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '离散数学（微课版）',
+    'num': 30,
+    'photo': 'https://img.dushu.com/2022/03/17/17570896109642060.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'AutoCAD 2022中文版从入门到精通',
+    'num': 31,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据资源规划与管理实践实验指导书',
+    'num': 32,
+    'photo': 'https://img.dushu.com/2022/03/17/175626770109644126.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '全栈Serverless',
+    'num': 33,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '云计算管理关键技术及信息安全风险探究',
+    'num': 34,
+    'photo': 'https://img.dushu.com/2022/03/17/17555138109645440.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '微机原理及接口技术（第6版 微课版）',
+    'num': 35,
+    'photo': 'https://img.dushu.com/2022/03/17/17544975109647285.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Linux/Android嵌入式系统实践设计',
+    'num': 36,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '一路芯程：集成电路的今昔与未来',
+    'num': 37,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Unreal Engine4虚幻引擎',
+    'num': 38,
+    'photo': 'https://img.dushu.com/2022/03/17/1754061610964496.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '全国计算机等级考试教程 二级公共基础知识',
+    'num': 39,
+    'photo': 'https://img.dushu.com/2022/03/17/175346408109642892.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '电子商务基础与实务',
+    'num': 40,
+    'photo': 'https://img.dushu.com/2022/03/17/175327994109645289.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Word、Excel、PPT、PS、云办公、思维导图、故障处理完全自学视频教程7合1',
+    'num': 1,
+    'photo': 'https://img.dushu.com/2022/03/03/10003668157486847.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'WPS Office办公软件高级应用与案例精选',
+    'num': 2,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Excel高效办公应用全能手册：案例+技巧+视频',
+    'num': 3,
+    'photo': 'https://img.dushu.com/2022/03/03/100026953157485537.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Word/Excel/PPT Office高效办公全能手册：案例+技巧+视频',
+    'num': 4,
+    'photo': 'https://img.dushu.com/2022/03/03/100023197157484587.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '5G的世界  智慧教育',
+    'num': 5,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '5G的世界  智慧媒体',
+    'num': 6,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '复杂动力网络的建模与控制',
+    'num': 7,
+    'photo': 'https://img.dushu.com/2022/03/03/09595972157489480.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '网络测试和故障诊断（第2版）',
+    'num': 8,
+    'photo': 'https://img.dushu.com/2022/03/03/095953371157485565.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '量子计算与量子信息（10周年版）',
+    'num': 9,
+    'photo': 'https://img.dushu.com/2022/03/03/095943987157484603.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '分布式科技资源巨系统及资源协同理论',
+    'num': 10,
+    'photo': 'https://img.dushu.com/2022/03/03/095938260157482324.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Linux安全管理',
+    'num': 11,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '鸿蒙应用开发入门',
+    'num': 12,
+    'photo': 'https://img.dushu.com/2022/03/03/095920363157481623.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据模型与决策（第3版）',
+    'num': 13,
+    'photo': 'https://img.dushu.com/2022/03/03/095911678157482124.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据库原理与应用',
+    'num': 14,
+    'photo': 'https://img.dushu.com/2022/03/03/09585943157482340.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Numerical Simulation and Optimal Control of Thermal Process in '
+    'Regenerative Annular Furnace',
+    'num': 15,
+    'photo': 'https://img.dushu.com/2022/03/03/095850991157482775.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '明解Python',
+    'num': 16,
+    'photo': 'https://img.dushu.com/2022/03/03/095840958157484704.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '软件设计开发方法与技巧',
+    'num': 17,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '软件测试（慕课版 第2版）',
+    'num': 18,
+    'photo': 'https://img.dushu.com/2022/03/03/095833248157482282.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python实战速成手册：数据分析+机器学习+深度学习',
+    'num': 19,
+    'photo': 'https://img.dushu.com/2022/03/03/095827767157482477.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '从程序员到架构师：大数据量、缓存、高并发、微服务、多团队协同等核心场景实战',
+    'num': 20,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '大型网站架构实战',
+    'num': 21,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '青少年学Python编程从入门到精通（视频案例版）',
+    'num': 22,
+    'photo': 'https://img.dushu.com/2022/03/03/095815391157482345.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Vue.js 3企业级应用开发实战（双色版）',
+    'num': 23,
+    'photo': 'https://img.dushu.com/2022/03/03/095811305157487841.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '图解算法：使用Python（第2版）',
+    'num': 24,
+    'photo': 'https://img.dushu.com/2022/03/03/095807113157485080.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Spring Boot从零开始学（视频教学版）',
+    'num': 25,
+    'photo': 'https://img.dushu.com/2022/03/03/095802982157485036.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '智能合约技术与开发',
+    'num': 26,
+    'photo': 'https://img.dushu.com/2022/03/03/095759154157486595.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '中小学C++编程项目学习创意课堂（微课版）',
+    'num': 27,
+    'photo': 'https://img.dushu.com/2022/03/03/095755139157481219.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '项目驱动零起点学Java',
+    'num': 28,
+    'photo': 'https://img.dushu.com/2022/03/03/095750423157487968.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Scratch实战技巧精粹（300秘技大全）',
+    'num': 29,
+    'photo': 'https://img.dushu.com/2022/03/03/095745996157486321.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Easy C++（第5版）',
+    'num': 30,
+    'photo': 'https://img.dushu.com/2022/03/03/095741674157485753.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Qt C++编程从入门到实战：微课视频版（从入门到实战·微课视频）',
+    'num': 31,
+    'photo': 'https://img.dushu.com/2022/03/03/095737601157489613.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '高速数字接口与光电测试',
+    'num': 32,
+    'photo': 'https://img.dushu.com/2022/03/03/095733797157484760.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'R数据科学实战（第2版）',
+    'num': 33,
+    'photo': 'https://img.dushu.com/2022/03/03/095729975157484682.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Java编程项目实战',
+    'num': 34,
+    'photo': 'https://img.dushu.com/2022/03/03/09572650157486798.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python高阶程序设计与实践',
+    'num': 35,
+    'photo': 'https://img.dushu.com/2022/03/03/095722237157486721.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '小天才学C++',
+    'num': 36,
+    'photo': 'https://img.dushu.com/2022/03/03/095718358157482740.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python统计可视化之Altair探索分析实践指南（全彩）',
+    'num': 37,
+    'photo': 'https://img.dushu.com/2022/03/03/095702510157484897.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '中文版Illustrator 2020基础教程',
+    'num': 38,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python程序开发（中级）',
+    'num': 39,
+    'photo': 'https://img.dushu.com/2022/03/03/095647390157488068.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'R语言高效能实战 更多数据和更快速度',
+    'num': 40,
+    'photo': 'https://img.dushu.com/2022/03/03/09564358157487501.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python机器学习入门：机器学习算法的理论与实践',
+    'num': 1,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '智联世界：AI筑就数字之都',
+    'num': 2,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据结构与算法分析：C++语言描述（英文版 第4版）',
+    'num': 3,
+    'photo': 'https://img.dushu.com/2022/03/04/11193494295042550.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '语音频隐写与隐写分析',
+    'num': 4,
+    'photo': 'https://img.dushu.com/2022/03/04/11192719495042952.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '偏好空间并置模式挖掘（英）',
+    'num': 5,
+    'photo': 'https://img.dushu.com/2022/03/04/11192189595041719.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '统计计算与智能分析理论及其Python实践',
+    'num': 6,
+    'photo': 'https://img.dushu.com/2022/03/04/1119172495041849.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '计算机组成原理实验指导与习题解析',
+    'num': 7,
+    'photo': 'https://img.dushu.com/2022/03/04/11191270195041281.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '计算机系统数据处理原理',
+    'num': 8,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'UG 12.0数控编程实例教程',
+    'num': 9,
+    'photo': 'https://img.dushu.com/2022/03/04/11190181695049165.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'SolidWorks 2022中文版基础教程',
+    'num': 10,
+    'photo': 'https://img.dushu.com/2022/03/04/11184950195042936.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'AutoCAD制图',
+    'num': 11,
+    'photo': 'https://img.dushu.com/2022/03/04/11184536495049303.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '大数据数学基础',
+    'num': 12,
+    'photo': 'https://img.dushu.com/2022/03/04/11183837595043120.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '云边协同大数据技术与应用',
+    'num': 13,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'PLC原理及应用技术（第4版）',
+    'num': 14,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'STM32Cube高效开发教程（高级篇）',
+    'num': 15,
+    'photo': 'https://img.dushu.com/2022/03/04/11175099595044127.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'MATLAB App Designer从入门到实践',
+    'num': 16,
+    'photo': 'https://img.dushu.com/2022/03/04/1117411795045184.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'UG 12.0造型设计实例教程',
+    'num': 17,
+    'photo': 'https://img.dushu.com/2022/03/04/11165910395042407.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '大学计算机基础实训指导（Windows10+Office2016第2版）',
+    'num': 18,
+    'photo': 'https://img.dushu.com/2022/03/04/11164945895047019.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '业务架构、应用架构、数据架构实战（第2版）',
+    'num': 19,
+    'photo': 'https://img.dushu.com/2022/03/04/11162480295041421.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python+Superset：商业智能数据分析与实战',
+    'num': 20,
+    'photo': 'https://img.dushu.com/2022/03/04/11155921295041887.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '漫话区块链100问',
+    'num': 21,
+    'photo': 'https://img.dushu.com/2022/03/04/11155436395042016.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '阿里测试之道',
+    'num': 22,
+    'photo': 'https://img.dushu.com/2022/03/04/11153768695048492.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Kafka进阶',
+    'num': 23,
+    'photo': 'https://img.dushu.com/2022/03/04/11153355895048448.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '人工智能编程实践（Python编程5级）',
+    'num': 24,
+    'photo': 'https://img.dushu.com/2022/03/04/11152231995043964.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '电子商务体系架构与开发技术',
+    'num': 25,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'HTML5移动Web开发（第2版）',
+    'num': 26,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '站点可靠性工程（SRE）实战',
+    'num': 27,
+    'photo': 'https://img.dushu.com/2022/03/03/100221783157486076.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'PS App UI设计从零开始学',
+    'num': 28,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '新媒体技术基础',
+    'num': 29,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '飞手航拍教程：无人机摄影与后期从入门到精通',
+    'num': 30,
+    'photo': 'https://img.dushu.com/2022/03/03/100152715157488832.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Photoshop电商抠图+修图+调色+美化+合成五大核心技术应用',
+    'num': 31,
+    'photo': 'https://img.dushu.com/2022/03/03/10014873415748183.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Premiere Pro 2020视频编辑案例教程',
+    'num': 32,
+    'photo': 'https://img.dushu.com/2022/03/03/100144833157484250.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'After Effects 影视后期制作完全实训手册',
+    'num': 33,
+    'photo': 'https://img.dushu.com/2022/03/03/100140993157485809.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '3ds Max 2022中文版完全自学一本通',
+    'num': 34,
+    'photo': 'https://img.dushu.com/2022/03/03/100133689157486070.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'UG 12.0 塑料模具设计实例教程',
+    'num': 35,
+    'photo': 'https://img.dushu.com/2022/03/03/100111271157486230.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Autodesk Revit 2022中文版实操实练',
+    'num': 36,
+    'photo': 'https://img.dushu.com/2022/03/03/100107216157485314.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'After Effects 视频后期特效制作',
+    'num': 37,
+    'photo': 'https://img.dushu.com/2022/03/03/100101206157486207.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Photoshop 图像处理与制作',
+    'num': 38,
+    'photo': 'https://img.dushu.com/2022/03/03/100057197157489194.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '一本讲透短视频（抖音百万粉丝主播小囧君助你玩转短视频）',
+    'num': 39,
+    'photo': 'https://img.dushu.com/2022/03/03/100053388157484341.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Excel数据处理与分析全能手册：案例+技巧+视频',
+    'num': 40,
+    'photo': 'https://img.dushu.com/2022/03/03/100039969157484416.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '云-边-端协同交通大数据智能计算及控制技术',
+    'num': 1,
+    'photo': 'https://img.dushu.com/2022/01/14/11491665259363209.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '互联网+的社会化协同效应与经济高质量发展',
+    'num': 2,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '面向大数据的网络经济学研究',
+    'num': 3,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '2020全国信息学奥林匹克年鉴',
+    'num': 4,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '小红书全攻略：平台操作+内容创作+直播转化+运营推广',
+    'num': 5,
+    'photo': 'https://img.dushu.com/2022/01/14/1147448205936491.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '科技绘图/科研论文图/论文配图设计与创作自学手册：科研动画篇',
+    'num': 6,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Vulkan实战',
+    'num': 7,
+    'photo': 'https://img.dushu.com/2022/01/14/11472319559366017.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Photoshop CS6核心应用案例教程',
+    'num': 8,
+    'photo': 'https://img.dushu.com/2022/01/14/11471913859369877.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Altium Designer 21 PCB设计官方指南（高级实战）',
+    'num': 9,
+    'photo': 'https://img.dushu.com/2022/01/14/11471470759368229.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Altium Designer 21 PCB设计官方指南（基础应用）',
+    'num': 10,
+    'photo': 'https://img.dushu.com/2022/01/14/11470951559366440.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '繁琐工作快上手：短视频学Excel制表与数据分析',
+    'num': 11,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '繁琐工作快上手：短视频学Excel数据透视表',
+    'num': 12,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Excel在财务与会计中的应用（第三版）',
+    'num': 13,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '架构设计2.0：大型分布式系统架构方法论与实践',
+    'num': 14,
+    'photo': 'https://img.dushu.com/2022/01/14/11463936159363862.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '局域网组建实训教程：交换机和路由器配置',
+    'num': 15,
+    'photo': 'https://img.dushu.com/2022/01/14/11462672059364078.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '结构化压缩感知理论及应用',
+    'num': 16,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据科学的数学基础',
+    'num': 17,
+    'photo': 'https://img.dushu.com/2022/01/14/1146093145936728.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据中心数字孪生应用实践',
+    'num': 18,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'FPGA时序约束与分析',
+    'num': 19,
+    'photo': 'https://img.dushu.com/2022/03/17/174925669109642473.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python数据分析：从获取到可视化',
+    'num': 20,
+    'photo': 'https://img.dushu.com/2022/01/14/1145528159364313.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '善工利器 程序员管理范式',
+    'num': 21,
+    'photo': 'https://img.dushu.com/2022/01/14/11454752659361270.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '深度学习处理结构化数据实战',
+    'num': 22,
+    'photo': 'https://img.dushu.com/2022/01/14/11454229959362305.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Xamarin全栈开发技术与实践（微课版）',
+    'num': 23,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '软件测试技术指南（第2版）',
+    'num': 24,
+    'photo': 'https://img.dushu.com/2022/01/14/11453384659365282.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '从零开始学算法（基于Python）',
+    'num': 25,
+    'photo': 'https://img.dushu.com/2022/01/14/1145249175936907.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '小玩家大创客',
+    'num': 26,
+    'photo': 'https://img.dushu.com/2022/01/14/11452057259361976.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '51单片机C语言学习之道：语法、函数、Keil工具及项目实战（第2版）',
+    'num': 27,
+    'photo': 'https://img.dushu.com/2022/01/14/1145162359367297.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python程序设计（第2版）',
+    'num': 28,
+    'photo': 'https://img.dushu.com/2022/01/14/11451167059369553.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Go语言高级开发与实战',
+    'num': 29,
+    'photo': 'https://img.dushu.com/2022/01/14/11450188959361133.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '从0到1 ES6快速上手',
+    'num': 1,
+    'photo': 'https://img.dushu.com/2022/02/26/124711597177845515.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '计算机控制系统（第三版）',
+    'num': 2,
+    'photo': 'https://img.dushu.com/2022/02/23/11275880117407970.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '系统建模 分析与控制（第二版）',
+    'num': 3,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '硬件木马之战：攻击防御之谜',
+    'num': 4,
+    'photo': 'https://img.dushu.com/2022/02/23/112726422117409013.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '信息技术基础',
+    'num': 5,
+    'photo': 'https://img.dushu.com/2022/02/23/112720641117407605.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '移动传感器网络拓扑重构和任务协同机制',
+    'num': 1,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '欧拉操作系统运维与管理',
+    'num': 2,
+    'photo': 'https://img.dushu.com/2022/02/07/11584668992527470.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '软件测试（第3版）',
+    'num': 3,
+    'photo': 'https://img.dushu.com/2022/02/07/1158354989252162.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '持续交付2.0 业务引领的DevOps精要（增订本）',
+    'num': 4,
+    'photo': 'https://img.dushu.com/2022/02/07/11582781192521328.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '开源之迷',
+    'num': 5,
+    'photo': 'https://img.dushu.com/2022/02/07/11582338192529681.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '现代电子系统综合设计与实践',
+    'num': 1,
+    'photo': 'https://img.dushu.com/2022/01/11/1726578981728854.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '王道论坛-2023年数据结构考研复习指导',
+    'num': 2,
+    'photo': 'https://img.dushu.com/2022/01/11/1726538751728253.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '一板成功：高速电路研发与设计典型故障案例解析',
+    'num': 3,
+    'photo': 'https://img.dushu.com/2022/01/11/1726497561728209.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '基于群智能最优化算法的投影寻踪理论（新进展、应用及软件）',
+    'num': 4,
+    'photo': 'https://img.dushu.com/2022/01/11/17264553017289085.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '有趣的Flutter：从0到1构建跨平台App',
+    'num': 5,
+    'photo': 'https://img.dushu.com/2022/01/11/17264159417281201.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Kubernetes快速入门',
+    'num': 30,
+    'photo': 'https://img.dushu.com/2022/01/14/1144572485936598.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '基于EEG的脑源定位与脑功能网络',
+    'num': 31,
+    'photo': 'https://img.dushu.com/2022/01/11/17274465117284688.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '基于人工智能的自主磨抛系统',
+    'num': 32,
+    'photo': 'https://img.dushu.com/2022/01/11/17274051917284644.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '机器视觉技术',
+    'num': 33,
+    'photo': 'https://img.dushu.com/2022/01/11/17273616717286901.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python深度学习（第2版）',
+    'num': 34,
+    'photo': 'https://img.dushu.com/2022/01/11/17272998917282810.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '机器学习实践：基于Python进行数据分析',
+    'num': 35,
+    'photo': 'https://img.dushu.com/2022/01/11/1727259491728258.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '机器学习 公式推导与代码实现',
+    'num': 36,
+    'photo': 'https://img.dushu.com/2022/01/11/17272190217282929.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '复杂环境下语音信号处理的深度学习方法',
+    'num': 1,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Easy Java（第7版）',
+    'num': 2,
+    'photo': 'https://img.dushu.com/2022/01/24/163330828827763547.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'C++码农日记（全程视频讲解）',
+    'num': 3,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python数据分析从0到1',
+    'num': 4,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据综合治理实践指导手册',
+    'num': 6,
+    'photo': 'https://img.dushu.com/2022/02/23/112658339117408845.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据运营：数据分析模型撬动新零售实战',
+    'num': 7,
+    'photo': 'https://img.dushu.com/2022/02/23/112651152117402138.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '地理数据数字水印建模与原理',
+    'num': 8,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '51单片机原理及应用：基于Keil C 与Proteus（第4版）',
+    'num': 9,
+    'photo': 'https://img.dushu.com/2022/02/23/112606967117406428.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '计算机组装与维护项目教程（微课版）',
+    'num': 10,
+    'photo': 'https://img.dushu.com/2022/02/23/1125581011740102.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '互联网+、大数据与实体经济的深度融合',
+    'num': 11,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '金融产品方法论',
+    'num': 12,
+    'photo': 'https://img.dushu.com/2022/02/23/112537563117402040.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '未来科技：物联网',
+    'num': 13,
+    'photo': 'https://img.dushu.com/2022/02/23/112528903117405681.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python程序开发',
+    'num': 1,
+    'photo': 'https://img.dushu.com/2022/03/03/09563944157486900.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '过程控制与自动化仪表应用与实践',
+    'num': 2,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数字化人机工程设计',
+    'num': 3,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '外骨骼机器人控制原理与设计',
+    'num': 4,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python编程入门与实战',
+    'num': 6,
+    'photo': 'https://img.dushu.com/2022/02/07/11581368792527116.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python进阶：实际应用开发实战',
+    'num': 7,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '零基础入门学习Web开发（HTML5 & CSS3）',
+    'num': 8,
+    'photo': 'https://img.dushu.com/2022/02/07/11580148692525555.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '复杂计算系统可信技术与方法研究',
+    'num': 9,
+    'photo': 'https://img.dushu.com/2022/01/24/163906414827767967.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '新程序员003：云原生和全面数字化实践',
+    'num': 10,
+    'photo': 'https://img.dushu.com/2022/01/24/163851558827765566.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '隐私计算',
+    'num': 11,
+    'photo': 'https://img.dushu.com/2022/01/24/163843897827768684.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '语音识别服务实战',
+    'num': 12,
+    'photo': 'https://img.dushu.com/2022/01/27/204443749465402752.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '计算全息与图像加密',
+    'num': 6,
+    'photo': 'https://img.dushu.com/2022/01/11/17263349417282508.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '国之重器出版工程 密态计算理论与应用',
+    'num': 7,
+    'photo': 'https://img.dushu.com/2022/01/11/17262849917284830.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '互联网平台智能风控实战',
+    'num': 8,
+    'photo': 'https://img.dushu.com/2022/01/11/17262418417284262.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '物联网安全实战',
+    'num': 9,
+    'photo': 'https://img.dushu.com/2022/01/11/172620817288678.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '社会工程 安全体系中的人性漏洞（第2版）',
+    'num': 10,
+    'photo': 'https://img.dushu.com/2022/01/11/17261545017283999.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '信息技术基础（第3版）',
+    'num': 11,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'DEM插值算法适应性理论与方法（修订版）',
+    'num': 12,
+    'photo': 'https://img.dushu.com/2022/01/11/17260364517285121.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'MATLAB 2020 数学计算从入门到精通',
+    'num': 13,
+    'photo': 'https://img.dushu.com/2022/01/11/17255744817283855.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python自然语言处理入门',
+    'num': 37,
+    'photo': 'https://img.dushu.com/2022/01/11/17271762817286266.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '无人机系统设计：工业级实践指南',
+    'num': 38,
+    'photo': 'https://img.dushu.com/2022/01/11/17271362817289253.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '自然语言处理实践',
+    'num': 39,
+    'photo': 'https://img.dushu.com/2022/01/11/17270869217281891.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '机器学习实践',
+    'num': 40,
+    'photo': 'https://img.dushu.com/2022/01/11/17270467617286515.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Java编程基础及应用（第2版）',
+    'num': 5,
+    'photo': 'https://img.dushu.com/2022/01/24/16331838382776698.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '自然语言理解与行业知识图谱：概念、方法与工程落地',
+    'num': 6,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '时间序列预测：基于机器学习和Python实现',
+    'num': 7,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '智能制造',
+    'num': 8,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '电子制造业智能制造系统：工业互联应用下的自动化解决方案',
+    'num': 9,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '机器人系统（原书第2版）',
+    'num': 10,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据结构与算法（C语言篇）',
+    'num': 11,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '网络游戏场景设计与制作实战（第二版）',
+    'num': 14,
+    'photo': 'https://img.dushu.com/2022/02/23/112501202117408196.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '趣学3D One：青少年三维创意与设计（第2版）',
+    'num': 15,
+    'photo': 'https://img.dushu.com/2022/02/23/112455432117406788.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Excel办公高手实战应用从入门到精通',
+    'num': 16,
+    'photo': 'https://img.dushu.com/2022/02/23/112445941117409972.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Excel 2016在财务中的应用（微课版）',
+    'num': 17,
+    'photo': 'https://img.dushu.com/2022/02/23/112437362117401104.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '5G+网络空间安全',
+    'num': 18,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据可视化原理与实战：基于Power BI',
+    'num': 19,
+    'photo': 'https://img.dushu.com/2022/02/23/112403128117404022.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据分析之道：用数据思维指导业务实战',
+    'num': 20,
+    'photo': 'https://img.dushu.com/2022/02/23/11235321117402047.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Rasa实战：构建开源对话机器人',
+    'num': 5,
+    'photo': 'https://img.dushu.com/2022/03/01/09315083419044325.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Easy RL 强化学习教程',
+    'num': 6,
+    'photo': 'https://img.dushu.com/2022/02/26/125152939177847791.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '机器学习数学基础',
+    'num': 7,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '软件设计与新一代云架构技术',
+    'num': 8,
+    'photo': 'https://img.dushu.com/2022/03/01/09315880319041174.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '现代密码学',
+    'num': 9,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '计算机系统与网络安全技术（第2版）',
+    'num': 10,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Procreate新国风插画绘制技法与商业应用',
+    'num': 11,
+    'photo': 'https://img.dushu.com/2022/03/01/09321059019041688.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Altium Designer 21常见问题解答500例',
+    'num': 12,
+    'photo': 'https://img.dushu.com/2022/03/01/09321468819049780.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '云计算应用开发（初级）',
+    'num': 13,
+    'photo': 'https://img.dushu.com/2022/03/01/09321883119043413.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Kubeflow学习指南：生产级机器学习系统实现',
+    'num': 13,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'AutoCAD 2022中文版标准实例教程',
+    'num': 14,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '中文版3ds max/VRay/Photoshop园林景观效果图表现案例详解（2022版）',
+    'num': 15,
+    'photo': 'https://img.dushu.com/2022/01/27/204455671465406298.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '云服务器运维之Windows篇',
+    'num': 16,
+    'photo': 'https://img.dushu.com/2022/01/24/16374158827765719.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '大数据导论',
+    'num': 17,
+    'photo': 'https://img.dushu.com/2022/01/24/163735956827768598.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '微信小程序游戏开发快速入门到实战',
+    'num': 18,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Cisco软件定义广域网（SD-WAN）',
+    'num': 19,
+    'photo': 'https://img.dushu.com/2022/01/24/163632849827765982.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '中文版 UG NX 12.0 数控加工从入门到精通（实战案例版）',
+    'num': 14,
+    'photo': 'https://img.dushu.com/2022/01/11/17255340317284890.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'UG NX12.0应用实例教程',
+    'num': 15,
+    'photo': 'https://img.dushu.com/2022/01/11/17254941917281466.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'CAXA电子图板2016项目实训教程',
+    'num': 16,
+    'photo': 'https://img.dushu.com/2022/01/11/17254445517282152.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'MATLAB函数及应用',
+    'num': 17,
+    'photo': 'https://img.dushu.com/2022/01/11/17253933017287854.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'MATLAB图像处理与应用',
+    'num': 18,
+    'photo': 'https://img.dushu.com/2022/01/11/17253529217285302.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'AutoCAD 2020中文版三维造型设计从入门到精通',
+    'num': 19,
+    'photo': 'https://img.dushu.com/2022/01/11/17253086417283655.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'CAXA CAD 2021电子图板与实体设计自学速成',
+    'num': 20,
+    'photo': 'https://img.dushu.com/2022/01/11/1725266141728579.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'TensorFlow Lite移动端深度学习',
+    'num': 1,
+    'photo': 'https://img.dushu.com/2022/03/09/13582247969569433.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '计算机病毒学',
+    'num': 2,
+    'photo': 'https://img.dushu.com/2022/03/08/163625121143883092.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '图解量子计算机',
+    'num': 3,
+    'photo': 'https://img.dushu.com/2022/03/08/163610164143881350.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'UG NX1847从入门到精通（实战案例视频版）',
+    'num': 4,
+    'photo': 'https://img.dushu.com/2022/03/09/13582679869568866.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'B端产品设计与运营实战',
+    'num': 5,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '网络安全防御',
+    'num': 12,
+    'photo': 'https://img.dushu.com/2022/01/19/13234776946403007.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '计算机系统结构（第3版）',
+    'num': 13,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '计算机辅助药物设计实验教程',
+    'num': 14,
+    'photo': 'https://img.dushu.com/2022/01/19/13233337546406004.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '中文版Altium Designer 21电路设计与仿真从入门到精通（实战案例版）',
+    'num': 15,
+    'photo': 'https://img.dushu.com/2022/01/19/13231771846405097.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '大数据原理与实战',
+    'num': 16,
+    'photo': 'https://img.dushu.com/2022/01/19/13225965146409412.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '大数据分析及应用实践（第三版）',
+    'num': 17,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '编程真好玩：小朋友都喜欢看的Scratch编程书',
+    'num': 18,
+    'photo': 'https://img.dushu.com/2022/01/19/13215826446407288.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'SylixOS设备驱动程序开发',
+    'num': 21,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '跟闪电侠学 Netty：Netty 即时聊天实战与底层原理',
+    'num': 22,
+    'photo': 'https://img.dushu.com/2022/02/23/112323655117407975.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '人工智能',
+    'num': 23,
+    'photo': 'https://img.dushu.com/2022/02/18/11025331663166761.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'PyTorch深度学习实战',
+    'num': 24,
+    'photo': 'https://img.dushu.com/2022/02/18/1102491026316861.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '信息系统审计',
+    'num': 25,
+    'photo': 'https://img.dushu.com/2022/02/18/11024168863164818.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'AutoCAD 2020机械设计从入门到精通（实战案例视频版）',
+    'num': 26,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '区块链原理、技术及应用',
+    'num': 27,
+    'photo': 'https://img.dushu.com/2022/02/18/1101521376316384.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Perl语言IC设计实践',
+    'num': 28,
+    'photo': 'https://img.dushu.com/2022/02/18/11014793463162848.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '城市大脑的起源、建设与未来',
+    'num': 14,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '基于SPSS的数据分析（第5版）',
+    'num': 15,
+    'photo': 'https://img.dushu.com/2022/02/26/125007215177841385.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '用户体验四维度',
+    'num': 16,
+    'photo': 'https://img.dushu.com/2022/02/26/124958107177843663.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '元宇宙：新时代新商业新场景',
+    'num': 17,
+    'photo': 'https://img.dushu.com/2022/02/26/124952177177845636.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '持续API管理',
+    'num': 18,
+    'photo': 'https://img.dushu.com/2022/02/26/124934439177848731.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python辅助Word+Excel：让办公更高效',
+    'num': 19,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '计算机网络基础与安全技术研究',
+    'num': 20,
+    'photo': 'https://img.dushu.com/2022/03/01/09323047219043719.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '信息化项目合规性和风险管控200例',
+    'num': 21,
+    'photo': 'https://img.dushu.com/2022/03/01/09323465719042891.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'IT创新创业六讲',
+    'num': 20,
+    'photo': 'https://img.dushu.com/2022/01/27/204502892465404957.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'CCF 2019-2020中国计算机科学技术发展报告',
+    'num': 21,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '旅游电子商务（第二版）',
+    'num': 22,
+    'photo': 'https://img.dushu.com/2022/01/24/163603237827761071.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '网页设计与制作（HTML+CSS+JavaScript 第3版）',
+    'num': 23,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'ASP.NET MVC网站开发从入门到实战：微课视频版（从入门到实战·微课视频）',
+    'num': 24,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '电商存储系统实战：架构设计与海量数据处理',
+    'num': 21,
+    'photo': 'https://img.dushu.com/2022/01/11/17251638117285572.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '高效使用Greenplum：入门、进阶与数据中台',
+    'num': 22,
+    'photo': 'https://img.dushu.com/2022/01/11/1725124051728511.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据可视化',
+    'num': 23,
+    'photo': 'https://img.dushu.com/2022/01/11/17250830717284055.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'PHP微网站开发实例教程',
+    'num': 6,
+    'photo': 'https://img.dushu.com/2022/03/08/163517123143882306.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Adobe Photoshop 2021经典教程（彩色版）',
+    'num': 7,
+    'photo': 'https://img.dushu.com/2022/03/08/163501174143884816.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '视听媒体虚拟现实内容创作研究',
+    'num': 8,
+    'photo': 'https://img.dushu.com/2022/03/08/163442111143889530.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '中文版After Effects 2021入门教程',
+    'num': 9,
+    'photo': 'https://img.dushu.com/2022/03/08/163434602143881428.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '3ds Max 2022工具详解与实战（视频微课 全彩版）',
+    'num': 10,
+    'photo': 'https://img.dushu.com/2022/03/08/163430549143887569.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Word/Excel/PPT/思维导图办公应用：从入门到精通',
+    'num': 11,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '统计工程导论',
+    'num': 19,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据挖掘原理（第4版）',
+    'num': 20,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据结构)（C语言版 第2版·微课版）',
+    'num': 21,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '编程超简单！和孩子一起玩转Scratch 3.0（微视频版）',
+    'num': 22,
+    'photo': 'https://img.dushu.com/2022/01/19/13212419246405189.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'MicroPython开发与实战',
+    'num': 23,
+    'photo': 'https://img.dushu.com/2022/01/19/13211776046405036.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '从零开始构建深度前馈神经网络（Python+TensorFlow 2.x）',
+    'num': 24,
+    'photo': 'https://img.dushu.com/2022/01/19/1321106144640280.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python程序设计项目学习课堂（微课版）',
+    'num': 29,
+    'photo': 'https://img.dushu.com/2022/02/18/11014349963161200.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Spring Boot+MVC实战指南',
+    'num': 30,
+    'photo': 'https://img.dushu.com/2022/02/18/1101377563167459.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Processing创意编程与交互设计',
+    'num': 31,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'x64汇编语言：从新手到AVX专家',
+    'num': 32,
+    'photo': 'https://img.dushu.com/2022/02/18/11012849263163815.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python网络爬虫技术手册：基础·实战·强化',
+    'num': 33,
+    'photo': 'https://img.dushu.com/2022/02/18/11011455163163399.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '网络服务功能链优化部署',
+    'num': 22,
+    'photo': 'https://img.dushu.com/2022/03/01/09323878919041299.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '华为网络技术系列 园区网络架构与技术（第2版）',
+    'num': 23,
+    'photo': 'https://img.dushu.com/2022/03/01/09324275019042772.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '华为网络技术系列 SD-WAN架构与技术（第2版）',
+    'num': 24,
+    'photo': 'https://img.dushu.com/2022/03/01/09324675119049785.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '图解Spark 大数据快速分析实战',
+    'num': 1,
+    'photo': 'https://img.dushu.com/2022/02/16/095856709124807219.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'C#开发手册：基础·案例·应用',
+    'num': 2,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '网页设计与制作',
+    'num': 1,
+    'photo': 'https://img.dushu.com/2022/03/17/175308631109645384.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '微服务即学即用',
+    'num': 2,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python数据结构和算法实战（第2版）',
+    'num': 1,
+    'photo': 'https://img.dushu.com/2022/03/17/174719627109641037.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Spark实战（第2版）',
+    'num': 2,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '现代数据科学（R语言·第2版）',
+    'num': 3,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'JavaScript ES8函数式编程实践入门（第2版）',
+    'num': 4,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'SolidWorks 2021机械与钣金设计完全实战技术手册',
+    'num': 25,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'AutoCAD快速绘图完全实战技术手册',
+    'num': 26,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '3ds max+Photoshop游戏场景设计',
+    'num': 27,
+    'photo': 'https://img.dushu.com/2022/01/24/163519616827763028.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '图像识别技术与实战（OpenCV+dlib+Keras+Sklearn+TensorFlow）',
+    'num': 28,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '基于EXCEL的财务金融建模实训',
+    'num': 29,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Excel商务办公最强教科书（完全版）',
+    'num': 30,
+    'photo': 'https://img.dushu.com/2022/01/24/163452456827763209.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '活动中台：揭秘vivo的千万级DAU活动中台',
+    'num': 24,
+    'photo': 'https://img.dushu.com/2022/01/11/17250395017286312.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '滚烫元宇宙：6小时从小白到资深玩家',
+    'num': 25,
+    'photo': 'https://img.dushu.com/2022/01/11/17245855217287587.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Flink技术内幕：架构设计与实现原理',
+    'num': 26,
+    'photo': 'https://img.dushu.com/2022/01/11/17245441717283955.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '文件系统技术内幕：大数据时代海量数据存储之道',
+    'num': 27,
+    'photo': 'https://img.dushu.com/2022/01/17/10180188921687600.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '金融级IT架构与运维：云原生、分布式与安全',
+    'num': 28,
+    'photo': 'https://img.dushu.com/2022/01/11/17244545217281216.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '嵌入式多核DSP高性能软件开发',
+    'num': 29,
+    'photo': 'https://img.dushu.com/2022/01/17/101806992168360.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Word高效商务办公一本通',
+    'num': 12,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Word/Excel/PPT从入门到精通（全彩案例视频版）',
+    'num': 13,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Word、Excel、PPT高级应用',
+    'num': 14,
+    'photo': 'https://img.dushu.com/2022/03/08/163402666143883625.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '深度学习技术应用',
+    'num': 15,
+    'photo': 'https://img.dushu.com/2022/03/08/163350861143882503.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '局域网组建实训（第二版）',
+    'num': 16,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Kerberos域网络安全从入门到精通',
+    'num': 17,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '信息通信工程建设与管理',
+    'num': 18,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '隐私计算：推进数据可用不可见的关键技术',
+    'num': 19,
+    'photo': 'https://img.dushu.com/2022/03/08/163333744143889475.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '分布式应用系统架构设计与实践',
+    'num': 25,
+    'photo': 'https://img.dushu.com/2022/01/19/13210449346405318.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '云控制与决策理论及其应用',
+    'num': 26,
+    'photo': 'https://img.dushu.com/2022/01/14/115102615936835.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '情感计算手册',
+    'num': 27,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '前瞻交互：从语音、手势设计到多模融合',
+    'num': 28,
+    'photo': 'https://img.dushu.com/2022/01/14/11504887759368609.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '量子机器学习及区块链技术导论',
+    'num': 29,
+    'photo': 'https://img.dushu.com/2022/01/14/11504469059363025.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '智能运维之道：基于AI技术的应用实践',
+    'num': 30,
+    'photo': 'https://img.dushu.com/2022/01/14/11504045059369949.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'TensorFlow深度学习（Python版）',
+    'num': 31,
+    'photo': 'https://img.dushu.com/2022/01/14/11503565059369207.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '电路板设计与开发：Altium Designer应用教程',
+    'num': 32,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Koa开发：入门、进阶与实战',
+    'num': 34,
+    'photo': 'https://img.dushu.com/2022/02/18/11011025063164783.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '深入浅出隐私计算：技术解析与应用实践',
+    'num': 35,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'MG动画制作基础培训教程（全彩版）',
+    'num': 36,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '和秋叶一起学：秒懂PhotoShop图像处理+创意特效+后期修图（套装共3册）',
+    'num': 37,
+    'photo': 'https://img.dushu.com/2022/02/17/134105651221261.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '和秋叶一起学：秒懂Photoshop图像处理',
+    'num': 38,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Linux系统管理（第3版）',
+    'num': 25,
+    'photo': 'https://img.dushu.com/2022/02/26/124838361177843063.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '嵌入式系统设计与应用：基于ARM Cortex-A8和Linux',
+    'num': 26,
+    'photo': 'https://img.dushu.com/2022/03/01/0932507581904385.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Flink大数据分析实战',
+    'num': 27,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '云计算安全：机器学习与大数据挖掘应用实践',
+    'num': 28,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Access 2016数据库应用基础',
+    'num': 29,
+    'photo': 'https://img.dushu.com/2022/02/26/124810590177842862.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Arduino开发入门与创意应用',
+    'num': 30,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python Web开发手册：基础·实战·强化',
+    'num': 3,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '21天学通Java（第8版）',
+    'num': 4,
+    'photo': 'https://img.dushu.com/2022/02/16/095746844124806119.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'C语言开发手册：基础·案例·应用',
+    'num': 5,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Head First设计模式（第二版）',
+    'num': 6,
+    'photo': 'https://img.dushu.com/2022/02/16/095732842124802987.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python工匠：案例、技巧与工程实践（基于Python 3.8，实现从入门到工匠的跃迁）',
+    'num': 7,
+    'photo': 'https://img.dushu.com/2022/02/14/113746997161563447.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Premiere Pro 2022从入门到精通',
+    'num': 3,
+    'photo': 'https://img.dushu.com/2022/03/17/17525274410964365.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'After Effects 2022从入门到精通',
+    'num': 4,
+    'photo': 'https://img.dushu.com/2022/03/17/17524882610964844.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '中文版Photoshop 2021从入门到精通：案例视频版 PS视频教程 自学教程（彩色印刷+视频讲解）',
+    'num': 5,
+    'photo': 'https://img.dushu.com/2022/03/17/175227594109649053.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '刻板印象挖掘中的关键技术',
+    'num': 6,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Moldflow模流分析与工程应用',
+    'num': 7,
+    'photo': 'https://img.dushu.com/2022/03/17/175151424109647369.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'After Effects CC 2019标准培训教程',
+    'num': 8,
+    'photo': 'https://img.dushu.com/2022/03/17/175147166109644293.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'AutoCAD 2022快速入门、进阶与精通',
+    'num': 9,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Photoshop 2021淘宝美工全能一本通：抠图修图+视觉合成+海报设计+网店装修',
+    'num': 10,
+    'photo': 'https://img.dushu.com/2022/03/17/175137564109644444.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python编程基础与科学计算',
+    'num': 5,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python程序开发（高级）',
+    'num': 6,
+    'photo': 'https://img.dushu.com/2022/03/17/174659793109644546.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Java Web入门很轻松（微课超值版 入门很轻松）',
+    'num': 7,
+    'photo': 'https://img.dushu.com/2022/03/17/174655804109641122.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Spring Boot企业级项目开发实战',
+    'num': 8,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Java网络编程实战',
+    'num': 9,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '程序设计语言原理（原书第12版）',
+    'num': 10,
+    'photo': 'https://img.dushu.com/2022/03/17/174639208109646277.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'C# 8.0本质论',
+    'num': 11,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Excel函数与公式最强教科书（完全版）',
+    'num': 31,
+    'photo': 'https://img.dushu.com/2022/01/24/163448312827769577.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '跟我学做Excel会计达人：基础篇',
+    'num': 32,
+    'photo': 'https://img.dushu.com/2022/01/24/163441377827763709.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Excel 2016在会计中的应用（微课版）',
+    'num': 33,
+    'photo': 'https://img.dushu.com/2022/01/24/163436980827765649.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '软件定义网络',
+    'num': 34,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Windows Server 2016项目化教程',
+    'num': 35,
+    'photo': 'https://img.dushu.com/2022/01/24/163414242827767479.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Knative快速入门与实践',
+    'num': 36,
+    'photo': 'https://img.dushu.com/2022/01/24/16340943827765689.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数字图像及视频篡改检测技术',
+    'num': 37,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'HoloLens 2开发入门精要：基于Unity和MRTK',
+    'num': 38,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '基于Proteus的电路与PCB设计（第2版）',
+    'num': 30,
+    'photo': 'https://img.dushu.com/2022/01/11/17235911217288429.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '嵌入式系统及其在无线通信中的应用开发',
+    'num': 31,
+    'photo': 'https://img.dushu.com/2022/01/11/172354972172821.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '单片机C语言程序设计实训100例：基于STC8051+Proteus仿真与实战',
+    'num': 32,
+    'photo': 'https://img.dushu.com/2022/01/11/1723474417283487.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '服务器虚拟化运维实践',
+    'num': 33,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '二级Python/全国计算机等级考试上机考试题库（2022年无纸化考试专用）',
+    'num': 34,
+    'photo': 'https://img.dushu.com/2022/01/11/1723226921728681.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '设计无忧：电商美工Photoshop实战技术',
+    'num': 35,
+    'photo': 'https://img.dushu.com/2022/01/11/17231597417284148.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '概率与统计：计算机科学视角',
+    'num': 36,
+    'photo': 'https://img.dushu.com/2022/01/11/17225850617281670.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '向上突破：不一样的产品经理',
+    'num': 37,
+    'photo': 'https://img.dushu.com/2022/01/11/17225395417286991.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '深入解析Windows操作系统（卷2 英文版·第7版）',
+    'num': 20,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Windows 11使用方法与技巧从入门到精通',
+    'num': 21,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'MySQL数据库开发与管理实战（微课视频版）',
+    'num': 22,
+    'photo': 'https://img.dushu.com/2022/03/08/163257641143882031.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Oracle 19C数据库应用（全案例微课版）',
+    'num': 23,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python 3 程序设计',
+    'num': 24,
+    'photo': 'https://img.dushu.com/2022/03/17/174818115109641482.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'OpenCV 4.0+Python机器学习与计算机视觉实战',
+    'num': 25,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '敏捷项目管理（第3版）',
+    'num': 26,
+    'photo': 'https://img.dushu.com/2022/03/08/163231978143885470.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Android App开发超实用代码集锦：jQuery Mobile+OpenCV+OpenGL',
+    'num': 33,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据结构（C语言版 第2版）',
+    'num': 34,
+    'photo': 'https://img.dushu.com/2022/01/14/11501889259369379.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '深度学习时代的计算机视觉算法',
+    'num': 35,
+    'photo': 'https://img.dushu.com/2022/01/14/11501450559363271.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Web安全360度全面防护',
+    'num': 36,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '集成学习入门与实战：原理、算法与应用',
+    'num': 37,
+    'photo': 'https://img.dushu.com/2022/01/14/11495530959361938.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'MATLAB R2020a入门、精通与实战',
+    'num': 38,
+    'photo': 'https://img.dushu.com/2022/01/14/11494733959369865.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'ASP.NET Core 5.0开发入门与实战',
+    'num': 39,
+    'photo': 'https://img.dushu.com/2022/01/14/11493486859363877.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '云计算和大数据服务：技术架构、运营管理与智能实践',
+    'num': 40,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '和秋叶一起学：秒懂Photoshop创意特效',
+    'num': 39,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据架构之道：数据模型设计与管控',
+    'num': 40,
+    'photo': 'https://img.dushu.com/2022/02/17/134052344122128009.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '高性能Spark',
+    'num': 31,
+    'photo': 'https://img.dushu.com/2022/02/26/124756881177844921.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '软件测试实战指南',
+    'num': 32,
+    'photo': 'https://img.dushu.com/2022/02/26/124752176177845259.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'PHP入门很轻松（微课超值版 入门很轻松）',
+    'num': 33,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Java开发手册：基础·案例·应用',
+    'num': 34,
+    'photo': 'https://img.dushu.com/2022/03/01/09331015919043878.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '趣味掌控板编程',
+    'num': 35,
+    'photo': 'https://img.dushu.com/2022/02/26/124740520177841364.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '程序设计基础上机指导与习题集（C语言）',
+    'num': 36,
+    'photo': 'https://img.dushu.com/2022/02/26/12473651217784764.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'SylixOS应用开发权威指南',
+    'num': 37,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '程序设计基础（C语言）',
+    'num': 38,
+    'photo': 'https://img.dushu.com/2022/02/26/124726294177849345.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '图解人工智能大全',
+    'num': 8,
+    'photo': 'https://img.dushu.com/2022/02/12/12464029276686179.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '机器学习：贝叶斯和优化方法（原书第2版）',
+    'num': 9,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Vue.js设计与实现',
+    'num': 10,
+    'photo': 'https://img.dushu.com/2022/02/12/12462727176687300.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'FFmpeg 音视频开发基础与实战',
+    'num': 11,
+    'photo': 'https://img.dushu.com/2022/02/12/12462170176684.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '半色调信息隐藏与防伪技术（第2版）',
+    'num': 12,
+    'photo': 'https://img.dushu.com/2022/02/12/12461570976684485.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '《关键信息基础设施安全保护条例》《数据安全法》和网络安全等级保护制度解读与实施',
+    'num': 13,
+    'photo': 'https://img.dushu.com/2022/02/12/12460948876684855.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Rootkit和Bootkit：现代恶意软件逆向分析和下一代威胁',
+    'num': 14,
+    'photo': 'https://img.dushu.com/2022/03/08/163621133143886517.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '中文版After Effects 2020基础教程',
+    'num': 11,
+    'photo': 'https://img.dushu.com/2022/03/17/175133775109646319.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '中文版Maya 2020基础培训教程',
+    'num': 12,
+    'photo': 'https://img.dushu.com/2022/03/17/175129924109645926.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Premiere Pro 2021实战从入门到精通',
+    'num': 13,
+    'photo': 'https://img.dushu.com/2022/03/17/175125774109642294.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Excel VBA与宏最强教科书（完全版）',
+    'num': 14,
+    'photo': 'https://img.dushu.com/2022/03/17/175115329109643176.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '竞争力：玩转职场Excel，从此不加班（第2版）',
+    'num': 15,
+    'photo': 'https://img.dushu.com/2022/03/17/175059136109648190.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Excel财务管理：从入门到精通',
+    'num': 16,
+    'photo': 'https://img.dushu.com/2022/03/17/175053928109642813.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Word+Excel+PPT+PS+远程办公+PDF文件处理6合1办公高手速成',
+    'num': 17,
+    'photo': 'https://img.dushu.com/2022/03/17/175048938109645135.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python编程入门与算法进阶',
+    'num': 12,
+    'photo': 'https://img.dushu.com/2022/03/17/174627807109642034.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'SOLIDWORKS Flow Simulation工程实例详解',
+    'num': 13,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '新手学电脑从入门到精通（Windows 11+Office 2021版）',
+    'num': 14,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '企业运营综合仿真实训（教）',
+    'num': 15,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '服务与资源调度',
+    'num': 16,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Web安全基础及项目实践)',
+    'num': 17,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '计算机应用基础',
+    'num': 18,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '水利水电工程BIM实施指南',
+    'num': 19,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Svelte和Sapper实战（Web开发与设计）',
+    'num': 39,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'OpenCV 4.5计算机视觉开发实战：基于Python',
+    'num': 40,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '产品经理实用手册：Axure RP原型设计实践（Web+App）',
+    'num': 38,
+    'photo': 'https://img.dushu.com/2022/01/11/17224996117289979.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'SaaS攻略：入门、实战与进阶',
+    'num': 39,
+    'photo': 'https://img.dushu.com/2022/01/11/17223489917282278.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据增长模型：数智时代的全栈产品运营思维、算法与技术',
+    'num': 40,
+    'photo': 'https://img.dushu.com/2022/01/11/17223059617283662.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'MATLAB 2020中文版完全实战一本通',
+    'num': 27,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Vue.js 3.x高效前端开发（视频教学版）',
+    'num': 28,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'CATIA V5-6R2018完全实战技术手册',
+    'num': 29,
+    'photo': 'https://img.dushu.com/2022/03/08/163201290143887350.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '全光园区网络架构与实现',
+    'num': 30,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python编程基础与自动化测试',
+    'num': 31,
+    'photo': 'https://img.dushu.com/2022/03/08/163149933143889642.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Java 微服务',
+    'num': 32,
+    'photo': 'https://img.dushu.com/2022/03/08/163145953143883066.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '动手学PyTorch深度学习建模与应用',
+    'num': 33,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python GUI开发手册：基础·实战·强化',
+    'num': 34,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '程序设计基础（Python语言）',
+    'num': 39,
+    'photo': 'https://img.dushu.com/2022/02/26/124722224177843205.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Metasploit Web渗透测试实战',
+    'num': 40,
+    'photo': 'https://img.dushu.com/2022/02/26/12471817617784652.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '基于PSoC的小型应用系统设计',
+    'num': 15,
+    'photo': 'https://img.dushu.com/2022/02/12/12455825476685595.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '土地工程大数据平台构建及应用',
+    'num': 16,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '云计算基础架构平台构建与应用（第2版）',
+    'num': 17,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '云端架构：基于云平台的41种可复用的架构最佳实践',
+    'num': 18,
+    'photo': 'https://img.dushu.com/2022/02/12/12452959476689397.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'HaaS物联网设备云端一体开发框架：AliOS Things最佳实践',
+    'num': 19,
+    'photo': 'https://img.dushu.com/2022/02/12/1245254876684718.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '嵌入式系统设计：基于STM32CubeMX与HAL库',
+    'num': 20,
+    'photo': 'https://img.dushu.com/2022/02/12/12445029476681921.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '产品领导力：杰出产品经理如何打造卓越产品和团队',
+    'num': 21,
+    'photo': 'https://img.dushu.com/2022/02/12/12441927776682898.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '软件定义网络中规则管理关键技术研究',
+    'num': 18,
+    'photo': 'https://img.dushu.com/2022/03/17/175030725109644467.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '深入理解分布式系统',
+    'num': 19,
+    'photo': 'https://img.dushu.com/2022/03/17/175013644109644672.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Linux是怎样工作的',
+    'num': 20,
+    'photo': 'https://img.dushu.com/2022/03/17/175009698109641563.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Spark 3.0大数据分析与挖掘：基于机器学习',
+    'num': 21,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '从实践中学习sqlmap数据库注入测试',
+    'num': 22,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Calcite数据管理实战',
+    'num': 23,
+    'photo': 'https://img.dushu.com/2022/03/17/174941550109647492.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Photoshop案例实战从入门到精通',
+    'num': 24,
+    'photo': 'https://img.dushu.com/2022/03/17/174937698109645463.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '用户体验与创新设计',
+    'num': 25,
+    'photo': 'https://img.dushu.com/2022/03/17/174933862109648658.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Electron入门与实战',
+    'num': 26,
+    'photo': 'https://img.dushu.com/2022/03/17/174918123109645035.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '制造数字化：CAD\\CAE核心技术及其应用',
+    'num': 20,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '面向特殊样本形式的多视角学习问题及其解决方法',
+    'num': 21,
+    'photo': 'https://img.dushu.com/2022/03/10/1423034585522069.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'AutoCAD机械制图案例大全',
+    'num': 22,
+    'photo': 'https://img.dushu.com/2022/03/10/14225866585528177.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python数据可视化实战',
+    'num': 23,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '负载均衡：高并发网关设计原理与实践',
+    'num': 24,
+    'photo': 'https://img.dushu.com/2022/03/10/14224446085528244.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数智化革命：价值驱动的产业数字化转型',
+    'num': 25,
+    'photo': 'https://img.dushu.com/2022/03/10/14223922685527209.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '游戏UI设计方法与案例应用解析',
+    'num': 26,
+    'photo': 'https://img.dushu.com/2022/03/10/14212540485523370.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '全国计算机等级考试四级教程：数据库原理',
+    'num': 27,
+    'photo': 'https://img.dushu.com/2022/03/10/14212043585522684.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python数据分析技术手册：基础·实战·强化',
+    'num': 35,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '代码的艺术：用工程思维驱动软件开发（双色精装版）',
+    'num': 36,
+    'photo': 'https://img.dushu.com/2022/03/08/163121550143881413.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '趣味学编程：特级教师带你零基础玩转Mind+',
+    'num': 37,
+    'photo': 'https://img.dushu.com/2022/03/08/163116748143882155.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Html5+JavaScript+Css3开发手册：基础·案例·应用',
+    'num': 38,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'C++开发手册：基础·案例·应用',
+    'num': 39,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '人工智能艺术与设计',
+    'num': 40,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '全彩电子元器件、万用表和示波器自学一本通（微视频版）',
+    'num': 22,
+    'photo': 'https://img.dushu.com/2022/02/12/12440241076687214.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '网店美工与视觉营销：淘宝、京东、拼多多、抖音、快手店铺装修',
+    'num': 23,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Excel财务数据处理与分析实战技巧精粹',
+    'num': 24,
+    'photo': 'https://img.dushu.com/2022/02/12/12434523576686339.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '国之重器出版工程 智能传感器技术与应用',
+    'num': 25,
+    'photo': 'https://img.dushu.com/2022/02/12/12433867376684790.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '软件架构实践（英文版·原书第4版）',
+    'num': 26,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据结构（C语言版 微课版 第2版）',
+    'num': 27,
+    'photo': 'https://img.dushu.com/2022/02/09/105419913122365965.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Java完全自学教程',
+    'num': 28,
+    'photo': 'https://img.dushu.com/2022/02/09/105244382122367838.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '青少年Python趣味编程',
+    'num': 29,
+    'photo': 'https://img.dushu.com/2022/02/09/105240149122363126.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '精通Hadoop 3',
+    'num': 27,
+    'photo': 'https://img.dushu.com/2022/03/17/17491486109646070.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '基于Python的DevOps',
+    'num': 28,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '现代控制系统分析与设计：基于MATLAB的仿真与实现',
+    'num': 29,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '智能前端技术与实践',
+    'num': 30,
+    'photo': 'https://img.dushu.com/2022/03/17/174841998109648890.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '安卓Frida逆向与协议分析',
+    'num': 31,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '程序员的底层思维',
+    'num': 32,
+    'photo': 'https://img.dushu.com/2022/03/17/17481411109643390.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Android高级图形程序设计',
+    'num': 33,
+    'photo': 'https://img.dushu.com/2022/03/17/1748107410964281.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '全国计算机等级考试三级教程：信息安全技术',
+    'num': 28,
+    'photo': 'https://img.dushu.com/2022/03/10/14211596385524647.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '数据法学',
+    'num': 29,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '新媒体营销实务（电子商务专业）',
+    'num': 30,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '电子商务数据分析（电子商务专业）',
+    'num': 31,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Illustrator实例教程（全彩微课版）',
+    'num': 32,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '遥感图像质量提升理论与方法',
+    'num': 33,
+    'photo': 'https://img.dushu.com/2022/03/10/14202651085524862.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python 3图像处理实战',
+    'num': 34,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '计算机仿真技术与CAD：基于MATLAB的控制系统（第5版）',
+    'num': 30,
+    'photo': 'https://img.dushu.com/2022/02/07/12022246392523673.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '知识图谱与认知智能：基本原理、关键技术、应用场景与解决方案（博文视点出品）',
+    'num': 31,
+    'photo': 'https://img.dushu.com/2022/02/07/12020657892528655.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '深度学习入门与TensorFlow实践',
+    'num': 32,
+    'photo': 'https://img.dushu.com/2022/02/07/12020240292529482.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '信息安全风险评估手册（第2版）',
+    'num': 33,
+    'photo': 'https://img.dushu.com/2022/03/08/163632224143882241.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '信息论――基础理论与应用（第5版）',
+    'num': 34,
+    'photo': 'https://img.dushu.com/2022/02/07/1201417659252898.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '计算机数学基础（第6版）',
+    'num': 35,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python编程训练入门：数据分析的准备',
+    'num': 34,
+    'photo': 'https://img.dushu.com/2022/03/17/174751964109644281.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'UGUI入门：Unity游戏界面设计与制作',
+    'num': 35,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Spring Security原理与实战',
+    'num': 36,
+    'photo': 'https://img.dushu.com/2022/03/17/174741469109649623.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Python监督学习',
+    'num': 37,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'C++20实践入门（第6版）',
+    'num': 38,
+    'photo': 'https://img.dushu.com/2022/03/17/174733825109641105.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Java Web开发相关技术及编程方法探究',
+    'num': 39,
+    'photo': 'https://img.dushu.com/2022/03/17/174729890109643220.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Scala编程（第5版）',
+    'num': 40,
+    'photo': 'https://img.dushu.com/2022/03/17/174724349109644288.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Photoshop CC移动UI设计实例教程（微课版）',
+    'num': 35,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '边做边学 Illustrator平面设计案例教程（微课版）',
+    'num': 36,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '开启人工智能之门：运用Excel体验学AI（原书第2版）',
+    'num': 37,
+    'photo': 'https://img.dushu.com/2022/03/10/14195583685527930.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'SSM+Spring Boot+Vue.js 3全栈开发从入门到实战（微课视频版）',
+    'num': 38,
+    'photo': 'https://img.dushu.com/2022/03/10/14190437585525015.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': 'Adobe InDesign 2020基础教材',
+    'num': 36,
+    'photo': 'https://img.dushu.com/2022/02/07/11594441092526137.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '和秋叶一起学：秒懂Photoshop后期修图',
+    'num': 37,
+    'photo': 'https://img.dushu.com/2022/02/07/11592636692524040.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '计算机网络安全理论及应用',
+    'num': 38,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '未来网络2030',
+    'num': 39,
+    'photo': 'https://img.dushu.com/2022/02/07/11591138492523831.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '国之重器出版工程 智联网',
+    'num': 40,
+    'photo': 'https://img.dushu.com/2022/02/07/1159072399252199.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '老年人营养与膳食指导',
+    'num': 39,
+    'photo': 'https://img.dushu.com/2022/03/08/163724409143888918.jpg_142.jpg',
+    'src': 'https://a.dushu.com/img/n142.png'
+} {
+    'name': '未来侦探团之人工智能篇 机器少年',
+    'num': 40,
+    'photo': None,
+    'src': 'https://a.dushu.com/img/n142.png'
+}

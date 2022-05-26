@@ -13,4 +13,5 @@ class ReadbooksItem(scrapy.Item):
     name = scrapy.Field()
     src = scrapy.Field()
     photo = scrapy.Field()
+    num = scrapy.Field()
     pass

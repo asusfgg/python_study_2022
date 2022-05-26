@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2022-03-30 16:08:12
- * @LastEditTime: 2022-04-07 10:39:00
+ * @LastEditTime: 2022-04-08 11:27:28
  * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: \python_study_2022\Scrapy基础\3-30-CrawlSpider\readme.md
@@ -14,7 +14,18 @@
 
     下载: 官网
     root key : 1042044920
-
+    启动方法
+    mysql -uroot -p密码
+    创建
+    create database 名字 charset=utf8 (这是定义字符集)
+    使用
+    use 数据库名
+    create 创建 table 表 book( 名字
+    创建主键
+    id int primary key auto_increment,
+    name行名 varchar(128 #这是长度), #注意逗号
+    src行名 varchar(128)
+    
 ### pymysql
 
     下载: pip
